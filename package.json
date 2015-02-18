@@ -1,0 +1,30 @@
+{
+  "name": "ratings_service",
+  "version": "1.0.0",
+  "description": "USATT ratings app node.js services",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/despreston/ratings.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Des Preston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/despreston/ratings/issues"
+  },
+  "homepage": "https://github.com/despreston/ratings",
+  "dependencies": {
+    "csv": "^0.4.1",
+    "express": "^4.11.2",
+    "fast-csv": "^0.5.5",
+    "q": "^1.1.2",
+    "restify": "^2.8.5",
+    "ya-csv": "^0.9.4"
+  }
+}
