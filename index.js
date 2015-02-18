@@ -7,5 +7,5 @@ var express = require('express'),
 app.locals.members = [];
 
 var server = app.listen(process.env.PORT | 3000, function() {
-    console.log("listening on " + port);
+    console.log("listening for requests");
 });
