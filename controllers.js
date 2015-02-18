@@ -1,17 +1,24 @@
+var q = require('q');
+
 module.exports = function (app, parser) {
     var module = {};
     var members = app.locals.members;
 
     module.lookupPlayer = function(name) {
         // This will be available 'outside'.
+        var deferred = q.defer();
+        var players = [];
 
         var combResults = function() {
             var start = console.time('player_lookup');
+
             for (var i = 0; i < members.length; i++) {
                 if (members[i].Name.indexOf(name) != -1) {
-                    console.log(members[i]);
+                    players.push(members[i]);
                 }
             }
+
+            deferred.resolve(players);
             console.timeEnd('player_lookup');
         };
 
@@ -23,6 +30,8 @@ module.exports = function (app, parser) {
         } else {
             combResults();
         }
+        return deferred.promise;
+
     };
 
     return module;

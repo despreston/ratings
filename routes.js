@@ -1,9 +1,17 @@
 function routes(app, controllers) {
-    app.get('/findPlayer/:playerName', function (req, res) {
+    app.use(function(req, res, next) {
+        res.header("Access-Control-Allow-Origin", "*");
+        res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+        next();
+    });
+
+    app.get('/findPlayer/:playerName', function (req, res, next) {
         console.log('Request to lookup Player: ' + req.params.playerName);
         var playerName = req.params.playerName;
-        var result = controllers.lookupPlayer(playerName);  //im just assuming you have a function called getPlayer
-        res.json(result);
+        var promise = controllers.lookupPlayer(playerName).then(function(result) {
+            console.log(result);
+            res.json(result);
+        });
     });
 }
 

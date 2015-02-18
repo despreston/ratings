@@ -6,19 +6,8 @@ var express = require('express'),
 
 app.locals.members = [];
 
-//CORS middleware
-var allowCrossDomain = function(req, res, next) {
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    res.header('Access-Control-Allow-Headers', 'Content-Type');
+var port = process.env.PORT | 3000;
 
-    next();
-};
-
-app.configure(function() {
-    app.use(allowCrossDomain);
-});
-
-var server = app.listen(process.env.PORT || 3000, function() {
-    console.log("listening on 3000");
+var server = app.listen(port, function() {
+    console.log("listening on " + port);
 });
