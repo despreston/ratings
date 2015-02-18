@@ -5,6 +5,10 @@ function routes(app, controllers) {
         next();
     });
 
+    app.get('/', function(req, res) {
+        res.sendfile('ratings_static/index.html');
+    });
+
     app.get('/findPlayer/:playerName', function (req, res, next) {
         console.log('Request to lookup Player: ' + req.params.playerName);
         var playerName = req.params.playerName;
