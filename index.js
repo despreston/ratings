@@ -4,6 +4,13 @@ var express = require('express'),
     controllers = require('./controllers')(app, parser),
     routes = require('./routes')(app, controllers);
 
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
+    next();
+});
+
 app.use(express.static(__dirname + '/ratings_static'));
 
 app.locals.members = [];
