@@ -30,7 +30,8 @@
 <div class="content" ng-controller="ratingsController">
     <div class="content-padded">
         <form ng-submit="findPlayer(name)">
-            <input type="submit" placeholder="Search (Last, First)" ng-model="name">
+            <input type="search" placeholder="Search (Last, First)" ng-model="name">
+            <input type="submit">
         </form>
         <div class="card">
             <ul class="table-view">

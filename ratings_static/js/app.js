@@ -1,6 +1,14 @@
-var baseUrl = 'http://ttratings.heroku.com';
+var baseUrl = 'http://ttratings.heroku.com/';
 
 angular.module('ratings', [])
+
+    .config(['$httpProvider', function($httpProvider) {
+        $httpProvider.defaults.useXDomain = true;
+        if ($httpProvider.defaults.headers.common['X-Requested-With'])
+        {
+            delete $httpProvider.defaults.headers.common['X-Requested-With'];
+        }
+    }])
 
     .service('services', function($http, $q) {
         this.findPlayer = function(data) {
