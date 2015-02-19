@@ -11,8 +11,8 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-    <!-- Include the compiled Ratchet CSS -->
     <link href="css/ratchet.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
     <!-- Include the compiled Ratchet JS -->
     <script src="js/ratchet.js"></script>
@@ -33,20 +33,18 @@
             <input type="search" placeholder="Search (Last, First)" ng-model="name">
             <input type="submit">
         </form>
-        <div class="card">
             <ul class="table-view">
                 <li class="table-view-cell media" ng-repeat="player in players">
                     <div class="media-body">
-                        {{player.Name}}
+                        {{player.Name}} ({{player.State}})
                         <p>
-                            Rated: {{player.Rating}}
-                            Id: {{player.Id}}
-                            Last Played: {{player.LastPlayedDate}}
+                            <span class="bold">Rated:</span> {{player.Rating}}
+                            <span class="bold">Id:</span> {{player.MemberID}}
+                            <span class="bold">Last Played:</span> {{player.LastPlayedDate}}
                         </p>
                     </div>
                 </li>
             </ul>
-        </div>
     </div>
 
 </div>
