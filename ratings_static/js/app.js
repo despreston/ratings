@@ -1,4 +1,4 @@
-var baseUrl = 'http://ttratings.heroku.com/';
+var baseUrl = 'http://ttratings.herokuapp.com/';
 
 angular.module('ratings', [])
 
