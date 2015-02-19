@@ -1,17 +1,7 @@
 var express = require('express'),
     cors = require('cors'),
-    app = express();
-
-app.use(cors());
-
-/*app.use(function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    next();
-});*/
-
-var parser = require('./parser'),
+    app = express(),
+    parser = require('./parser'),
     controllers = require('./controllers')(app, parser),
     routes = require('./routes')(app, controllers);
 
