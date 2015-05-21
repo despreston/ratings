@@ -1,5 +1,5 @@
-var baseUrl = 'http://ttratings.herokuapp.com/';
-//var baseUrl = 'http://localhost:3000/'
+//var baseUrl = 'http://ttratings.herokuapp.com/';
+var baseUrl = 'http://localhost:3000/'
 
 angular.module('ratings', [])
 
@@ -25,6 +25,7 @@ angular.module('ratings', [])
 
     .controller('ratingsController', ['$scope', 'services',
         function($scope, services) {
+            $scope.searched;
             $scope.players = [];
 
             $scope.findPlayer = function(playerName) {

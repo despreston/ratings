@@ -9,11 +9,18 @@ module.exports = function (app, parser) {
         var deferred = q.defer();
         var players = [];
 
+        var getLowerCase = function(s) {
+            return s.toLowerCase();
+        };
+
         var combResults = function() {
             var start = console.time('player_lookup');
 
             for (var i = 0; i < members.length; i++) {
-                if (members[i].Name.indexOf(name) != -1) {
+                var nameInList = getLowerCase(members[i].Name),
+                    inputName = getLowerCase(name);
+
+                if (nameInList.indexOf(inputName) != -1) {
                     players.push(members[i]);
                 }
             }
@@ -36,28 +43,3 @@ module.exports = function (app, parser) {
 
     return module;
 };
-
-
-
-
-
-/*function controllers(app) {
-    var lookupPlayer = function (name) {
-        var start = console.time('player_lookup');
-
-        for (var i = 0; i < members.length; i++) {
-            if (members[i].Name.indexOf(name) != -1) {
-                console.log(members[i]);
-            }
-        }
-
-        console.timeEnd('player_lookup');
-    };
-}
-
-
-    module.exports = {
-        lookupPlayer: controllers.lookupPlayer
-    };
-
-    */

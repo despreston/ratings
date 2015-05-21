@@ -30,9 +30,9 @@
     <div class="content-padded">
         <form ng-submit="findPlayer(name)">
             <input type="search" placeholder="Search (Last, First)" ng-model="name">
-            <input type="submit">
+            <input type="submit" ng-click='searched = true'>
         </form>
-            <ul class="table-view">
+            <ul class="table-view" ng-if="players.length">
                 <li class="table-view-cell media" ng-repeat="player in players">
                     <div class="media-body">
                         {{player.Name}} ({{player.State}})
@@ -44,6 +44,7 @@
                     </div>
                 </li>
             </ul>
+            <div ng-if='!players.length && searched'>No results</div>
     </div>
 
 </div>
