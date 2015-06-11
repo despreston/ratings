@@ -32,8 +32,9 @@ angular.module('ratings', [])
                 var promise = services.findPlayer(playerName);
                 promise.then(function(data) {
                     if (data.length == 0) {
-                        $scope.players.push('No players found. Remember: Search "Last name, First name"');
+                        $scope.message = 'No players found. Remember: Search "Last name, First name"';
                     } else {
+                        $scope.message = '';
                         $scope.players = data;
                     }
                     
