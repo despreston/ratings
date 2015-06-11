@@ -5,7 +5,7 @@ function routes(app, controllers) {
     });
 
     app.get('/findPlayer/:playerName', function (req, res, next) {
-        console.log('Request to lookup Player: ' + req.params.playerName);
+        console.log('***** REQUEST TO LOOKUP PLAYER ****** : ' + req.params.playerName);
         var playerName = req.params.playerName;
         var promise = controllers.lookupPlayer(playerName).then(function(result) {
             res.json(result);
