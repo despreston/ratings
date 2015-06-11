@@ -8,7 +8,6 @@ function routes(app, controllers) {
         console.log('Request to lookup Player: ' + req.params.playerName);
         var playerName = req.params.playerName;
         var promise = controllers.lookupPlayer(playerName).then(function(result) {
-            console.log(result);
             res.json(result);
         });
     });
