@@ -43,6 +43,9 @@ angular.module('ratings', [])
                 });
             };
 
+            $scope.clear = function() {
+                $scope.players = [];
+            };
 
         }]);
 

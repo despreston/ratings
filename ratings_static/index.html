@@ -28,10 +28,15 @@
         <div style="text-align:center;font-size:10pt">Updated 7/11/15</div>
         <form ng-submit="findPlayer(name)">
             <input type="search" placeholder="Search (Last, First)" ng-model="name">
-            <button type="submit" class="btn btn-primary btn-block btn-outlined" ng-click='searched = true'>
-                <span class="icon icon-search"></span>
-                Search
-            </button>
+            <div class="btn-inline-group">
+                <button type="submit" class="btn btn-primary btn-inline btn-outlined" ng-click='searched = true'>
+                    <span class="icon icon-search"></span>
+                    Search
+                </button>
+                <button type="submit" class="btn btn-negative btn-inline btn-outlined" ng-click='clear()'>
+                    Clear
+                </button>
+            </div>
         </form>
             <ul class="table-view" ng-if="players.length">
                 <li class="table-view-cell media" ng-repeat="player in players">
