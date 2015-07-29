@@ -46,6 +46,8 @@ angular.module('ratings', [])
             $scope.clear = function() {
                 $scope.players = [];
                 $scope.message = '';
+                $scope.name = '';
+                document.getElementById('search').focus();
             };
 
         }]);
