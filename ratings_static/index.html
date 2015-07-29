@@ -26,14 +26,14 @@
 <div class="content" ng-controller="ratingsController">
     <div class="content-padded">
         <div style="text-align:center;font-size:10pt">Updated 7/11/15</div>
-        <form ng-submit="findPlayer(name)">
+        <form ng-submit="findPlayer(name)" id='findplayerform'>
             <input type="search" placeholder="Search (Last, First)" ng-model="name">
             <div class="btn-inline-group">
                 <button type="submit" class="btn btn-primary btn-inline btn-outlined" ng-click='searched = true'>
                     <span class="icon icon-search"></span>
                     Search
                 </button>
-                <button type="submit" class="btn btn-negative btn-inline btn-outlined" ng-click='clear()'>
+                <button type="button" form="findplayerform" class="btn btn-negative btn-inline btn-outlined" ng-click='clear()'>
                     Clear
                 </button>
             </div>

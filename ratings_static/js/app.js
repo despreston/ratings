@@ -45,6 +45,7 @@ angular.module('ratings', [])
 
             $scope.clear = function() {
                 $scope.players = [];
+                $scope.message = '';
             };
 
         }]);
