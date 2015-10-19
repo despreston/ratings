@@ -1,5 +1,4 @@
 MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
-97632," Roach, Adam ",1010,NY,14623,M,9/30/2016,9/19/2015
 72287,"Aalvik, Aaryn ",263,WA,98683,F,8/31/2007,8/19/2006
 72284,"Aalvik, Gregory ",774,WA,98683,M,8/31/2007,8/19/2006
 72288,"Aalvik, Zakory ",501,WA,98683,M,8/31/2007,8/19/2006
@@ -147,7 +146,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88170,"Acosta, Luis ",1328,,,M,5/31/2013,4/1/2012
 71716,"Acosta, Mariel ",0,AZ,85747,F,5/31/2007,
 91688,"Acred, Danny ",1282,NC,28677,M,8/15/2013,8/3/2013
-94259,"Acselrod, Henry ",1029,NJ,08540,M,10/31/2016,5/9/2015
+94259,"Acselrod, Henry ",1077,NJ,08540,M,12/31/2016,10/3/2015
 39772,"Acton, Sharon ",0,CA,94954,F,12/31/2099,
 73187,"Acu, Ike ",1931,MN,55902,M,6/30/2011,5/30/2010
 33546,"Adachi, Ryousuke ",1744,CA,90660,M,5/31/2016,9/6/2015
@@ -209,7 +208,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 23045,"Adeleye, Ayomikun ",1820,DC,20020,M,1/31/2009,1/27/2008
 33506,"Adeleye, Babasola ",1625,DC,20001,M,3/31/2007,11/26/2006
 74622,"Adelman, David ",1415,,,M,6/3/2007,6/3/2007
-6972,"Adelman, Mark ",1810,CA,92196,M,10/31/2015,10/10/2014
+6972,"Adelman, Mark ",1810,CA,92196,M,10/31/2016,10/10/2014
 31450,"Adengada, Sharath P.",1641,OH,43016,M,3/31/2013,3/25/2012
 87070,"Adesina, Oluwasegun ",1100,PA,16802, ,12/31/2012,11/4/2011
 33970,"Adesiyan, Adebisi ",1958,TX,75235,M,3/31/2016,4/26/2015
@@ -814,7 +813,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81583,"An, Thomas ",1581,CA,95111,M,12/31/2014,8/30/2014
 93512,"An, Zhongxu ",1886,TX,75235,M,4/30/2016,6/13/2015
 87779,"Anand, Arjun ",1286,MI,48306,M,4/30/2014,9/1/2013
-84319,"Anand, Gautam ",1832,CA,94555,M,12/31/2015,8/30/2015
+84319,"Anand, Gautam ",1832,CA,94555,M,12/31/2016,8/30/2015
 97143,"Anand, Rishabh ",0,CA,95070,M,8/31/2016,
 75516,"Anand, Sumit ",1441,NC,28262,M,1/31/2009,12/9/2007
 64298,"Anand, Vinod ",1700,MO,63017,M,10/31/2007,9/11/2005
@@ -1143,7 +1142,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 76530,"Arokia-Raj, Vijay (Joe) ",834,NJ,08817,M,4/30/2011,5/8/2010
 22690,"Aron, Alexander ",1201,AZ,85716,M,5/31/2001,10/22/2000
 29086,"Aronov, Lazar ",2093,NY,11374,M,4/30/2007,6/12/2005
-18889,"Aronov, Nison ",2330,NY,,,12/31/2011,12/17/2011
+18889,"Aronov, Nison ",2330,NY,11230,M,12/31/2011,12/17/2011
 51779,"Aronson, James F.",1941,FL,33458,M,11/30/2015,7/13/2013
 87592,"Aronson, Jason ",1350,FL,34996,M,2/28/2013,2/12/2012
 24376,"Aronszajn, Mark ",400,WA,98103,M,1/31/2002,6/10/2001
@@ -1297,7 +1296,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 29013,"Aube, Stephane ",2064,SC,29642,M,7/31/2005,5/29/2005
 90535,"Aubuchon, Scott ",760,,, ,3/4/2013,2/17/2013
 72736,"Audey, Michael ",646,PA,16801,M,10/31/2007,11/4/2006
-82091,"Auerbach, Craig ",1623,NC,28211,M,4/30/2015,3/1/2015
+82091,"Auerbach, Craig ",1623,NC,28211,M,10/31/2016,3/1/2015
 30952,"Auge, Michael ",971,MN,55082,M,12/31/2007,2/28/2004
 26306,"Augestad, Al ",800,AK,99501,M,10/31/2002,3/10/2002
 42062,"Augestad, Karl A.",1759,AK,99503,M,6/30/2018,8/23/2015
@@ -1358,6 +1357,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 80711,"Avila, Andres ",2368,,64834,M,9/30/2016,9/6/2015
 61809,"Avila, Gilberto Colon ",1823,TX,75703,M,5/31/2010,3/7/2010
 16085,"Avila, Nicolas ",969,TX,76205,M,3/31/2013,6/16/2012
+97743,"AVILLA, CARLOS ",0,NY,11763,M,10/31/2016,
+96791,"Avilla, Kian I",0,NY,11763,M,10/31/2016,
 95960,"Avitia, Bryan ",1351,TX,78539,M,3/31/2016,4/26/2015
 95682,"Avram, Nicholas ",672,MA,02472,M,4/30/2016,3/29/2015
 88886,"Avram, Nicolae ",1559,TN,37830,M,9/30/2016,9/12/2015
@@ -1604,7 +1605,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 1034,"Baker, Nafez J.",2175,IL,60455,M,11/30/2015,10/28/2012
 83427,"Baker, Patricia ",945,NY,11432,F,8/31/2013,10/31/2010
 4015,"Baker, Paul ",0,FL,33764,M,12/31/2099,
-92781,"Baker, Quinn ",1709,IL,60305,M,3/31/2019,9/20/2015
+92781,"Baker, Quinn ",1711,IL,60305,M,3/31/2019,9/20/2015
 2446,"Baker, R. Brett ",545,OH,43081,M,3/31/2015,3/2/2014
 65447,"Baker, Richard ",1493,NY,13090,M,3/31/2016,9/19/2015
 81745,"Baker, Stuart ",1138,MA,02360,M,3/31/2016,3/29/2015
@@ -1712,7 +1713,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 91218,"Band, Joshua ",0,,,M,5/31/2014,
 92279,"Banda, Cesar ",1556,,,M,10/31/2014,11/23/2013
 91147,"Banda, Snikitha ",119,CA,95135,F,5/31/2014,4/6/2014
-83332,"Bandapally, Sunil ",1726,AZ,85363,M,5/31/2016,9/27/2015
+83332,"Bandapally, Sunil ",1728,AZ,85363,M,5/31/2016,9/27/2015
 70838,"Bandara, Nilantha ",1483,MO,63124,M,10/31/2016,4/1/2012
 83549,"Bandela, Srikanth ",1475,TX,76712,M,9/30/2015,9/7/2014
 72027,"Bander, Brian ",0,CT,06033,M,7/31/2007,
@@ -1973,7 +1974,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 80239,"Bashagurov, Mikhail ",1257,NH,03063,M,6/30/2010,3/21/2010
 81172,"Bashford, William ",1673,SC,29682,M,10/31/2010,10/11/2009
 75612,"Bashi, Kimberly ",393,NJ,07104,F,11/30/2008,5/25/2008
-96254,"Bashir,  Abdul ",1154,NJ,08854,M,4/30/2016,9/13/2015
+96254,"Bashir,  Abdul ",1150,NJ,08854,M,4/30/2016,9/13/2015
 96258,"Bashir,  Abdullah ",993,NJ,08854,M,4/30/2016,9/13/2015
 11534,"Bashman, Kevin ",891,KY,40291,M,4/30/1997,10/13/1996
 91252,"Basiao, James ",1387,CA,92691,M,6/30/2016,9/6/2015
@@ -2565,7 +2566,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 84833,"Bhargava, Shankar ",1256,NY,10128,M,2/29/2012,4/3/2011
 88654,"Bhari, Deep ",1332,NC,28314,M,7/31/2013,4/20/2013
 13322,"Bhartia, Saurabh ",1702,CA,94539,M,12/31/2015,5/30/2015
-94807,"Bhaskar, Ariv ",963,NJ,08536,M,10/31/2015,9/13/2015
+94807,"Bhaskar, Ariv ",957,NJ,08536,M,10/31/2018,10/3/2015
 24393,"Bhaskar, S ",1779,TX,77380,M,1/31/2002,6/30/2001
 96000,"Bhaskar, Saanvi ",83,NJ,08536,F,3/31/2016,7/19/2015
 97129,"Bhat, Akshath ",1271,NC,27603,M,7/20/2015,9/13/2015
@@ -3033,7 +3034,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 10143,"Bornstein, Josh ",1642,CA,90403,M,7/31/2018,6/21/2015
 75708,"Borodina, Olga ",1157,NY,11104,F,12/31/2008,3/30/2008
 91837,"Boron, Darriusz ",1652,IL,60638,M,9/30/2014,8/24/2013
-86528,"Borovik, Aleksandr ",0,NY,11229,M,10/31/2012,
+86528,"Borovik, Aleksandr ",0,NY,11229,M,10/31/2016,
 82706,"Borovik, Alex ",844,OR,97204,M,8/31/2015,8/23/2015
 83186,"Borovik, Alla ",518,OR,97222,F,3/31/2013,6/10/2012
 82779,"Borovik, Andrey ",898,OR,97204,M,8/31/2015,8/23/2015
@@ -3111,7 +3112,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 14847,"Boutier, Scott ",743,RI,02908,M,2/28/1998,7/26/1997
 75784,"Boutios, Ravios ",0,CA,91504,M,12/31/2008,
 96981,"Bouzat, Facundo ",0,MI,48104,M,6/30/2016,
-95499,"Bowen, John T",937,OK,73026,M,1/31/2016,6/20/2015
+95499,"Bowen, John T",932,OK,73026,M,1/31/2016,6/20/2015
 63740,"Bowen, Kay ",713,UT,,F,12/31/2099,10/8/2009
 8883,"Bowen, Steve ",1054,MI,48813,M,10/31/1996,4/14/1996
 87008,"Bower, Bruce ",1060,FL,33445,M,1/31/2013,1/8/2012
@@ -3382,7 +3383,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 73024,"Brookins, Phil ",1460,FL,33770,M,11/30/2008,10/12/2008
 76287,"Brooks, Andy ",707,TX,76023,M,2/28/2009,2/16/2008
 76286,"Brooks, Brandt ",808,TX,76023,M,2/28/2009,2/16/2008
-58499,"Brooks, Charles ",1330,AR,72150,M,11/30/2015,9/26/2015
+58499,"Brooks, Charles ",1330,AR,72150,M,11/30/2018,9/26/2015
 31617,"Brooks, Dave ",1123,FL,34476,M,6/30/2007,6/17/2006
 69989,"Brooks, Derrick ",792,VA,23464,M,9/30/2005,2/20/2005
 53827,"Brooks, Donald A.",1972,CT,06902,M,6/30/2008,11/11/2007
@@ -3553,7 +3554,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 76567,"Bruns, Jonathan Edward",864,CA,95209,M,9/30/2010,10/4/2009
 86323,"Brunshteyn, Mikhail ",1457,CA,94122,M,9/15/2011,9/5/2011
 71165,"Brunson, Omari ",253,GA,30331,M,9/30/2006,3/5/2006
-93350,"Brushman, Brad ",1459,MI,49441,M,5/31/2016,6/28/2015
+93350,"Brushman, Brad ",1449,MI,49441,M,5/31/2016,10/10/2015
 5225,"Bruss, Adam ",1216,WI,53122,M,10/31/2015,9/21/2014
 20822,"Bruton, James ",988,MI,48423,M,3/31/2001,2/26/2000
 23888,"Brutus, Bernard ",1869,FL,33067,M,5/31/2009,7/5/2008
@@ -3939,7 +3940,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 94675,"Cai, Lijian ",920,WI,53092,M,10/31/2015,9/20/2015
 32626,"Cai, Meijun ",2119,,,M,11/30/2013,3/3/2013
 25787,"Cai, Michael D",1530,NM,87544,M,9/30/2017,10/25/2014
-97494,"Cai, Peng ",1635,AZ,85308,M,9/30/2016,9/27/2015
+97494,"Cai, Peng ",1636,AZ,85308,M,9/30/2016,9/27/2015
 88973,"Cai, Rong ",2035,TX,77074,M,8/31/2013,7/29/2012
 87790,"Cai, Shawn ",1352,PA,19312,M,8/31/2016,8/22/2015
 33804,"Cai, Simon ",1225,CA,94108,M,11/30/2007,10/28/2007
@@ -4085,7 +4086,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 93598,"Cao, Chris ",1747,NY,11101,M,5/31/2015,5/24/2015
 77123,"Cao, Frank ",1183,MA,02141,M,5/31/2011,2/27/2011
 33176,"Cao, Guoqing ",1698,IN,46033,M,10/31/2007,9/9/2007
-97549,"Cao, Hua ",1495,TX,78767,F,9/30/2016,8/23/2015
+97549,"Cao, Hua ",1496,TX,78767,F,9/30/2016,8/23/2015
 69992,"Cao, Hui ",1757,VA,23602,M,9/30/2005,2/20/2005
 24364,"Cao, Jason ",1739,MD,20740,M,12/31/2005,11/27/2005
 96412,"Cao, Jason ",1510,,62648,M,4/30/2016,4/26/2015
@@ -4192,7 +4193,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 8746,"Carmack, Robert L.",1664,MD,21157,M,1/31/2006,4/16/2005
 85779,"Carmanov, Eujeniu ",1716,CA,91344,M,6/30/2015,8/17/2014
 85780,"Carmanov, Vladimir ",1187,CA,91344,M,6/30/2015,6/22/2014
-76879,"Carmean, Rick ",1468,MI,49686,M,4/30/2016,5/3/2015
+76879,"Carmean, Rick ",1452,MI,49686,M,4/30/2016,10/10/2015
 19087,"Carmenate, Diosman ",1940,FL,33172,M,4/30/2009,11/4/2000
 73549,"Carmona, Taylor ",915,OK,74114,M,5/31/2009,4/26/2008
 32353,"Carmoney, Sam ",274,IN,50169,M,6/30/2007,8/1/2004
@@ -4697,6 +4698,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 61859,"Chang, Angel E.",1087,NY,10547,M,5/31/2006,4/20/1997
 22291,"Chang, Anna ",1333,NY,11020,F,11/30/2010,11/28/2010
 91509,"Chang, Anthony ",992,VA,22124,M,7/31/2014,6/14/2014
+76129,"Chang, Bill Hoam ",2077,CA,91202,M,10/31/2016,6/8/2008
 93414,"Chang, Bliss ",1658,AL,36117,M,8/31/2016,8/15/2015
 1154,"Chang, Brian ",865,MD,20855,M,4/30/2006,4/10/2005
 3148,"Chang, Bruce ",764,PA,17011,M,3/31/2016,2/11/1995
@@ -4730,7 +4732,6 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 79749,"Chang, Hao ",191,PA,16802,F,4/30/2010,4/26/2009
 12091,"Chang, Hebron ",1601,AR,72116,M,5/31/1997,11/16/1996
 8334,"Chang, Hernan R.",1106,FL,32245,M,12/31/2014,6/23/2002
-76129,"Chang, Hoam ",2077,CA,91504,M,2/28/2009,6/8/2008
 77650,"Chang, Hong ",1551,NJ,08820,M,8/31/2014,4/7/2013
 4770,"Chang, Hou-Min ",1728,NC,27607,M,12/31/2099,1/25/2015
 86030,"Chang, Howard ",178,OR,97035,M,8/31/2012,8/13/2011
@@ -4806,7 +4807,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 84884,"Chang, Ting ",732,CA,94086, ,3/31/2012,2/20/2011
 94493,"Chang, Tomy ",1430,NC,28773,M,9/9/2014,8/30/2014
 92808,"Chang, Toshi ",1036,TX,77479,M,1/31/2015,1/11/2014
-97349,"CHANG, TSANG-SUNG ",988,NJ,08807,M,8/31/2016,9/13/2015
+97349,"CHANG, TSANG-SUNG ",1013,NJ,08807,M,8/31/2016,9/13/2015
 83460,"Chang, Vincent ",2009,IN,46074,M,8/31/2016,8/9/2015
 72734,"Chang, Walter ",843,CA,91710,M,10/31/2009,5/31/2009
 31932,"Chang, Wan Yin",1620,MD,20877,F,4/30/2007,7/8/2006
@@ -4977,7 +4978,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32593,"Chen, Abraham S. C.",1696,NY,10530,M,12/31/2099,2/26/2012
 34465,"Chen, Alan ",1250,TX,75093,M,5/31/2008,7/7/2007
 86321,"Chen, Alan ",1332,CA,94366,M,9/30/2014,5/19/2013
-88147,"Chen, Alan ",2161,NJ,07059,M,6/30/2018,9/27/2015
+88147,"Chen, Alan ",2164,NJ,07059,M,6/30/2018,10/3/2015
 1218,"Chen, Alan (MingHao) ",411,MD,21042,M,4/30/2006,4/3/2005
 73886,"Chen, Albert ",538,CA,91780,M,11/30/2011,8/31/2008
 90296,"Chen, Albert ",782,GA,30062,M,2/28/2014,2/2/2013
@@ -5011,7 +5012,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88271,"Chen, Bowen ",2517,MD,20876,M,6/30/2016,9/20/2015
 28464,"Chen, Brandon ",1689,CA,92617,M,10/31/2009,10/4/2009
 81015,"Chen, Brent ",2039,GA,30022,M,12/31/2015,12/1/2013
-31519,"Chen, Brian ",2246,CA,94301,M,5/31/2011,8/30/2015
+31519,"Chen, Brian ",2241,CA,94301,M,5/31/2011,8/30/2015
 82466,"Chen, Cameron ",430,CA,92618,M,4/30/2011,3/28/2010
 34044,"Chen, Carl ",1350,CA,,M,12/31/2005,6/12/2005
 78759,"Chen, Cassidy ",1087,NY,10013,F,5/31/2012,11/30/2008
@@ -5304,7 +5305,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 92826,"Chen, Xi ",2781,,, ,1/31/2015,12/1/2013
 94973,"Chen, Xianfeng ",1670,PA,16127,M,11/4/2014,10/19/2014
 80654,"Chen, Xiang ",1243,TX,77025,M,8/25/2009,8/9/2009
-25249,"Chen, Xianzhong ",1865,PA,18840,M,10/31/2015,9/19/2015
+25249,"Chen, Xianzhong ",1865,PA,18840,M,10/31/2016,9/19/2015
 80939,"Chen, Xiaofeng ",1597,OK,73071,M,9/30/2010,9/26/2009
 34449,"Chen, Xiaohui Joy ",1255,MO,65201,F,8/31/2006,7/31/2005
 87078,"Chen, XiaoJing ",479,PA,19107, ,12/31/2012,11/4/2011
@@ -5359,7 +5360,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 86500,"Cheng, Amanda ",238,CA,90007,F,10/31/2012,9/25/2011
 7767,"Cheng, Anchi ",1145,CA,92037,F,8/31/1996,1/21/1996
 82448,"Cheng, Andrew ",1801,NC,27519,M,7/31/2015,11/16/2014
-94901,"Cheng, Andrew ",348,NJ,08550,M,10/31/2015,6/14/2015
+94901,"Cheng, Andrew ",410,NJ,08550,M,10/31/2015,10/3/2015
 14025,"Cheng, Andy T.L.",1908,NY,11797,M,12/31/2006,4/4/2015
 84740,"Cheng, Bichu ",1036,MA,02138,M,2/29/2012,1/30/2011
 17781,"Cheng, Brian ",1440,CA,90007,M,11/30/2006,2/19/2006
@@ -5884,9 +5885,9 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75167,"Chrysanthou, Christos ",579,NJ,08755,M,9/30/2008,1/13/2008
 34069,"Chrzaszcz, Agnieszka ",2149,IL,60021,F,6/30/2008,12/30/2007
 32198,"Chtcherbakov, Max ",1766,NJ,07081,M,12/31/2008,11/25/2007
-96956,"Chu,  Charley ",1124,TX,75230,M,7/31/2016,8/1/2015
+96956,"Chu,  Charley ",1233,TX,75230,M,7/31/2016,8/1/2015
 86340,"Chu, Albert ",678,CA,91108,M,9/30/2013,8/26/2012
-71673,"Chu, Anthony ",2269,CA,95035,M,6/30/2016,9/26/2015
+71673,"Chu, Anthony ",2267,CA,95035,M,6/30/2016,9/26/2015
 13020,"Chu, Bin Hai ",2280,FL,33014,M,2/28/2018,9/6/2015
 95793,"Chu, Bryan ",688,CA,94619,M,2/29/2016,9/26/2015
 80875,"Chu, Calvin ",1016,NY,10036,M,10/31/2011,9/4/2011
@@ -5915,7 +5916,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 31275,"Chu, Khoi ",1720,FL,33764,M,5/31/2007,1/13/2007
 92109,"Chu, Kit Yee ",1505,MI,48823,M,11/30/2015,10/18/2014
 91525,"Chu, Natalie ",1227,CA,94619,F,7/31/2016,9/26/2015
-71675,"Chu, Nathaniel ",2250,CA,95035,M,9/30/2015,8/30/2015
+71675,"Chu, Nathaniel ",2247,CA,95035,M,9/30/2015,8/30/2015
 31403,"Chu, Paul ",433,NY,10306,M,2/28/2005,2/8/2004
 27570,"Chu, Paul ",484,FL,33014,M,5/31/2008,5/5/2007
 77587,"Chu, Peter ",1128,,, ,9/23/2008,7/20/2008
@@ -5951,7 +5952,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85247,"Chua, Sean ",1760,GA,30041,M,8/31/2015,8/2/2014
 73902,"Chuang, Cheng-Lung ",2022,NY,10013,M,3/31/2010,11/1/2009
 79323,"Chuang, David ",1095,NY,,M,3/6/2009,2/22/2009
-94902,"Chuang, Jasmine ",477,OR,97239,F,10/31/2015,7/11/2015
+94902,"Chuang, Jasmine ",477,OR,97239,F,10/31/2016,7/11/2015
 79321,"Chuang, Joshua ",1548,NY,10528,M,4/30/2011,4/11/2010
 83050,"Chuang, Ming ",1004,CA,92887,M,6/30/2015,6/7/2015
 96770,"Chuang, Ming-Feng ",1755,MN,55108,M,5/25/2015,5/24/2015
@@ -5969,10 +5970,10 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 4880,"Chui, Chuck ",1641,CA,,M,12/31/2099,3/15/2015
 82468,"Chui, Darryl ",923,CA,91709,M,4/30/2012,3/27/2011
 5631,"Chui, David ",0,MD,20898,M,6/30/1998,
-39894,"Chui, Jane Hone ",2135,MA,01730,F,11/30/2007,7/7/2002
+39894,"Chui, Jane Hone ",2150,MA,01730,F,11/30/2007,7/7/2002
 33808,"Chui, Kai ",959,WA,,M,11/30/2005,7/13/2008
 4885,"Chui, Lim Ming ",2110,NJ,08109,M,5/31/2016,8/1/2015
-33627,"Chui, Sherman ",1615,IL,60527,M,12/31/2099,8/9/2015
+33627,"Chui, Sherman ",1620,IL,60527,M,12/31/2099,8/9/2015
 74264,"Chu-Jon, Carlos ",1469,UT,84087,M,9/30/2013,4/21/2007
 18160,"Chuko, Alex ",547,TX,78705,M,11/30/1999,10/25/1998
 92170,"Chulikavit, Toon ",968,FL,33629,M,11/30/2015,11/15/2014
@@ -5980,6 +5981,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 70674,"Chun, Dan ",0,PA,16802,M,1/31/2007,
 4886,"Chun, David Warren",0,CA,94404,M,12/31/2099,
 85330,"Chun, Hui Cho ",782,MD,20832,F,4/13/2011,4/2/2011
+97762,"CHUN, JAEHYUNG ",0,NJ,07650,M,10/31/2016,
 85331,"Chun, Jai Hyung ",1206,VA,22079,M,4/13/2011,4/2/2011
 30417,"Chun, Jin-Woo ",1255,RI,02816,M,4/30/2006,4/3/2005
 83597,"Chun, John ",1102,TX,77084,M,9/15/2010,9/6/2010
@@ -6393,12 +6395,12 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78768,"Concepcion, Israel ",1750,,00769,M,12/31/2010,11/29/2009
 35051,"Conception, Jessica ",576,,,F,11/30/2006,12/17/2005
 4883,"Concha, Gonzalo ",1981,CA,90034,M,11/30/2009,12/16/2006
-96575,"Conde Gonzalez, Eyddy ",1547,MI,49509,M,5/31/2016,6/28/2015
+96575,"Conde Gonzalez, Eyddy ",1532,MI,49509,M,5/31/2016,10/10/2015
 34835,"Conder, Kara ",674,KY,40220,F,10/31/2006,10/15/2006
 26916,"Condez, Larry ",1820,FL,32225,M,11/30/2007,11/18/2006
 15421,"Condie, Caroline ",673,UT,84335,F,5/31/1998,10/17/1997
 82959,"Cone, Christopher ",435,AL,35209,M,5/31/2011,8/7/2010
-64672,"Cone, Derrick ",2011,AZ,85020,M,9/30/2016,9/27/2015
+64672,"Cone, Derrick ",2014,AZ,85020,M,9/30/2016,9/27/2015
 63554,"Cone, John T.",877,AL,35206,M,12/31/2017,8/16/2014
 79983,"Cone, Sara ",480,AL,35209,F,5/31/2010,4/25/2009
 93509,"Conidi, Daniel ",775,,,M,4/30/2015,1/18/2015
@@ -6412,7 +6414,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75122,"Connell, Don ",479,WA,98312,M,9/30/2008,10/7/2007
 54475,"Connell, Earl R.",1324,NJ,08859,M,12/31/2099,5/23/2010
 34681,"Connell, Gordon ",645,NY,11590,M,9/30/2006,9/4/2005
-5022,"Connell, Grant G",1700,AZ,85142,M,10/31/2017,9/27/2015
+5022,"Connell, Grant G",1704,AZ,85142,M,10/31/2017,9/27/2015
 34680,"Connell, Jalicia ",417,NY,11590,F,9/30/2006,9/4/2005
 34853,"Connell, LiLiya ",700,GA,30076,M,10/31/2010,10/8/2009
 5024,"Connelly, Michael E.",0,CO,80111,M,12/31/2099,
@@ -6598,11 +6600,11 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 31635,"Cort, Brian ",1758,NY,11226,M,4/30/2006,11/13/2005
 97190,"Cortes, Adriana ",1418,FL,33308,F,7/6/2015,7/5/2015
 47579,"Cortes, Jose F",1779,FL,33063,M,7/31/2010,11/1/2009
-5071,"Cortese, Jorge Daniel",1465,NC,27717,M,10/31/2016,7/19/2003
+5071,"Cortese, Jorge Daniel",1465,NC,27717,M,12/31/2016,7/19/2003
 20044,"Cortesi, Tony ",1166,CT,06110,M,12/31/2014,10/5/2014
 31984,"Cortez, Brandon ",802,CA,94309,M,11/30/2008,10/21/2007
 96329,"Cortez, Emilio ",1093,CA,91731,M,4/30/2016,5/3/2015
-92069,"Cortez, Nelson ",1330,CA,95210,M,1/31/2016,9/26/2015
+92069,"Cortez, Nelson ",1355,CA,95210,M,1/31/2016,9/26/2015
 96184,"Corvisy, Arnaud ",1038,CA,94109,M,4/30/2016,9/26/2015
 22649,"Corwin, Bruce ",1374,IN,46902,M,11/30/2008,12/9/2007
 82058,"Corwine, Damian ",769,WV,25404,M,2/28/2011,2/20/2010
@@ -6688,13 +6690,13 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 72988,"Coziahr, Debi ",909,MT,59903,F,11/30/2008,10/19/2008
 89415,"Crable, Bradley ",1216,CA,93105,M,10/31/2014,4/14/2013
 83457,"Crabtree, Garrett M.",0,KY,40031,M,8/31/2011,
-95450,"Crabtree, Nathan A",1404,AZ,85224,M,1/31/2016,9/27/2015
+95450,"Crabtree, Nathan A",1471,AZ,85224,M,1/31/2016,9/27/2015
 71009,"Crabtree, Rendell ",1389,TX,78552,M,9/30/2006,3/4/2006
 73474,"Cracker, Kenny ",484,NJ,07444,M,1/31/2008,1/21/2007
 80612,"Craft, Kim ",730,AZ,85704,F,8/31/2010,9/5/2009
 11751,"Cragg, Wayne ",1384,MI,48457,M,3/31/2005,4/25/2004
 70904,"Craig, David ",0,NY,13326,M,2/28/2009,
-22215,"Craig, Randall ",748,OR,97291,M,6/30/2015,6/6/2015
+22215,"Craig, Randall ",748,OR,97291,M,10/31/2016,6/6/2015
 27475,"Craig, Shirley ",1090,CA,91364,F,11/30/2006,12/5/2005
 72919,"Craig, Tom ",0,NY,13326,M,11/30/2007,
 93234,"Craighead, Kevin ",1126,TN,37030,M,3/31/2015,3/1/2014
@@ -7075,7 +7077,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 97303,"Dane,  Ping ",836,HI,96704,F,8/31/2016,8/16/2015
 71761,"Daneshjo, Solaiman ",1744,VA,22041,M,7/31/2013,6/30/2012
 86746,"Danforth, Douglas ",965,NH,03833,M,11/30/2014,4/22/2012
-89292,"Dang, Alyssa ",1028,NJ,08812,M,12/31/2016,9/13/2015
+89292,"Dang, Alyssa ",1029,NJ,08812,M,12/31/2016,9/13/2015
 63238,"Dang, An ",1801,PA,19153,M,12/31/2008,11/30/2008
 83365,"Dang, An ",1313,CA,91304,F,5/31/2015,1/18/2015
 32036,"Dang, Ann ",1348,CA,92708,F,6/30/2009,12/20/2008
@@ -7090,7 +7092,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 43628,"Dang, Linn ",1925,CA,91354,M,8/31/2014,9/4/2011
 34504,"Dang, Mary ",1267,OR,97230,F,11/30/2013,3/16/2013
 78231,"Dang, Ming ",484,CA,92708,M,10/31/2009,9/27/2008
-90808,"Dang, Sarah ",1150,NJ,08812,M,9/30/2016,9/13/2015
+90808,"Dang, Sarah ",1148,NJ,08812,M,9/30/2016,9/13/2015
 70051,"Dang, Tom ",803,CA,91506,M,2/28/2009,2/17/2008
 88893,"Dang, Vin ",1463,CA,93312,M,8/31/2013,12/2/2012
 83271,"Dang-Tran, Alexander ",1359,TX,78727,M,8/31/2018,8/23/2015
@@ -7110,7 +7112,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 16362,"Daniels, Steve ",1180,MN,55119,M,2/28/2009,1/27/2008
 85817,"Danielson, Lee ",1033,FL,32162,M,6/30/2016,9/19/2015
 80628,"Danieri, Stephan ",0,CA,92879,M,8/31/2010,
-97353,"Danilau, Maksim ",1564,MD,21117,M,8/31/2016,9/5/2015
+97353,"Danilau, Maksim ",1603,MD,21117,M,8/31/2016,10/3/2015
 33850,"Danke, Song ",1432,NJ,07039,M,8/31/2007,8/6/2006
 65750,"Dankert, Ronnie ",1398,IA,52804,M,1/31/2006,7/21/2001
 78584,"Danklefsen, Al ",1002,MO,63366,M,12/31/2010,3/29/2009
@@ -7191,8 +7193,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32324,"Dasika, Aditya ",831,NJ,,M,12/31/2004,5/23/2004
 78286,"D'Asostini, Evan ",650,NJ,07853,M,10/31/2009,10/12/2008
 73971,"Dass, Christopher ",1064,PA,16801,M,4/30/2008,4/15/2007
-92213,"Dassarma, Ainish ",1123,PA,18040,M,10/31/2016,9/27/2015
-96618,"Dassarma, Aishi ",73,PA,18040,M,5/31/2016,7/11/2015
+92213,"Dassarma, Ainish ",1238,PA,18040,M,10/31/2016,10/3/2015
+96618,"Dassarma, Aishi ",81,PA,18040,M,5/31/2016,10/3/2015
 86001,"Dassarma, Devaditya ",1559,PA,18040,M,10/31/2015,7/11/2015
 60396,"Dassonval, Philippe ",2208,NY,11377,M,6/30/2016,10/4/2015
 97499,"Dastani, Ashkan ",2017,OH,44720,M,9/30/2016,9/11/2015
@@ -7207,7 +7209,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81936,"Daugherty, Matt ",1186,CA,94928,M,3/31/2013,11/3/2012
 93087,"Daugherty, Michael ",1384,FL,32962,M,3/31/2016,5/2/2015
 11787,"Daughtery, Mike ",695,AZ,85719,M,5/31/1997,10/27/1996
-85679,"Dault, Joe ",1157,MI,49441,M,5/31/2016,7/11/2015
+85679,"Dault, Joe ",1162,MI,49441,M,5/31/2016,10/10/2015
 5223,"Daum, Larry ",198,GA,30071,M,12/31/2099,11/13/1999
 18238,"Daunais, Bill ",1155,CT,06443,M,5/31/1999,11/1/1998
 75807,"Dauplaise, Catherine ",2063,,,F,8/31/2010,12/1/2013
@@ -7259,7 +7261,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 87032,"Davila, Ruben ",1705,CA,95111,M,11/30/2015,5/30/2015
 94435,"Davis Jr, James ",730,WA,98106,M,9/30/2015,3/22/2015
 61446,"Davis, Adrienne ",291,UT,84117,F,5/31/2008,4/21/2007
-97383,"Davis, Akiva ",570,NY,10463,M,9/30/2016,8/16/2015
+97383,"Davis, Akiva ",570,NY,10463,M,9/30/2016,9/13/2015
 24056,"Davis, Alexander ",586,AR,72118,M,11/30/2007,11/4/2006
 33545,"Davis, Alvin B.",0,IL,60565,M,11/30/2005,
 32895,"Davis, Andrew ",1908,AL,35125,M,4/30/2017,8/15/2015
@@ -7430,7 +7432,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 93257,"Decraene, Parker J",1079,MI,48085,M,3/31/2015,3/22/2014
 86624,"Decristofaro, John ",1299,OH,45243,M,12/31/2015,3/8/2015
 83930,"Dee Roo, Adri ",1423,FL,32827,M,10/31/2011,4/9/2011
-97736,"Dee,  Jimmy ",1103,NY,11104,M,10/31/2016,10/4/2015
+97736,"Dee,  Jimmy ",1102,NY,11104,M,10/31/2016,10/4/2015
 35052,"Dee, Edward M.",825,NY,14004,M,5/31/2006,11/6/2005
 52448,"Dee, Howard ",780,CA,90028,M,12/31/2013,12/2/2012
 90208,"Deep, Jayaditya ",547,LA,71457,M,1/31/2014,1/19/2013
@@ -7644,7 +7646,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 84803,"Deshpande, Neena ",0,AR,72034,F,2/28/2014,
 78467,"Deshpande, Parag ",1277,AR,72034,,2/28/2014,9/24/2011
 84804,"Deshpande, Riya ",62,AR,72034,F,2/28/2014,2/18/2012
-62831,"Deshpande, Shekhar ",1621,NM,87506,M,10/31/2015,11/22/2014
+62831,"Deshpande, Shekhar ",1621,NM,87506,M,10/31/2016,11/22/2014
 84805,"Deshpande, Tanaya ",0,AR,72034,F,2/28/2014,
 69963,"Deshpande, Vivin ",1888,VA,23452,M,3/31/2006,8/14/2005
 64454,"Desiderio, Scott ",1591,PA,,M,12/31/2099,3/17/2013
@@ -7664,7 +7666,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 46244,"Deuchler, Jon T.",1690,MO,63119,M,5/31/2009,9/30/2007
 89873,"Dev, Rishi ",736,FL,33027,M,3/31/2015,2/8/2015
 91923,"Devalapalli, Pranav ",767,GA,30022,M,9/30/2016,7/19/2015
-95995,"Devasenapathy, Surya ",418,NJ,08540,M,3/31/2019,6/7/2015
+95995,"Devasenapathy, Surya ",465,NJ,08540,M,3/31/2019,10/3/2015
 87962,"Devecigil, Demir ",1306,MO,63303,M,4/30/2013,4/7/2013
 81012,"DeVenezia, Richard ",941,NY,13438,M,1/31/2017,9/19/2015
 85002,"Dever, John ",0,VA,22003,M,3/31/2012,
@@ -7701,6 +7703,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 7970,"Dezenberg, Paul ",1061,AL,35405,M,11/30/1999,4/17/1999
 93431,"Dhaka, Anmol ",1020,CA,94555,F,5/31/2018,7/11/2015
 79890,"Dhala, Zubair ",596,WI,53092,M,5/31/2010,4/18/2009
+97747,"Dham, Arnav ",310,NJ,08824,M,10/31/2016,10/3/2015
 97489,"Dhami, Amar S",108,CA,94539,M,9/30/2018,9/26/2015
 81937,"Dhami, Amir S",661,CA,94539,M,9/30/2018,9/26/2015
 14733,"Dhami, Parminder ",1878,CA,95630,M,3/31/2014,8/20/2011
@@ -7862,7 +7865,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 70453,"Ding, Bo ",1916,CA,95132,M,2/28/2007,2/18/2007
 27404,"Ding, David Di ",1715,GA,30907,M,11/30/2008,10/28/2007
 30444,"Ding, Don ",1056,AR,72211,M,10/31/2010,10/17/2009
-93511,"Ding, Emily ",1415,TX,75024,F,8/31/2018,8/23/2015
+93511,"Ding, Emily ",1418,TX,75024,F,8/31/2018,8/23/2015
 77267,"Ding, Feng Allan",1715,CA,95758,M,4/30/2016,4/18/2015
 77271,"Ding, Gary (GongYuan) ",1439,CA,94588,M,6/11/2008,5/25/2008
 88620,"Ding, Ji ",2044,OR,97477,M,6/30/2013,7/29/2012
@@ -7901,7 +7904,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 71487,"Dinkov, Assen ",1774,VA,24541,M,5/31/2007,4/29/2007
 75078,"Dinnall, Gordon ",0,MD,21044,M,9/30/2008,
 60672,"Dinnan, Matt ",0,CT,06430,M,12/31/2099,
-97077,"Diocares, Fedelino ",1603,MI,49508,M,7/31/2016,6/28/2015
+97077,"Diocares, Fedelino ",1746,MI,49508,M,7/31/2016,10/10/2015
 32098,"Dionne, Peter ",635,,,M,10/31/2004,4/18/2004
 94889,"Dipippo, Mark ",468,RI,02889,M,4/20/2015,4/19/2015
 71382,"Dipper, Allison ",0,NC,27613,F,4/30/2007,
@@ -7959,7 +7962,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 4386,"Dixon, Jim Bob ",0,MO,63801,M,12/31/1995,
 24336,"Dixon, John ",1864,WA,98043,M,3/31/2005,4/23/2006
 96135,"Dixon, Larry ",1328,SC,29229,M,4/9/2015,3/1/2015
-81533,"Dixon, Lawer ",1448,IL,60438,M,12/31/2018,9/20/2015
+81533,"Dixon, Lawer ",1449,IL,60438,M,12/31/2018,9/20/2015
 89243,"Dixon, Liz ",0,OR,97070,F,10/31/2013,
 73592,"Dixon, Oscar ",102,GA,30331,M,2/23/2007,2/3/2007
 8757,"Dixon, Steve ",1392,WA,98258,M,7/31/2005,8/25/2001
@@ -8004,6 +8007,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 73006,"Doan, Chris ",594,OR,97015,M,11/30/2007,8/25/2007
 87817,"Doan, Hong T.",929,TX,76132,M,3/31/2013,3/18/2012
 81212,"Doan, Hung ",1424,MN,55110,M,2/29/2012,2/5/2012
+94555,"Doan, Huy G",0,CA,90680,M,10/31/2016,
 83526,"Doan, Nghia ",2092,NY,11693,M,8/31/2010,8/29/2010
 19187,"Doan, Thomas ",1340,NH,03755,M,10/31/1999,4/3/1999
 70007,"Dobart, Josh ",842,VT,05765,M,3/31/2006,4/17/2005
@@ -8043,7 +8047,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78781,"Doi, Takahiro ",2482,CA,94804,M,12/31/2009,11/30/2008
 70772,"Dok, Daphne ",1790,AZ,85286,F,10/31/2016,9/27/2015
 70518,"Dok, Derrick .",2038,AZ,85286,M,7/31/2013,4/28/2013
-59781,"Dok, Panno ",2000,AZ,85249,M,7/31/2016,9/27/2015
+59781,"Dok, Panno ",2004,AZ,85249,M,7/31/2016,9/27/2015
 78433,"Doku, Eddie ",1077,NJ,08902,M,11/30/2010,9/13/2009
 95077,"Dolan, Ben ",196,NJ,08550,M,11/30/2015,2/28/2015
 69608,"Dolan, Kevin ",890,CT,06033,M,2/28/2015,3/16/2014
@@ -8539,7 +8543,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 71521,"Eaton, Jeff ",1057,IN,46037,M,11/30/2006,4/23/2006
 95078,"Eaton, Jonathan ",199,NJ,08540,M,11/30/2015,2/28/2015
 80139,"Eaton, Michael F",1669,FL,32724,M,5/31/2010,6/14/2009
-95079,"Eaton, Peter ",325,NJ,08540,M,11/30/2015,6/14/2015
+95079,"Eaton, Peter ",320,NJ,08540,M,11/30/2015,10/3/2015
 95070,"Eaton, Robert ",398,NJ,08540,M,11/30/2015,6/14/2015
 376,"Eaton, Ron ",1846,MI,49507,M,12/31/2099,12/20/1998
 19846,"Eav, Wendy ",1985,CA,90031,F,9/30/2006,6/25/2006
@@ -8677,7 +8681,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 27585,"Ek, Otto F. J.",0,MA,,M,12/31/2099,
 28749,"Ekanbit, Patrick ",1264,AZ,,M,8/31/2003,2/15/2004
 15771,"Ekbatani, Hamilton ",1103,CA,95402,M,6/30/1998,11/22/1997
-28878,"Ekbundit, Patrick ",1572,AZ,85224,M,4/30/2018,9/27/2015
+28878,"Ekbundit, Patrick ",1574,AZ,85224,M,4/30/2018,9/27/2015
 55206,"Ekiert, Piter ",2126,IL,60056,M,3/31/2015,3/4/2012
 90359,"Ekman, Ted ",1193,CA,94705,M,8/31/2015,12/20/2014
 60861,"Ekmekjian, Vahe ",1209,CA,91367,M,2/28/2014,7/6/2013
@@ -8839,6 +8843,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 86114,"Engel, PJ ",1645,IN,46077,M,9/30/2015,9/13/2015
 73583,"Engelbrecht, Christian ",1010,MN,55113,M,2/28/2010,5/30/2010
 89342,"Engelking, Britne ",0,MN,55008,F,10/31/2013,
+97753,"Engelmann, Mark ",0,NY,10024,M,10/31/2016,
 71982,"Enger, Alexander ",1086,WA,98103,M,6/30/2007,6/10/2007
 32248,"Engineer, Anand ",2341,CA,92870,M,10/31/2013,9/8/2013
 31643,"Engineer, Parul ",1988,CA,92870,M,6/30/2012,6/5/2011
@@ -9040,7 +9045,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 19357,"Everts, Howard ",779,MI,49441,M,12/31/1999,5/16/1999
 79564,"Everts, Jake ",813,MI,49696,M,8/31/2014,6/22/2014
 19351,"Everts, Larry ",1370,MI,49686,M,12/31/1999,5/16/1999
-5678,"Everts, Paul ",1808,MI,49686,M,5/31/2015,5/3/2015
+5678,"Everts, Paul ",1755,MI,49686,M,10/31/2018,10/10/2015
 73810,"Evlakhov, Vitaly ",1379,GA,39842,M,3/31/2008,3/24/2007
 93086,"Ewert, Matthew ",1159,FL,33322,M,2/28/2015,3/15/2014
 92506,"Eyan, Su ",0,PA,16801,F,11/30/2014,
@@ -9052,7 +9057,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34026,"Ezike, Chuks Samuel",0,CA,92505,M,6/30/2006,
 56902,"Ezmirlian, John ",1045,CA,90405,M,12/31/2099,8/26/2007
 29433,"Ezzat-Ahmadi, Hamid ",1921,OK,74080,M,1/31/2016,7/11/2015
-76503,"Ezzell, Bill ",969,NC,27804,M,4/30/2009,3/17/2008
+76503,"Ezzell, Bill ",1061,NC,27804,M,4/30/2009,3/17/2008
 7171,"Ezzo, Steve ",1431,CA,93953,M,10/31/2015,7/11/2015
 71012,"Fabel, Kyle ",824,,,M,9/30/2006,2/19/2006
 71548,"Fabian, Daisy Ann ",1461,IL,60463,F,5/31/2013,7/4/2012
@@ -9110,7 +9115,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89392,"Fallek, Cooper ",577,NY,10016,M,10/31/2013,10/21/2012
 82324,"Fallon, Michael ",967,IN,43607,M,11/30/2012,3/11/2012
 87480,"Falola, John Ayo ",1482,TX,75027,M,2/1/2012,1/14/2012
-95453,"Faltinowski, Jaron ",1290,MI,49417,M,1/31/2016,5/3/2015
+95453,"Faltinowski, Jaron ",1460,MI,49417,M,1/31/2016,10/10/2015
 93825,"Famiglietti, Marilv ",175,NY,11560,F,5/31/2015,5/17/2014
 52749,"Faminiba, Sam ",1582,NC,27611,M,7/31/2014,3/17/2013
 18750,"Fan, Alden ",2205,NJ,08544,M,4/30/2009,11/30/2008
@@ -9634,7 +9639,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 63553,"Flores, Rafael A.",2145,FL,33065,M,9/30/2016,9/6/2015
 84538,"Flores, Rick ",1661,NJ,07751,M,2/28/2013,4/15/2012
 16751,"Flores, Ruth ",396,CA,92231,F,10/31/1998,3/29/1998
-89311,"Flores, Salvador ",1610,AZ,85028,M,5/31/2016,9/27/2015
+89311,"Flores, Salvador ",1612,AZ,85028,M,5/31/2016,9/27/2015
 19819,"Flores, Victor ",1630,AZ,85282,M,10/31/2011,10/4/2009
 97346,"Florespan,  Enli ",705,NY,11355,F,8/31/2016,8/23/2015
 12015,"Flowers, Donny T.",1999,TN,38104,M,9/30/2015,9/26/2015
@@ -9769,7 +9774,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 5859,"Fortney, Dave ",1869,MI,49010,M,1/31/2013,9/9/2012
 65338,"Fortune, Fred ",1541,NY,11429,M,3/31/2006,9/7/2003
 33077,"Fortune, Gable ",562,MO,,M,4/30/2005,9/19/2004
-55055,"Foss, Peter A. ",1593,MN,56560,M,3/31/2016,8/29/2015
+55055,"Foss, Peter A. ",1596,MN,56560,M,3/31/2016,8/29/2015
 52299,"Foss, Rick ",0,MN,56560,M,9/30/2016,
 55506,"Foss, Robert ",1236,WA,98112,M,6/30/2009,6/8/2008
 45027,"Fossett, David ",1638,IL,61020,M,5/31/2008,2/16/2008
@@ -10078,7 +10083,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 86160,"Fuentes, Jerwien ",450,MO,64133,M,8/31/2012,9/17/2011
 73842,"Fuentes, Jorge ",2021,FL,33144,M,7/31/2014,6/30/2013
 79382,"Fuentes, Wilfredo ",2174,FL,33461,M,3/31/2011,3/14/2010
-30712,"Fuentes-Afflick, Tomas ",2064,CA,94131,M,11/30/2010,7/5/2008
+30712,"Fuentes-Afflick, Tomas ",2059,CA,94131,M,11/30/2010,7/5/2008
 27799,"Fuertes, Justo ",1914,FL,33024,M,2/28/2013,11/4/2012
 35214,"Fufaeva, Irina ",1789,IL,60615,F,12/31/2006,10/22/2006
 94895,"Fuga, Nicholas ",1027,FL,33130,M,10/31/2015,10/19/2014
@@ -10153,7 +10158,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78746,"Fuschetti, Paul ",808,PA,19067,M,12/31/2009,5/17/2009
 79850,"Fuschetti, Richard ",0,PA,19067,M,5/31/2010,
 52579,"Fuschino, Huiping ",1541,AZ,85224,F,4/30/2012,5/1/2011
-38188,"Fuschino, Michael ",1553,AZ,85224,M,12/31/2099,9/27/2015
+38188,"Fuschino, Michael ",1563,AZ,85224,M,12/31/2099,9/27/2015
 54405,"Futamura, Yoshihiko ",0,,191,M,12/31/2099,
 5952,"Futrell, Ashley B.",1293,NC,27889,M,12/31/2099,3/21/2010
 32525,"Futrell, Ashley Brown",824,NC,27889,M,7/31/2009,6/24/2007
@@ -10173,7 +10178,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 86212,"Gabbidon, Monica ",0,PA,17111,F,8/31/2012,
 86213,"Gabbidon, Shaun ",405,PA,17111,M,8/31/2012,9/18/2011
 84410,"Gabino, Israel ",1961,,00908,M,12/31/2011,11/28/2010
-82695,"Gableman, Jim ",1581,WI,53146,M,5/31/2016,9/20/2015
+82695,"Gableman, Jim ",1582,WI,53146,M,5/31/2016,9/20/2015
 93025,"Gabor, Bob ",1367,CT,06482,M,2/28/2015,10/5/2014
 64371,"Gabriel, Freddie ",2363,CA,94553,M,8/31/2014,12/21/2013
 88955,"Gabriel, Giorgio ",473,CA,94803,M,8/31/2013,8/17/2013
@@ -10397,7 +10402,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 26256,"Garba, Gregory ",0,NJ,,M,10/31/2002,
 26265,"Garber, Gregory ",1100,NJ,,M,10/31/2002,3/17/2002
 95942,"Garbiras, Ray ",824,GA,30666,M,3/31/2016,3/7/2015
-86888,"Garces, Pedro ",1792,TX,75080,M,6/30/2016,9/26/2015
+86888,"Garces, Pedro ",1793,TX,75080,M,6/30/2016,9/26/2015
 91129,"Garcia gomez, Juan David ",2295,,,M,5/31/2014,7/6/2013
 30382,"Garcia, Alexis ",1726,TX,77386,M,3/31/2017,7/5/2014
 30384,"Garcia, Andres ",813,TX,77573,M,3/31/2006,7/10/2005
@@ -10467,7 +10472,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75475,"Garge, Nikhil ",1910,NC,27707,M,6/30/2010,1/17/2010
 73679,"Garimella, Ravi Kiran ",1137,NJ,07869,M,3/31/2008,5/27/2007
 83420,"Garin, Daniel ",1077,NM,87571,M,12/31/2016,8/1/2015
-94669,"Garland, Dylan S",1728,IA,50023,M,10/31/2016,9/20/2015
+94669,"Garland, Dylan S",1729,IA,50023,M,10/31/2016,9/20/2015
 97065,"Garland, Gavin ",1032,CA,92354,M,6/28/2015,6/27/2015
 6001,"Garlanger, Donald R.",2111,NJ,08052,M,4/30/2007,11/30/2003
 74263,"Garlick, Tim ",915,UT,84004,M,5/9/2007,4/21/2007
@@ -10559,6 +10564,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 7686,"Gay, Craig ",1364,NE,68310,M,7/31/1996,1/21/1996
 76813,"Gay, Jacob ",110,IN,47501,M,4/30/2009,4/20/2008
 80588,"Gay, Robert ",1808,KS,66509,M,3/31/2018,7/19/2014
+97740,"Gayle, Dwayne K",0,NJ,07018,M,10/31/2016,
 84159,"Gayle, Omari ",1190,GA,30294,M,1/31/2012,1/2/2011
 16247,"Gaynor, Michael ",2319,NY,11208,M,6/30/2014,5/17/1998
 35032,"Gaynor, Michael ",1385,CA,95946,M,11/30/2010,3/14/2009
@@ -10677,6 +10683,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 77621,"Gereau, Bolling ",0,VA,24503,M,8/31/2009,
 80915,"Gereneser, Bela ",290,CA,91606,M,9/30/2013,5/22/2011
 71054,"Gerges, Raymond ",0,SC,29576,M,3/31/2007,
+97653,"Gerhardt, David ",1198,WI,53585,M,10/31/2016,9/20/2015
 6073,"Gerhardt, Joe ",905,CA,92128,M,2/28/2007,8/21/2005
 80916,"Geriak, Mark ",566,CA,93441,M,9/30/2010,9/20/2009
 28190,"Gerig, Daniel ",980,OR,97381,M,11/30/2010,11/8/2009
@@ -10697,7 +10704,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83244,"Geronimo, Alex ",0,TX,77478,M,7/31/2011,
 90722,"Gershilevich, Eric ",630,MO,63017,M,4/30/2014,4/7/2013
 97361,"Gershkovich,  Alex ",1177,PA,19129,M,8/23/2015,8/22/2015
-96406,"Gerson, Paul ",1290,NJ,07083,M,5/31/2016,9/6/2015
+96406,"Gerson, Paul ",1244,NJ,07083,M,5/31/2016,10/3/2015
 31345,"Gerson, Ross ",0,PA,17067,M,2/28/2005,
 33015,"Gertslinger, Dmitriy ",1736,NY,11223,M,10/31/2006,6/26/2005
 63325,"Gervacio, Nelson H. ",1811,TX,78259,M,8/31/2016,8/16/2015
@@ -10721,7 +10728,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 1995,"Gharakhan, Vahan ",2048,ON,L3T 5W3,M,12/31/2019,11/27/1994
 91140,"Gharpure, Chinmay ",1151,CA,95014,M,9/30/2015,12/7/2014
 85043,"Ghatak, Madhulika ",58,CA,94086,F,3/31/2012,3/18/2012
-62425,"Ghaziani, Nadir ",1462,IL,60659,M,10/31/2016,9/26/2015
+62425,"Ghaziani, Nadir ",1463,IL,60659,M,10/31/2016,9/26/2015
 21563,"Ghee, Sevron ",1356,NY,11216,M,10/31/2010,9/27/2009
 93992,"Gheissari, Reza ",884,CA,91011,M,6/30/2015,6/15/2014
 4473,"Gheorghe, Emilia ",2483,CO,80920,F,11/30/2015,10/10/2004
@@ -11271,6 +11278,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 11632,"Gopalan, Shri ",1225,MD,21157,M,8/31/2007,3/24/2007
 84990,"Gopaluni, Siva Sanker ",1051,IL,62901,M,3/31/2012,9/25/2011
 70476,"Gopin, Michael ",1776,TX,79912,M,10/31/2016,7/11/2015
+96804,"Gopinath, Shyam ",0,UT,84105,M,10/31/2016,
 83686,"Gopinathannair, Rakesh ",2108,KY,40241,M,10/31/2014,10/12/2014
 93938,"Gorani, Roger ",1961,CA,92878,M,6/30/2015,5/31/2014
 71988,"Gorbat, Roman ",869,CA,91423,M,7/31/2007,6/25/2006
@@ -11768,8 +11776,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34175,"Gudelman, Michael ",956,CA,91352,M,10/31/2007,9/17/2005
 1344,"Gudzenko, Gary ",1828,NY,11230,M,11/30/2015,2/9/2015
 70361,"Guegan, Sylvain ",1847,CO,80304,M,7/31/2010,6/20/2009
+81073,"Guerin Jr, Bill ",1431,CA,94133,M,10/31/2017,12/21/2013
 75062,"Guerin, Bill ",1511,AZ,85253,M,12/31/2015,6/7/2015
-81073,"Guerin, Bill ",1431,AZ,85251,M,10/31/2017,12/21/2013
 78193,"Guerra, Ralph ",543,UT,,M,10/21/2008,10/9/2008
 88243,"Guerrant, Anne ",624,AZ,85233,F,5/9/2012,5/5/2012
 91631,"Guerrant, Terry ",594,AZ,85233,M,8/6/2013,7/28/2013
@@ -11862,7 +11870,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32521,"Guo, Annie ",2107,NY,11364,F,12/31/2012,11/25/2012
 94082,"Guo, Betty ",705,US,,F,8/31/2015,5/17/2014
 82838,"Guo, Betty(Han) ",2081,AB,T5M3K6,F,6/30/2016,7/11/2015
-89224,"Guo, Bryan ",1465,UT,84093,M,9/30/2015,12/20/2014
+89224,"Guo, Bryan ",1465,UT,84070,M,10/31/2016,12/20/2014
 71222,"Guo, Chao ",1764,MA,02421,M,4/30/2010,8/11/2007
 87687,"Guo, Chengzi ",760,CA,95070,F,3/31/2015,3/2/2013
 92557,"Guo, Deng Hui ",1393,CA,94538,M,5/31/2016,11/9/2013
@@ -11925,7 +11933,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 97542,"Gupta, Amit Kumar ",0,CA,95134,M,9/30/2016,
 95610,"Gupta, Anirudh ",699,TX,78759,M,1/31/2016,8/23/2015
 82152,"Gupta, Arjun ",975,CA,90035,M,4/30/2016,2/20/2011
-96581,"Gupta, Arul ",67,,8844,M,5/10/2015,5/9/2015
+96581,"Gupta, Arul ",67,,8844,M,10/31/2016,10/3/2015
 90343,"Gupta, Avi ",1036,CA,94087,M,5/31/2016,7/11/2015
 95620,"Gupta, Avneet (Avi) ",884,FL,33647,M,2/13/2015,1/24/2015
 78281,"Gupta, Ayushi ",946,PA,19454,M,10/31/2009,10/12/2008
@@ -11963,7 +11971,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 97338,"Gurau, Nathan ",497,TX,78232,M,8/31/2016,8/16/2015
 82472,"Gurba, David ",312,CA,93455,M,4/30/2011,3/28/2010
 31396,"Gurdian, Rhonda ",382,MD,20879,F,2/28/2005,2/8/2004
-32668,"Gurevich, Boris ",1777,NY,11230,M,10/31/2015,12/20/2014
+32668,"Gurevich, Boris ",1777,NY,11230,M,10/31/2016,12/20/2014
 34287,"Gurevich, Garik ",1483,NY,11230,M,7/31/2006,7/17/2005
 82006,"Gurganus, Brandon ",1030,TX,79605,M,2/28/2011,2/13/2010
 75513,"Gurhan, Ercan ",298,NC,28203,M,11/14/2007,10/28/2007
@@ -12045,7 +12053,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 33029,"Ha, Andy ",300,NV,, ,3/31/2005,9/18/2004
 71203,"Ha, Fulton ",847,NY,11362,M,3/31/2007,3/25/2007
 30456,"Ha, Han ",1768,PA,19301,M,10/31/2006,10/26/2003
-93178,"Ha, Khiem ",1331,CA,92706,M,3/31/2016,3/21/2015
+93178,"Ha, Khiem ",1331,CA,92706,M,3/31/2017,3/21/2015
 85875,"Ha, Na Ri ",1118,VA,20121,F,6/30/2012,6/4/2011
 30455,"Ha, Nathalie ",2059,PA,19301,F,10/31/2006,3/28/2004
 74810,"Ha, Nicholas ",1137,CA,94539,M,10/31/2009,10/25/2009
@@ -12324,6 +12332,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 93454,"Han, Wei-Hua ",0,VA,23059,F,4/30/2016,
 75121,"Han, Wondug ",2009,DE,19808,M,9/30/2008,2/24/2008
 77953,"Han, Xue ",0,PA,19148,F,9/30/2009,
+97760,"HAN, YEONGSEOM ",0,NJ,07650,M,10/31/2016,
 92936,"Han, Yiguang ",286,NY,11355,M,2/28/2015,1/19/2014
 77316,"Han, Yingchun ",1665,OH,44139,M,10/31/2009,10/25/2009
 3213,"Han, Yunqi ",1916,NJ,07922,M,8/31/2007,8/6/2006
@@ -12628,7 +12637,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 28112,"Haskins, Lois ",875,FL,32720,,12/31/2011,12/3/2005
 28111,"Haskins, Robert ",1447,FL,32720,M,12/31/2017,11/15/2014
 93814,"Hassan, Belal ",0,DQ,,M,5/31/2015,
-94943,"Hassan, Danyal S",1806,NJ,08902,M,10/31/2015,6/14/2015
+94943,"Hassan, Danyal S",1762,NJ,08902,M,10/31/2015,10/3/2015
 93528,"Hassan, Esslam ",1565,CT,06615,M,5/31/2015,9/28/2014
 93813,"Hassan, Mayan ",0,DQ,,M,5/31/2015,
 93900,"Hassan, Syed Awais ",0,JK,,M,6/30/2015,
@@ -13463,7 +13472,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75714,"Hoffer, Dan ",606,AZ,86340,M,1/4/2008,12/9/2007
 75149,"Hoffine, Dalton ",0,NC,27109,M,9/30/2008,
 89672,"Hoffman, Adam ",1148,GA,30460,M,11/30/2013,5/12/2013
-11165,"Hoffman, Brian ",1629,PA,19002,M,10/31/2016,6/14/2015
+11165,"Hoffman, Brian ",1590,PA,19002,M,10/31/2016,10/3/2015
 78850,"Hoffman, Charles ",204,NJ,08648,M,1/31/2010,12/14/2008
 78047,"Hoffman, Jake ",577,MD,21157,M,9/30/2009,9/14/2008
 24438,"Hoffman, Mark John",1517,IL,60707,M,7/31/2014,4/26/2014
@@ -13637,7 +13646,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 69978,"Hopkins, Ray ",1267,VA,23602,M,10/31/2012,6/24/2012
 87508,"Hopkins, Rufus ",440,NC,27954,M,2/9/2012,1/29/2012
 76224,"Hopkins, Sophia ",0,RI,02906,F,2/28/2011,
-39735,"Hopkins, Steve ",1994,RI,02889,,4/30/2015,4/19/2015
+39735,"Hopkins, Steve ",1994,RI,02889,,10/31/2016,4/19/2015
 78154,"Hopkinson, Denzel A.",1952,NY,,M,12/31/2011,11/28/2010
 80514,"Hoppa, Steven ",833,GA,30043,M,7/28/2009,7/19/2009
 75742,"Hoppen, Beth ",199,WI,54301,F,1/31/2012,9/21/2008
@@ -13664,7 +13673,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 22145,"Horne, Lavone ",1439,FL,32955,M,12/31/2099,10/10/2009
 31456,"Horneff, Vincent ",0,VA,22204,M,3/31/2005,
 81651,"Horner, David ",1333,VA,24060,M,12/31/2010,12/12/2009
-76118,"Hornick, Dennis ",1326,PA,18042,M,2/28/2017,8/22/2015
+76118,"Hornick, Dennis ",1255,PA,18042,M,2/28/2017,10/3/2015
 28504,"Horning, Andrew ",1298,MI,48059,M,3/31/2005,2/28/2004
 70869,"Hornosky, Nicholas ",514,NY,11560,M,2/28/2007,2/17/2007
 84991,"Hornung, Scott ",875,MO,63368,M,3/15/2011,3/13/2011
@@ -13684,12 +13693,12 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89139,"Horstmeier, Samuel ",595,MO,63376,M,9/25/2012,9/23/2012
 18735,"Horton, Bryan ",1682,NC,27513,M,4/30/2007,9/23/2006
 73464,"Horton, Christopher ",498,PA,18036,M,1/31/2008,1/14/2007
-85595,"Horton, Dennis ",1070,MI,49646,M,5/31/2016,5/3/2015
+85595,"Horton, Dennis ",1083,MI,49646,M,5/31/2016,10/10/2015
 12406,"Horton, Joni ",1326,SC,29812,F,6/30/1997,12/8/1996
 73856,"Horton, Joseph ",832,OR,97024,M,8/31/2010,4/24/2010
 11590,"Horton, Lavell ",1154,OH,,M,10/31/2005,4/17/2005
 10953,"Horton, William ",600,FL,32547,M,3/31/1997,8/31/1996
-91917,"Horton, William ",1942,GA,30345,M,10/31/2015,2/7/2015
+91917,"Horton, William ",1942,GA,30345,M,10/31/2016,2/7/2015
 94380,"Horvat, Paul A",1723,NM,87110,M,8/31/2019,7/11/2015
 6167,"Horvath, Alex ",1450,CA,93065,M,8/31/2013,3/24/2013
 73682,"Horvath, Arno ",1326,FL,33771,M,3/31/2008,2/24/2007
@@ -13710,7 +13719,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 80921,"Hou, Aaron ",804,CA,93441,M,9/30/2010,9/20/2009
 76597,"Hou, Andy ",518,CA,94181,M,4/30/2009,5/25/2008
 81588,"Hou, David ",1566,CA,94539,M,4/30/2015,9/14/2014
-97588,"HOU, DAVID ",1235,FL,32606,M,9/20/2015,9/19/2015
+97588,"HOU, DAVID ",1235,FL,32606,M,10/31/2016,9/19/2015
 75101,"Hou, Gang ",1618,TX,77082,M,9/19/2007,9/2/2007
 11722,"Hou, Haiye ",1241,AL,36832,M,11/30/2005,4/23/2005
 74141,"Hou, Hui ",1177,ID,83843,F,4/30/2008,4/22/2007
@@ -13816,7 +13825,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 80801,"Hsieh, Wen-Ching ",709,NV,89109,F,9/15/2009,9/6/2009
 84661,"Hsieh, Yeongbin ",0,CA,95132,M,1/31/2012,
 35204,"Hsien, Paula ",1932,,,F,8/31/2010,7/4/2009
-59896,"Hsin, Jeffrey ",2137,MD,20854,M,1/31/2016,10/4/2015
+59896,"Hsin, Jeffrey ",2125,MD,20854,M,1/31/2016,10/4/2015
 27628,"Hsing, Ariel ",2495,CA,95135,F,9/30/2015,12/21/2013
 62822,"Hsing, Linda ",1633,CA,91304,F,12/31/2099,12/18/1994
 27627,"Hsing, Michael ",1765,CA,95135,M,9/30/2015,6/26/2011
@@ -13892,7 +13901,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75271,"Hu, Elaine ",739,TX,75024,F,10/31/2008,9/29/2007
 97569,"Hu, Ende ",1913,TN,37916,M,9/13/2015,9/12/2015
 34503,"Hu, Eric T.",1760,IL,60187,M,3/31/2013,6/28/2008
-84828,"Hu, Faith ",1423,NJ,08831,F,4/30/2016,9/20/2015
+84828,"Hu, Faith ",1687,NJ,08831,F,4/30/2016,10/3/2015
 95121,"Hu, Fangduo ",2053,US,,F,11/19/2014,10/10/2014
 77888,"Hu, Fengchang ",1627,,,M,9/11/2008,8/31/2008
 93595,"Hu, Hanfei ",573,MD,21044,M,5/31/2017,11/30/2014
@@ -13924,11 +13933,11 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 79099,"Hu, Peter ",0,TX,76205,M,2/28/2010,
 91221,"Hu, Qingqing ",1996,AZ,85281,M,8/31/2016,9/27/2015
 32858,"Hu, Ray ",1641,WA,98006,M,8/31/2005,5/1/2005
-95081,"Hu, Sarah ",358,NJ,08550,F,11/30/2015,9/13/2015
+95081,"Hu, Sarah ",370,NJ,08550,F,11/30/2015,10/3/2015
 80768,"Hu, Shaohua ",1682,CA,95757,M,8/31/2013,8/18/2012
 86936,"Hu, Shufen ",1690,CT,06268,F,12/1/2011,11/12/2011
 13856,"Hu, Stanley ",1936,CO,91780,M,9/30/2014,9/1/2013
-90084,"Hu, Stephen ",1168,NJ,08837,M,10/31/2015,9/13/2015
+90084,"Hu, Stephen ",1474,NJ,08837,M,10/31/2015,10/3/2015
 88679,"Hu, Tao ",1588,NJ,08837,M,10/31/2015,9/13/2015
 54875,"Hu, Thomas Woyu ",1736,NY,11367,M,9/30/2006,11/13/2005
 69581,"Hu, Tianhui ",1539,TN,,M,6/30/2005,12/12/2004
@@ -13965,7 +13974,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 22183,"Hua, Ruth ",1235,TN,37343,F,12/31/2099,10/11/2012
 97268,"Hua, Shuaibo ",2599,GA,30096,M,8/23/2015,8/16/2015
 76769,"Hua, Steven ",456,CA,92110,M,4/30/2009,10/4/2009
-95763,"Hua, Tin ",1195,CA,90250,M,2/29/2016,9/6/2015
+95763,"Hua, Tin ",1195,CA,90250,M,2/28/2017,9/6/2015
 91872,"Hua, Yang ",1256,CA,94607,M,9/30/2017,8/30/2015
 74874,"Huai, Jeffrey ",338,CA,94588,M,8/31/2011,10/5/2008
 74873,"Huai, Marc ",1449,CA,94588,M,8/31/2010,8/5/2007
@@ -14210,6 +14219,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 299,"Huffman, Allen ",1577,CO,80538,M,7/31/2010,4/17/2010
 23181,"Huffman, Dale ",1176,MI,48442,M,8/31/2001,1/28/2001
 33844,"Huffman, Paula ",0,VA,23703,F,5/31/2006,
+94834,"Hufnagel, Noelle ",996,MI,49512,F,10/11/2015,10/10/2015
 81046,"Hug, Nizam ",0,FL,33067,M,10/31/2010,
 33333,"Huggins, David ",1452,CO,80918,M,12/31/2099,7/19/2015
 14204,"Hugh, Adam ",2663,NJ,08854,M,1/31/2016,11/30/2014
@@ -14304,7 +14314,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 77640,"Hunt, Reider ",0,OK,74136,M,8/31/2009,
 84446,"Hunte, Stanley ",1735,VA,22027,M,12/31/2011,12/11/2010
 80996,"Hunter, Brandon ",625,FL,32953,M,10/31/2010,10/10/2009
-95774,"Hunter, Brian ",1598,AZ,85204,M,5/31/2016,9/27/2015
+95774,"Hunter, Brian ",1599,AZ,85204,M,5/31/2016,9/27/2015
 83320,"Hunter, Douglas ",1260,CT,06489,M,7/31/2011,9/5/2010
 75061,"Hunter, Drew ",653,IN,,M,9/13/2007,9/9/2007
 77445,"Hunter, Glen ",1539,MO,63956,M,7/31/2009,9/7/2008
@@ -14461,6 +14471,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 30449,"Hysell, Paul ",486,AR,,M,4/30/2004,10/4/2003
 6907,"Hyttinen, Arvo ",1109,FL,33462,M,1/31/2019,3/2/2014
 12105,"Hzeih, Margaret ",0,NY,11432,F,12/31/2099,
+97755,"Iacob, Lucian S",0,NY,11102,M,10/31/2016,
 78965,"Iampieri, Jospeh ",1058,MD,21042,M,9/30/2013,11/3/2012
 80578,"Ibanez, Ernesto ",2031,FL,33166,M,9/30/2015,7/5/2015
 80527,"Ibanez, Juan Ernest ",0,FL,33166,M,6/30/2014,
@@ -14514,6 +14525,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 58954,"Iloh, Tesilimi O.",2038,MI,48331,M,12/31/2013,7/28/2013
 27957,"Ilson, Richard ",1590,NC,28105,M,4/30/2007,1/20/2007
 95783,"Ilundain, Juan ",1373,IL,60642,M,2/29/2016,4/18/2015
+97741,"Ilyas, Andrew ",0,MA,02139,M,10/31/2016,
 75028,"Ilyes, Henriette ",1059,CA,90034,F,11/30/2012,3/27/2011
 77274,"Ilzhofer, Linda ",810,CA,94563,F,6/11/2008,5/25/2008
 74551,"Im, Yong Ji ",2472,NJ,07620,M,3/31/2012,4/17/2011
@@ -14573,7 +14585,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95914,"Ioffe, Tony ",1136,OH,44121,M,3/31/2016,8/22/2015
 26892,"Ion, Gabriel ",2045,OH,*,M,12/31/2002,5/12/2002
 96788,"Ionescu, Ovidiu-George ",2653,RO,,M,6/30/2016,7/11/2015
-97140,"Iorga, Alex ",905,NY,11103,M,7/31/2016,10/4/2015
+97140,"Iorga, Alex ",903,NY,11103,M,7/31/2016,10/4/2015
 69568,"Iosenkin, Oleg ",1316,NY,11214,M,1/31/2006,1/16/2005
 93553,"Iosup, Eric R",254,IL,60136,M,5/31/2016,8/9/2015
 63260,"Ioviero, Neil ",1708,NY,10013,M,9/30/2008,1/29/2006
@@ -14620,7 +14632,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34096,"Isaacson, Sarah ",643,DC,,F,11/30/2005,5/21/2005
 6924,"Isaacson, Steve ",1792,IL,60035,M,12/31/2099,12/29/2008
 79763,"Isabella, Daniel ",707,PA,16802,M,4/30/2010,4/26/2009
-97078,"Isaev, Slava ",1125,MI,49301,M,7/31/2016,6/28/2015
+97078,"Isaev, Slava ",1112,MI,49301,M,7/31/2016,10/10/2015
 33788,"Isgitt, Don ",1294,TX,75248,M,9/30/2010,4/17/2010
 79764,"Ishak, Ahmad ",811,PA,16801,M,4/30/2010,4/26/2009
 82098,"Ishaq, Mohammad ",1795,AR,72712,M,9/30/2015,9/27/2014
@@ -14637,6 +14649,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81099,"Isler, Larry ",0,CA,90006,M,10/22/2009,
 81100,"Isler, Michael ",886,MD,21218,M,10/22/2009,10/8/2009
 95862,"Ismail, Amin ",1721,IL,60107,M,3/31/2016,3/15/2015
+47957,"Ismail, Azhar ",570,MI,49508,M,10/31/2016,10/10/2015
 88711,"Ismail, Ikmal ",1054,NY,11220,M,8/31/2014,10/20/2013
 28670,"Ismail, Moyo ",1449,TX,,M,8/31/2003,2/2/2003
 63496,"Isnor, Roland R.",849,VA,23690,M,5/31/2007,6/19/2005
@@ -14940,7 +14953,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85446,"Javaherian, Nasrin ",1350,CA,91316,F,12/31/2014,5/4/2014
 88542,"Javanmardi, Cameron ",1449,FL,32333,M,6/30/2013,6/9/2012
 73060,"Javate, Noel ",1066,FL,33707,M,1/31/2013,3/29/2008
-72430,"Javdan, Behdad ",1088,CA,94131,M,7/31/2012,3/3/2012
+72430,"Javdan, Behdad ",1088,NY,11720,M,10/31/2016,3/3/2012
 32945,"Javed, Mirza ",1446,SD,57042,M,10/31/2006,4/23/2006
 85747,"Javeed, Masi ",911,FL,34688,M,4/30/2014,11/9/2013
 85748,"Javeed, Zaydi ",871,FL,34688,M,4/30/2014,11/9/2013
@@ -14960,7 +14973,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 92838,"Jean, Camille ",1915,,, ,1/31/2015,11/30/2014
 90640,"Jean, Emmanuel ",1221,NY,11550,M,3/28/2013,3/24/2013
 79953,"Jean-Francois, Frantz ",1805,FL,32308,M,5/31/2014,5/27/2012
-20895,"Jeanice, Roger ",1655,KY,42701,M,11/30/2010,5/22/2010
+20895,"Jeanice, Roger L.",1655,KY,42701,M,12/31/2016,5/22/2010
 93157,"Jean-Paul, White ",676,OH,45690,M,3/6/2014,3/2/2014
 86582,"Jecius, Alexander ",509,IL,60175,M,10/31/2012,10/15/2011
 89770,"Jecov, Dmitri ",1131,NV,89011,M,9/30/2014,12/21/2013
@@ -15175,7 +15188,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88712,"Jin, Duk ",1318,NJ,07054,M,10/31/2017,3/8/2015
 69660,"Jin, Ethan ",2331,GA,30024,M,1/31/2015,7/31/2013
 88211,"Jin, Fucheng ",2114,,, ,5/31/2013,4/22/2012
-95148,"Jin, Gary ",327,CA,95124,M,11/30/2015,8/30/2015
+95148,"Jin, Gary ",327,CA,95124,M,11/30/2016,8/30/2015
 76907,"Jin, Hantong ",919,MD,20877,M,5/31/2009,4/27/2008
 18053,"Jin, He ",667,FL,33126,M,4/30/1999,10/10/1998
 92329,"Jin, Jeffrey ",136,CA,94536,M,11/30/2014,12/8/2013
@@ -15225,7 +15238,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 30808,"Jobanputra, Aakash ",935,NY,10583,M,5/31/2014,5/26/2013
 85049,"Jobanputra, Janak ",133,CA,94555,M,3/31/2012,3/20/2011
 85047,"Jobanputra, Rajan ",74,CA,94555,M,3/31/2012,3/20/2011
-79440,"Joe, Billy ",2130,NJ,08550,M,10/31/2018,8/29/2015
+79440,"Joe, Billy ",2150,NJ,08550,M,10/31/2018,10/3/2015
 75145,"Joe, Lisa ",1100,CA,90247,F,7/31/2019,12/21/2013
 58684,"Joe, Mario ",1794,CA,91915,M,5/31/2012,5/8/2011
 81419,"Joe, Phillip ",276,OR,97223,M,2/28/2011,11/7/2010
@@ -15272,7 +15285,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 84982,"Johnson, Brice ",1207,GA,30075,M,3/31/2012,3/27/2011
 80679,"Johnson, Carol ",870,AK,99709,F,8/31/2020,10/10/2013
 74052,"Johnson, Chris ",403,AK,99502,M,4/16/2007,3/4/2007
-94573,"Johnson, Christopher ",1041,TX,76107,M,9/30/2015,9/26/2015
+94573,"Johnson, Christopher ",1042,TX,76107,M,9/30/2015,9/26/2015
 77430,"Johnson, Christy ",568,TX,78757,F,7/31/2009,10/11/2008
 33892,"Johnson, Clive ",1872,NC,28207,M,6/30/2007,11/1/2009
 29085,"Johnson, Cory ",1915,VA,24060,M,12/31/2013,10/13/2013
@@ -15326,7 +15339,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 9642,"Johnson, Leland ",700,WA,98042,M,11/30/1996,5/5/1996
 94749,"Johnson, Lionel ",0,IN,46628,M,10/31/2015,
 7035,"Johnson, Lynn Paul",1508,MI,49015,M,12/31/2099,4/25/2004
-26863,"Johnson, Mark ",1558,CA,95123,M,10/31/2015,7/11/2015
+26863,"Johnson, Mark ",1558,CA,95123,M,10/31/2016,7/11/2015
 90824,"Johnson, Mark ",1356,GA,30058,M,6/30/2015,5/30/2015
 86933,"Johnson, Mark ",1217,CT,06110,M,9/30/2014,12/8/2013
 96457,"Johnson, Matthew ",943,WI,54452,M,5/31/2016,9/20/2015
@@ -15775,17 +15788,17 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81493,"Kanani, Jean Marie ",1821,FL,32211,M,8/31/2016,8/15/2015
 94310,"Kanashiro, Juaquin ",2329,AR,,M,8/31/2015,7/5/2015
 87955,"Kanatsu, Naoki ",1941,WA,98052,M,4/30/2016,9/20/2015
-83335,"Kanchanapelly, Radhakrush ",1560,AZ,85259,M,6/30/2016,9/27/2015
+83335,"Kanchanapelly, Radhakrush ",1564,AZ,85259,M,6/30/2016,9/27/2015
 88390,"Kancharla, Nitin ",51,CA,95051,M,5/31/2013,5/27/2012
 88389,"Kancharla, Sachin ",65,CA,95051,M,5/31/2013,5/27/2012
 97233,"Kanchi,  Narendar ",1100,NJ,08820,M,8/31/2016,9/13/2015
-96820,"Kanchi,  Prajeet ",793,NJ,08812,M,6/30/2016,9/13/2015
+96820,"Kanchi,  Prajeet ",548,NJ,08812,M,6/30/2016,9/13/2015
 78221,"Kanchumarthi, Nidhi Rao",87,CA,94539,F,10/31/2011,12/6/2009
 92285,"Kandadi, Sohan ",2085,CA,92127,M,10/31/2015,7/11/2015
 79715,"Kandadi, Srinivasa ",456,MO,63021,M,4/30/2010,4/19/2009
 95224,"Kandaswami, Srinag ",1818,IN,46033,M,12/31/2015,1/24/2015
 10109,"Kandel, Adam ",1408,MD,21214,M,9/30/2015,9/6/2014
-81500,"Kandell, Scott ",1906,NJ,08054,M,11/30/2016,9/6/2015
+81500,"Kandell, Scott ",1900,NJ,08054,M,11/30/2016,10/3/2015
 34441,"Kandlbinder, Daniel ",1019,MO,63084,M,8/31/2006,7/31/2005
 89192,"Kanduri, Saaketh ",116,CA,95134,M,9/30/2013,12/9/2012
 87999,"Kane, Alex ",1753,PA,19375,M,4/30/2013,8/12/2012
@@ -15971,7 +15984,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 84201,"Karthik, Kedar ",1471,TX,75252,M,11/30/2011,6/19/2011
 94381,"KARTHIKEYAN, MANOHAR ",2262,CO,80305,M,12/31/2015,8/23/2015
 76780,"Karunakaran, Sivaramaganesh ",1662,MO,63021,M,7/31/2009,7/19/2009
-77447,"Karunakaran, Thirumurugan ",2062,AZ,75023,M,10/31/2016,7/26/2015
+77447,"Karunakaran, Thirumurugan ",2049,AZ,75023,M,10/31/2016,9/27/2015
 30642,"Karve, Nishant S. ",1903,IL,60074,M,1/31/2009,5/4/2008
 85596,"Karve, Sharang ",1235,MI,48083,M,5/31/2015,5/3/2015
 87427,"Karydakis, Nicholas ",991,IL,60015,M,1/31/2013,5/12/2012
@@ -16612,7 +16625,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 94473,"Kim, Ryan ",1376,CA,94030,M,9/30/2015,9/14/2014
 32483,"Kim, Sam ",622,IL,,M,1/31/2005,6/5/2004
 73422,"Kim, Sam ",1532,CA,94582,M,1/31/2009,2/18/2007
-91329,"Kim, Samuel ",1904,IL,60026,M,6/30/2016,9/20/2015
+91329,"Kim, Samuel ",1905,IL,60026,M,6/30/2016,9/20/2015
 87681,"Kim, Samuel ",66,NJ,07624,M,3/31/2015,5/9/2015
 80252,"Kim, Sang Soo ",2602,KR,,M,5/31/2016,7/11/2015
 77894,"Kim, Sean ",1390,OR,97381,M,9/30/2009,9/6/2008
@@ -16678,7 +16691,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89760,"Kindblom, Emil ",1966,,, ,12/31/2013,11/4/2012
 89761,"Kindblom, Magnus ",2292,,, ,12/31/2013,11/4/2012
 72170,"Kindig, William ",1591,IL,62002,M,9/30/2014,9/21/2014
-53791,"King, Al ",1468,IL,60002,M,12/31/2099,8/9/2015
+53791,"King, Al ",1473,IL,60002,M,12/31/2099,8/9/2015
 94030,"King, Andrew ",321,US,Default,M,6/27/2014,6/21/2014
 77803,"King, Austin ",520,MI,,M,9/9/2008,8/30/2008
 93787,"King, Celestine ",0,,,F,5/31/2016,
@@ -16786,7 +16799,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 87949,"Kitikun, Medhawin ",1816,WV,26505,M,4/30/2013,3/3/2013
 7314,"Kitselman, Harry L.",0,MN,,M,12/31/2099,
 22090,"Kittner, Jonathan M ",1406,IL,60506,M,3/31/2007,4/15/2006
-97043,"Kitzing-Lawson, Ulrike ",893,CO,80920,F,7/31/2016,7/19/2015
+97043,"Kitzing-Lawson, Ulrike ",893,CO,80918,F,7/31/2016,7/19/2015
 30585,"Kitzman, Nick ",1018,MN,55806,M,12/31/2006,12/30/2005
 30853,"Kiu, Brendan ",1232,NC,27511,M,3/31/2007,3/18/2007
 31620,"Kiu, Sun W",1262,NC,27511,M,5/31/2016,5/17/2015
@@ -16802,7 +16815,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75180,"Klaas, Shawn ",365,KY,41071,M,9/30/2008,9/22/2007
 85646,"Klacanska, Iveta ",2236,,,F,5/31/2015,7/4/2011
 80687,"Klahn, Zachary ",0,WI,53066,M,8/31/2010,
-88248,"Klase, William ",1512,WI,54501,M,5/31/2018,9/20/2015
+88248,"Klase, William ",1513,WI,54501,M,5/31/2018,9/20/2015
 84134,"Klaus, Justin J",0,PA,15090,M,11/30/2011,
 28751,"Klausner, Peter ",448,AZ,85258,M,5/31/2005,3/8/2003
 89266,"Klausz, Kevin ",1065,NY,12570,M,10/31/2013,9/30/2012
@@ -16880,8 +16893,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32368,"Kmiec, Bartosz ",1367,MI,48066,M,6/30/2005,5/29/2004
 75403,"Kmurana, Rahul ",1495,CA,90007,M,10/31/2008,10/21/2007
 69606,"Knapp, Brian ",1297,OH,44256,M,4/30/2007,10/14/2006
-78643,"Knapp, Fred ",1788,MI,49503,M,4/30/2017,5/3/2015
-96234,"Knapp, Jaden ",70,MI,49503,M,4/30/2017,5/3/2015
+78643,"Knapp, Fred ",1806,MI,49503,M,4/30/2017,10/10/2015
+96234,"Knapp, Jaden ",70,MI,49503,M,4/30/2017,10/10/2015
 88097,"Knapper, Nick ",1027,IN,,M,4/26/2012,3/11/2012
 13635,"Knatt, Thomas ",991,MA,01450,M,3/31/2009,6/21/2003
 33896,"Knebl, Veronika ",0,IL,60402,F,6/30/2006,
@@ -17224,7 +17237,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 73700,"Kozhinova, Irina ",1056,NY,14526,F,4/30/2014,3/3/2013
 94787,"Koziel, Adam ",1527,IL,60543,M,10/31/2015,8/30/2015
 9975,"Koziol, Thomas ",1335,AZ,85715,M,2/29/2012,12/16/2006
-96470,"Kozlov, Roman ",0,NY,14701,M,4/13/2015,
+96470,"Kozlov, Roman ",0,NY,14701,M,10/31/2016,
 81664,"Kozlowska, Anna ",1361,NY,11971,F,2/29/2016,5/31/2015
 42444,"Kozlowski, Richard ",1647,NY,12815,M,1/31/2018,10/10/2009
 34631,"Kozulin, Victor ",840,MA,017020,M,9/30/2006,9/18/2005
@@ -17497,7 +17510,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 92757,"Kumar, Pavan ",1750,PA,19342,M,1/31/2016,4/19/2015
 83063,"Kumar, Ponon ",885,MI,48060,M,6/30/2016,5/23/2010
 87630,"Kumar, Priya ",0,NJ,08691,F,2/28/2013,
-58474,"Kumar, Rajan ",1774,NJ,08691,M,3/31/2016,5/9/2015
+58474,"Kumar, Rajan ",1811,NJ,08691,M,3/31/2016,10/3/2015
 9709,"Kumar, Rajnish ",1734,VA,20190,M,3/31/2006,3/6/2005
 92232,"Kumar, Renji ",1504,VA,23662,M,10/31/2014,10/5/2013
 90736,"Kumar, Rohan ",1448,CA,90703,M,6/30/2018,9/26/2015
@@ -17572,7 +17585,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 74221,"Kurimay, Dora ",2380,NY,10009,F,6/30/2013,11/25/2012
 82817,"Kurkure, Siddharth ",0,CA,94022,M,5/31/2013,
 19480,"Kurniawan, Ferry ",0,CA,90650,M,11/30/2008,
-92196,"Kuroki, Riko ",1141,HI,96815,F,10/31/2015,12/20/2014
+92196,"Kuroki, Riko ",1141,HI,96815,F,10/31/2016,12/20/2014
 62320,"Kuroyama, Don ",1596,CA,90266,M,3/31/2012,2/6/2000
 79107,"Kurson, Robert ",758,MA,02135,M,2/4/2009,1/25/2009
 12845,"Kurth, Jason ",631,IA,50129,M,7/31/1997,1/19/1997
@@ -17633,12 +17646,13 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 18052,"Kwok, Lily ",938,FL,33330,F,4/30/1999,10/10/1998
 55333,"Kwok, Sai ",2010,CA,92027,M,10/31/2015,12/20/2014
 49564,"Kwolek, Joe M.",1435,CA,92646,M,1/31/2018,11/3/2007
-97211,"Kwon,  Jinhong ",585,NY,11354,M,8/31/2016,9/20/2015
+97211,"Kwon,  Jinhong ",582,NY,11354,M,8/31/2016,9/20/2015
 89627,"Kwon, Bradley ",1009,CA,91765,M,11/30/2014,5/10/2014
 91016,"Kwon, Bryce ",509,CA,91765,M,5/30/2015,5/10/2014
 83462,"Kwon, Charles ",38,NY,11354,M,8/31/2011,8/15/2010
 97397,"Kwon, John ",1441,WA,98037,M,9/30/2018,8/23/2015
 94620,"Kwon, Kyung Mo ",0,VA,20152,M,10/14/2014,
+97754,"KWON, OJIN ",0,NJ,07650,M,10/31/2016,
 80606,"Kwong, Anson ",1767,CA,95678,M,8/31/2010,5/15/2010
 31533,"Kwong, David ",872,CA,94536,M,6/30/2007,10/22/2006
 47929,"Kwong, Henry ",2200,CA,95070,M,5/31/2016,7/11/2015
@@ -17671,7 +17685,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 93096,"La Rose, Dennis ",1424,,, ,2/28/2015,2/23/2014
 29573,"La Tache, Akil ",1832,NJ,08873,M,5/31/2005,7/4/2004
 89802,"La Torre, Darialice Diaz",730,,00766,M,12/31/2013,11/25/2012
-96978,"La, Michael ",1500,AZ,85212,M,6/30/2016,9/27/2015
+96978,"La, Michael ",1502,AZ,85212,M,6/30/2016,9/27/2015
 82848,"La, Timothy ",1805,MD,20855,M,9/30/2015,6/13/2015
 65293,"LaAdamas, Aser ",1629,FL,33619,M,5/31/2005,5/15/2004
 97376,"Laats, Steve ",0,AZ,85338,M,8/31/2016,
@@ -17737,7 +17751,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 86748,"Lahman, Phillip ",1200,TX,78633,M,1/31/2018,4/26/2015
 82655,"Lahovskyy, Volodymyr ",1484,MO,63146,M,4/30/2014,4/1/2012
 81634,"Lai, Albert ",1663,MI,48085,M,6/30/2015,5/3/2015
-45454,"Lai, Alex ",1988,AZ,85226,M,12/31/2015,9/27/2015
+45454,"Lai, Alex ",1990,AZ,85226,M,12/31/2015,9/27/2015
 87568,"Lai, Alex ",1121,CA,91745,M,11/30/2014,4/21/2013
 84463,"Lai, Austin ",143,NY,11355,M,12/31/2011,12/12/2010
 30679,"Lai, Boping ",1467,MA,02420,M,1/31/2009,1/27/2008
@@ -18432,12 +18446,12 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 97550,"Lee, Chee Ming ",1610,TX,77459,M,9/30/2016,8/23/2015
 88749,"Lee, Cher ",1137,MN,55106,M,1/31/2015,1/26/2014
 90638,"Lee, Chia-Sheng ",2654,,, ,3/31/2014,3/24/2013
-94319,"Lee, ChiuHsin Dixon",1070,NJ,08822,M,8/31/2016,9/27/2015
+94319,"Lee, ChiuHsin Dixon",1037,NJ,08822,M,8/31/2016,10/3/2015
 83336,"Lee, Choi ",1497,AZ,85254,M,2/29/2016,5/3/2015
 75441,"Lee, Chong ",0,NY,11020,M,11/30/2010,
 91507,"Lee, Choon Hee ",1427,NY,11435,F,8/31/2016,8/2/2015
 24197,"Lee, Choon Wei ",774,CA,94306,M,6/30/2002,8/19/2001
-93731,"Lee, Choong Suk ",0,IL,60090,M,6/30/2016,
+93731,"Lee, Choong Suk ",1643,IL,60090,M,6/30/2016,8/9/2015
 34010,"Lee, Christian ",492,WA,,M,12/31/2005,5/29/2005
 91466,"Lee, Christian ",323,NJ,07670,M,7/31/2014,4/20/2014
 81595,"Lee, Christine ",538,CA,94122,F,12/31/2010,12/5/2010
@@ -18531,6 +18545,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 84742,"Lee, Jay ",2094,MA,02149,M,8/31/2018,8/2/2015
 91461,"Lee, Jay ",631,NJ,07605,M,7/31/2014,9/15/2013
 85949,"Lee, Jeanne ",781,CA,90405,F,10/31/2015,6/21/2015
+97761,"LEE, JEONGHO ",0,NJ,07650,M,10/31/2016,
 84880,"Lee, Jessica ",1666,CA,94709,F,10/31/2013,9/23/2012
 73630,"Lee, Jessica ",0,CA,94309,F,2/29/2008,
 28282,"Lee, Jia Jiam",2035,TX,78717,M,3/31/2011,2/20/2010
@@ -18562,8 +18577,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 91368,"Lee, Katherine ",1210,NY,11354,M,6/30/2014,11/30/2014
 72554,"Lee, Kathryn L.",0,NJ,07023,F,10/31/2007,
 77576,"Lee, Kelvin ",1885,NY,11377,M,10/31/2015,11/30/2014
-80349,"Lee, Kendrick ",713,,,M,6/30/2010,5/31/2009
 80366,"Lee, Kendrick ",0,CA,92782,M,6/30/2012,
+80349,"Lee, Kendrick ",713,,,M,6/30/2010,5/31/2009
 77873,"Lee, Kenneth ",1664,CA,92782,M,8/31/2015,3/21/2015
 92422,"Lee, Kenneth ",738,NY,11355,M,11/30/2014,3/2/2014
 94294,"Lee, Kenneth ",1463,WA,98006,M,8/31/2015,10/26/2014
@@ -18844,7 +18859,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 31633,"Leppler, John ",728,NJ,07078,M,3/31/2005,3/7/2004
 77301,"Lepri, Francis ",116,CT,06483,M,6/30/2009,5/25/2008
 77302,"Lepri, Justin ",211,CT,06483,M,6/30/2009,5/25/2008
-96965,"Lepro, Paul ",1501,IL,60622,M,6/30/2016,8/30/2015
+96965,"Lepro, Paul ",1502,IL,60622,M,6/30/2016,8/30/2015
 87668,"Lereah, Mikael ",2367,CA,94704,M,2/28/2013,2/19/2012
 86337,"LeRitz, Rick ",1192,CA,91040,M,9/30/2012,11/13/2011
 86878,"Lerkkasemsan, Nuttapol ",1231,VA,24060, ,11/30/2012,11/12/2011
@@ -18959,8 +18974,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 30313,"Levine, Martin ",807,AZ,,M,3/31/2004,9/7/2003
 55494,"Levine, Robert ",1223,NJ,08873,M,12/31/2099,5/29/2011
 78410,"Levine, Sharon ",321,IL,60657,F,11/30/2009,10/18/2009
-34659,"Levinski, Alex ",2034,NY,11230,M,10/31/2015,9/28/2014
-87134,"Levinski, Mishel ",2530,NY,11230,M,8/31/2016,9/27/2015
+34659,"Levinski, Alex ",2025,NY,11230,M,10/31/2015,10/3/2015
+87134,"Levinski, Mishel ",2542,NY,11230,M,8/31/2016,10/3/2015
 7723,"Levites, Victor A.",0,NJ,08817,M,5/31/2009,
 76155,"Levitt, Leon ",813,MN,55118,M,2/28/2009,1/27/2008
 85699,"Levrat, Zalmai ",242,NY,10009,M,5/31/2012,5/7/2011
@@ -18996,7 +19011,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 28616,"Lewin, Sam ",393,NJ,08540,M,8/31/2005,7/25/2004
 32673,"Lewis, Alan ",852,TN,37660,M,7/31/2005,7/10/2004
 82371,"Lewis, Andrew Dean",1844,NY,11422,M,6/30/2014,5/25/2014
-85501,"Lewis, Andrew J.",1273,PA,19027,M,5/31/2018,8/22/2015
+85501,"Lewis, Andrew J.",1295,PA,19027,M,5/31/2018,10/3/2015
 80435,"Lewis, Anthony ",1673,CT,06118,M,7/31/2010,11/5/2011
 86434,"Lewis, Anthony ",2075,PA,16001,M,10/31/2015,5/2/2015
 32530,"Lewis, Austin ",374,MD,21104,M,1/31/2006,11/20/2004
@@ -19040,9 +19055,9 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 96257,"Li,  Jian ",2637,NJ,07722,M,5/31/2016,9/27/2015
 96986,"Li,  Jintao ",139,NY,11373,M,6/30/2016,6/21/2015
 96814,"Li,  Ken ",993,NY,11356,M,6/30/2016,8/23/2015
-97599,"Li,  Rong (Raymond) ",241,NY,11030,M,9/30/2016,9/20/2015
+97599,"Li,  Rong (Raymond) ",239,NY,11030,M,9/30/2016,9/20/2015
 97512,"Li,  Yixing (Kate) ",490,NY,11373,F,9/30/2016,9/13/2015
-97600,"Li,  Yuan (Richard) ",284,NY,11030,M,9/30/2016,9/20/2015
+97600,"Li,  Yuan (Richard) ",283,NY,11030,M,9/30/2016,9/20/2015
 79719,"Li, Adam ",286,NJ,08502,M,4/30/2010,2/21/2010
 8939,"Li, Alan ",1111,WA,98036,M,10/31/2014,10/13/2013
 89555,"Li, Albert ",407,CA,95030,M,11/8/2012,10/21/2012
@@ -19171,11 +19186,11 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 91638,"Li, Jasmine ",1590,AZ,85295,M,8/6/2013,7/28/2013
 71725,"Li, Jason ",1553,KY,40218,M,11/30/2009,11/8/2008
 81511,"Li, Jason ",1098,TX,75093,M,1/31/2012,1/21/2012
-94536,"Li, Jason ",959,NJ,07920,M,9/30/2018,9/27/2015
+94536,"Li, Jason ",978,NJ,07920,M,9/30/2018,10/3/2015
 85640,"Li, Jason ",1528,GA,,M,6/30/2014,10/12/2013
 88038,"Li, Jason ",0,AL,35205,M,4/30/2013,
 97314,"Li, Jason ",957,CA,92130,M,8/31/2016,9/6/2015
-94535,"Li, Jeffrey ",1395,NJ,07920,M,10/31/2018,9/27/2015
+94535,"Li, Jeffrey ",1375,NJ,07920,M,10/31/2018,10/3/2015
 91209,"Li, Jeffrey ",492,NY,12303,M,5/30/2013,5/19/2013
 93216,"Li, Jennifer ",399,CA,95070,F,3/31/2017,5/3/2015
 85084,"Li, Jenny ",1661,WA,98007,F,5/31/2013,12/22/2012
@@ -19320,7 +19335,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 96265,"Li, Suquan ",1329,CA,95070,M,4/30/2021,5/3/2015
 77413,"Li, Tao ",2378,VA,23059,F,7/31/2013,6/16/2013
 87867,"Li, Taozhi ",1910,MI,48104,M,3/31/2013,3/18/2012
-89340,"Li, Ted Chensheng",2046,CA,92130,M,10/31/2015,9/6/2015
+89340,"Li, Ted Chensheng",2046,CA,92130,M,12/31/2016,9/6/2015
 81722,"Li, Tianyi ",1377,VA,23112,M,11/30/2010,11/29/2009
 90905,"Li, Tianyu ",2872,,,M,5/31/2014,9/1/2013
 96724,"Li, Tiffany ",383,,8807,F,6/30/2016,5/31/2015
@@ -19350,10 +19365,10 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83723,"Li, Xiaoyu ",834,KS,66046,M,10/31/2014,9/21/2013
 79587,"Li, Xidan ",1856,CA,95828,F,12/31/2014,12/8/2013
 80620,"Li, Xin ",1515,TN,37830, ,8/13/2009,8/1/2009
-96241,"Li, Xin ",1416,LA,70810,M,4/30/2016,5/9/2015
 95102,"Li, Xin ",315,NY,11355,M,11/30/2016,4/4/2015
 94935,"Li, Xin ",1855,NJ,07921,F,10/31/2015,9/27/2015
-93779,"Li, Xingchang ",2530,NJ,07059,M,5/31/2016,9/27/2015
+96241,"Li, Xin ",1416,LA,70810,M,4/30/2016,5/9/2015
+93779,"Li, Xingchang ",2558,NJ,07059,M,5/31/2016,10/3/2015
 57303,"Li, Xingchu ",1535,IA,50010,M,1/31/2015,5/31/2014
 81490,"Li, Xinglong ",1687,TX,77707,M,4/30/2014,3/16/2013
 90854,"Li, Xinyu ",0,PA,16801,M,4/30/2014,
@@ -19363,7 +19378,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89723,"Li, Xun Ming ",2387,NY,11354,M,12/31/2015,11/30/2014
 86269,"Li, Yan ",2150,,, ,9/30/2012,8/14/2011
 96604,"Li, Yanhao ",2663,CN,,M,5/31/2016,7/11/2015
-95534,"Li, Yanheng ",1867,WI,53705,M,1/31/2018,9/20/2015
+95534,"Li, Yanheng ",1869,WI,53705,M,1/31/2018,9/20/2015
 90153,"Li, Yao ",1498,VA,24060,M,1/31/2014,1/12/2013
 74586,"Li, Yawei ",2332,TX,77036,F,8/31/2013,7/6/2013
 28108,"Li, Ye ",1672,NJ,08810,M,6/30/2007,11/19/2006
@@ -19429,7 +19444,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95363,"Liang, Jessica Jia Xin ",648,NY,10306,F,12/31/2015,3/22/2015
 71762,"Liang, JianYin ",1760,VA,22152,M,12/31/2006,5/21/2006
 90743,"Liang, Jie ",1630,NH,03062,M,4/30/2014,3/24/2013
-86560,"Liang, Jishan ",2639,NY,11355,M,11/30/2015,9/27/2015
+86560,"Liang, Jishan ",2623,NY,11355,M,11/30/2015,10/3/2015
 94152,"Liang, Kaiyang ",1618,FL,33156,M,9/30/2015,9/6/2015
 85027,"Liang, Keith ",426,TX,77494,M,3/31/2012,3/12/2011
 34259,"Liang, Keming ",1744,PA,18042,M,11/30/2007,11/4/2006
@@ -19511,7 +19526,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 20587,"Lie, Kevin ",275,OH,43026,M,3/31/2008,3/5/2006
 20588,"Lie, Melanie ",300,OH,43026,F,3/31/2008,7/17/2004
 91682,"Liebelt, Tom ",303,,69003,M,8/31/2014,7/31/2013
-92348,"Lieberman, Richard ",0,NM,87506,M,11/30/2014,
+92348,"Lieberman, Richard ",0,NM,87506,M,12/31/2016,
 75428,"Liebhardt, Carl ",323,OR,97403,M,10/31/2008,11/4/2007
 13749,"Liebman, Leon ",1137,FL,33027,M,12/31/2099,7/10/2005
 77654,"Lieburn, Sam ",499,OH,43221,M,8/26/2008,8/9/2008
@@ -19538,7 +19553,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 9079,"Lijev, Mladen ",1962,IL,60090,M,3/31/2017,7/4/2004
 31009,"Likerman, Alex ",2158,MA,01778,M,12/31/2014,11/30/2014
 72774,"Likhonin, Pavel ",689,PA,16823,M,10/31/2007,4/15/2007
-90936,"Likic, Stefan ",1552,MI,49428,M,6/30/2018,6/28/2015
+90936,"Likic, Stefan ",1556,MI,49428,M,6/30/2018,10/10/2015
 94419,"Lilani, Jineet J",0,PA,16801,M,8/31/2016,
 78168,"Lile, Ryan ",917,SC,29485,M,10/31/2009,10/11/2008
 25874,"Lillie, John T.",1768,FL,33839,M,9/30/2015,7/18/2015
@@ -19621,7 +19636,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 72376,"Lin, Andy ",1739,CA,94607,M,5/31/2015,5/10/2014
 55144,"Lin, Benjamin ",1340,NY,11373,M,8/31/2012,8/6/2011
 75001,"Lin, Benjamin ",542,OR,97007,M,10/31/2009,11/2/2008
-82782,"Lin, Bryant ",2415,CA,94502,M,4/30/2016,8/30/2015
+82782,"Lin, Bryant ",2414,CA,94502,M,4/30/2016,8/30/2015
 17530,"Lin, C.C. ",1644,TX,75235,M,11/30/2011,10/23/2010
 81335,"Lin, Calvin ",975,CA,92886,M,4/30/2015,3/29/2014
 17809,"Lin, Charles ",1738,NY,11021,M,9/30/2006,11/27/2005
@@ -19938,6 +19953,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85814,"Liu, Dan ",2615,CA,94550,M,10/31/2015,9/11/2015
 72905,"Liu, Daniel ",1585,NV,89148,M,8/31/2013,7/6/2013
 73019,"Liu, Daniel ",1088,NJ,08550,M,11/30/2008,10/12/2008
+97748,"Liu, Daniel ",420,NJ,08550,M,10/31/2016,10/3/2015
 21780,"Liu, Daniel T",1583,CA,92782,M,5/31/2016,8/17/2014
 6466,"Liu, Danni ",0,MA,02135,M,5/31/1996,
 77859,"Liu, David (Run Qiang) ",1756,CA,94109,M,9/30/2009,10/5/2008
@@ -19962,7 +19978,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 90995,"Liu, Frank ",1101,NJ,07059,M,9/30/2017,7/19/2015
 82028,"Liu, Gang ",1766,OH,44236,M,2/28/2014,11/25/2012
 81308,"Liu, George ",1685,CA,,M,4/30/2016,3/15/2015
-94601,"Liu, Glen ",1390,TX,78755,M,9/30/2017,9/26/2015
+94601,"Liu, Glen ",1391,TX,78755,M,9/30/2017,9/26/2015
 71278,"Liu, Guangchun ",1512,MI,48085,M,4/30/2007,4/29/2006
 86488,"Liu, Guannan ",2329,NY,11355,F,10/31/2012,2/4/2012
 90585,"Liu, Guo Hao ",1958,CA,92507,M,3/31/2014,3/9/2013
@@ -19990,7 +20006,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 27205,"Liu, James ",1523,MO,65810,M,3/31/2013,4/1/2012
 91024,"Liu, Jason ",2334,ON,,M,6/30/2016,7/11/2015
 1141,"Liu, Jason Jieyang",1239,TX,77584,M,11/30/2012,8/1/2012
-89868,"Liu, Jeffrey ",1738,NJ,08536,M,12/31/2015,9/13/2015
+89868,"Liu, Jeffrey ",1712,NJ,08536,M,12/31/2015,10/3/2015
 78330,"Liu, Jerry ",1582,CA,91301,M,11/30/2009,3/29/2009
 79923,"Liu, Jesse ",1227,MA,01730,M,5/31/2010,11/21/2009
 95976,"Liu, Ji ",1830,CO,80907,M,3/31/2016,2/28/2015
@@ -20066,7 +20082,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75995,"Liu, Patrick ",670,NJ,08820,M,1/31/2009,2/10/2008
 86831,"Liu, Patrick ",1348,CA,91780,M,11/30/2015,10/19/2014
 1628,"Liu, Paul C.T.",1473,MO,65810,M,12/31/2099,7/11/2015
-94571,"Liu, Peidan ",943,PA,19382,M,9/30/2016,9/13/2015
+94571,"Liu, Peidan ",954,PA,19382,M,9/30/2016,9/13/2015
 96979,"Liu, Peizhi ",727,MI,48084,F,6/30/2016,5/30/2015
 89791,"Liu, Peng ",2089,NY,, ,12/31/2013,11/25/2012
 80696,"Liu, Peter ",28,OR,97068,M,8/31/2010,8/15/2009
@@ -20084,6 +20100,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 90120,"Liu, Robin ",0,WA,98074,F,3/31/2018,
 82029,"Liu, Roger ",2212,OH,44236,M,5/31/2018,9/11/2015
 94987,"Liu, Ruiqi ",116,CA,95129,M,11/30/2015,10/26/2014
+97751,"Liu, Ruofan ",0,NY,12180,M,10/31/2016,
 33855,"Liu, Ryan ",835,NJ,08817,M,5/31/2006,5/15/2005
 91746,"Liu, Ryan ",130,CA,94087,M,10/31/2015,4/18/2015
 29516,"Liu, S ",1611,NY,, ,11/30/2003,5/4/2003
@@ -20126,7 +20143,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 70086,"Liu, Wen Jun ",1385,CA,,F,4/30/2007,6/4/2006
 70218,"Liu, Wilson ",1807,VA,22802,M,5/31/2007,3/14/2015
 26175,"Liu, Woei-Jong R.",0,CA,90024,M,12/31/2099,
-77056,"Liu, Xiangyu ",1984,NJ,08854,M,6/30/2016,9/13/2015
+77056,"Liu, Xiangyu ",1894,NJ,08854,M,6/30/2016,10/3/2015
 88006,"Liu, Xiao ",1732,MI,48824,M,4/30/2013,3/30/2013
 87226,"Liu, Xiaoyue ",1181,DE,19711,M,12/31/2012,12/11/2011
 82238,"Liu, Xibo ",2524,CA,95135,M,6/30/2012,6/5/2011
@@ -20348,7 +20365,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 94470,"Lopez, Josue ",437,TX,78230,M,9/30/2015,8/24/2014
 92753,"Lopez, Juan ",1241,,00737,M,12/31/2014,12/1/2013
 74908,"Lopez, Martin ",1718,NC,27522,M,8/31/2008,8/18/2007
-96780,"Lopez, Oliver J",324,NY,10025,M,6/30/2016,9/20/2015
+96780,"Lopez, Oliver J",305,NY,10025,M,6/30/2016,10/3/2015
 86895,"Lopez, Raul ",2031,NY,11232,M,12/31/2015,5/16/2015
 31457,"Lopez, Ricardo ",1390,NV,89123,M,3/31/2005,3/13/2004
 76722,"Lopez, Sarah ",1228,AZ,85706,F,5/31/2009,6/1/2008
@@ -20371,7 +20388,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83622,"Lorenzini, Michael ",757,IL,60514,M,9/30/2011,9/4/2010
 74728,"Lorenzo, Deborah ",982,NV,89110,F,7/31/2008,10/21/2007
 11988,"Lorig, Joshua ",644,IN,46545,M,5/31/1997,11/10/1996
-97151,"Lorinczi, Zoltan ",803,NY,11103,M,7/31/2016,10/4/2015
+97151,"Lorinczi, Zoltan ",802,NY,11103,M,7/31/2016,10/4/2015
 29756,"Loscavio, Paul ",1464,CA,94549,M,7/31/2006,5/25/2003
 82429,"Losiewicz, Kamil ",1675,NY,11416,M,4/6/2010,3/28/2010
 72573,"Losoviz, Martin ",1318,AZ,85016,M,4/30/2007,2/25/2007
@@ -20557,7 +20574,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 30974,"Lu, Zhengyang ",1186,NJ,08536,M,1/31/2006,11/27/2005
 78562,"Lu, Zhong Xing ",2216,VA,20151,M,11/30/2014,6/9/2013
 87845,"Luan, Li ",1998,DE,19808,M,3/31/2013,3/10/2012
-94624,"Luan, Tian ",521,NY,11791,M,9/30/2017,10/4/2015
+94624,"Luan, Tian ",525,NY,11791,M,9/30/2017,10/4/2015
 31839,"Luan, Wayne ",1881,IL,60611,M,4/30/2015,3/22/2014
 69833,"Luangkhot, Bouie ",1018,AR,72762,M,6/30/2012,6/9/2012
 88515,"Luangkhot, Joshua ",510,AR,72762,M,6/18/2012,6/9/2012
@@ -20717,7 +20734,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 22970,"Luo, Zhanjian ",1812,MA,02169,M,4/30/2014,5/26/2013
 91331,"Luo, Zhipu ",1336,IL,60517,M,6/17/2013,6/16/2013
 33557,"Luong, Ben ",0,HI,96819,M,11/30/2005,
-34119,"Luong, Brandon ",1909,NC,27513,M,10/31/2015,2/22/2015
+34119,"Luong, Brandon ",1909,NC,27513,M,10/31/2016,2/22/2015
 71885,"Luong, Brian ",1850,NC,27513,M,8/31/2012,8/20/2011
 75220,"Luong, Daniel ",658,CA,92708,M,10/31/2008,9/29/2007
 26902,"Luong, Edward ",1684,CA,91325,M,4/30/2007,3/26/2006
@@ -20910,7 +20927,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81066,"Macdonald, Kevin ",1372,MO,65742,M,10/20/2009,10/11/2009
 79090,"MacDougall, Chris ",1449,SC,29229,M,1/31/2010,3/22/2009
 65540,"MacDowell, Gordon ",1518,AZ,85382,M,12/31/2099,1/12/2002
-27012,"Mace, Omar ",1658,NJ,07103,M,12/31/2014,8/24/2014
+27012,"Mace, Omar ",1658,NJ,07018,M,10/31/2016,8/24/2014
 73998,"Mace, Roy ",1863,VA,20152,M,12/31/2014,11/30/2014
 34655,"MacFadyen, Colin ",0,CA,93013,M,9/30/2006,
 75155,"MacFarlane, Kenneth ",1478,NC,28806,M,4/30/2015,2/7/2015
@@ -21172,8 +21189,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 75776,"Maldonado, Maria ",1686,,00751,M,12/31/2008,11/30/2008
 89409,"Maldonado, Oscar ",1139,TX,77030,M,12/31/2014,11/23/2013
 30869,"Maldre, Katrin ",1654,IL,60304,F,1/31/2015,7/5/2014
-81522,"Malek, Amanda ",2147,CA,92626,F,10/31/2015,9/26/2015
-8005,"Malek, Attila ",2214,CA,92626,M,12/31/2099,8/30/2015
+81522,"Malek, Amanda ",2137,CA,92626,F,10/31/2015,9/26/2015
+8005,"Malek, Attila ",2210,CA,92626,M,12/31/2099,8/30/2015
 1894,"Malek, Auria ",2346,CA,95070,M,5/31/2013,4/24/2011
 73337,"Malek, Casey ",1695,CA,92626,M,10/31/2012,5/12/2012
 94705,"Malek, Chad ",0,OH,44333,M,10/31/2015,
@@ -21183,7 +21200,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 77510,"Malekian, Spencer ",0,NY,10522,M,7/31/2009,
 85369,"Malek-Madani, Darob ",1004,MD,20906,M,4/30/2012,6/18/2011
 85370,"Malek-Madani, Reza ",1124,MD,20906,M,4/30/2012,6/18/2011
-64047,"Malench, Mark ",1619,NJ,08360,M,3/31/2017,8/22/2015
+64047,"Malench, Mark ",1593,NJ,08360,M,3/31/2017,10/3/2015
 19749,"Malesra, Edul ",0,FL,32137,M,3/31/2000,
 43692,"Maley, Pete ",0,MI,48212,M,12/31/2099,
 27804,"Malgary, Tony ",1141,,,M,4/30/2003,9/29/2002
@@ -22005,7 +22022,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 77238,"McDermott, Dick ",964,NY,14425,M,6/30/2009,10/19/2008
 8201,"McDermott, Don ",1680,CA,,M,12/31/2099,12/20/2008
 89257,"McDermott, Ed ",878,NY,12561,M,10/31/2014,9/30/2012
-93518,"McDermott, John ",1556,NJ,07661,M,4/30/2016,9/27/2015
+93518,"McDermott, John ",1733,NJ,07661,M,4/30/2016,10/3/2015
 23189,"McDiarmid, Steven ",1060,MI,49073,M,4/30/2011,4/18/2010
 78457,"McDonald, Andrew D.",898,MA,02152,M,1/31/2013,6/28/2009
 96494,"McDonald, Bill ",1519,IN,46140,M,5/31/2016,5/3/2015
@@ -22013,7 +22030,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 25641,"McDonald, Charles ",1112,OK,74019,M,12/31/2005,4/13/2002
 91927,"McDonald, Jack ",952,GA,30338,M,2/28/2015,2/1/2014
 20890,"McDonald, John E.",1163,TX,78586,M,3/31/2008,3/25/2007
-23956,"McDonald, Malcolm ",949,NY,11236,M,5/31/2008,3/12/2006
+23956,"McDonald, Malcolm ",987,NY,11236,M,5/31/2008,3/12/2006
 75451,"McDonald, Marion Verna ",408,,T1A0G2,F,6/30/2009,6/8/2008
 73421,"McDonald, Patrick ",642,CA,95662,M,1/31/2008,2/24/2007
 11991,"McDonald, Sonny ",689,IN,46614,M,5/31/1997,11/10/1996
@@ -22077,7 +22094,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 72218,"McGrotha, Andrew ",1085,FL,32817,M,8/31/2007,8/12/2006
 30009,"McGue, Frank J.",1444,VA,22314,M,8/31/2010,10/4/2009
 97347,"McGuigan,  Michael ",1080,NY,11777,M,8/31/2016,9/13/2015
-96353,"McGuigan, Natalie ",585,NY,11777,F,4/30/2016,10/4/2015
+96353,"McGuigan, Natalie ",573,NY,11777,F,4/30/2016,10/4/2015
 69936,"McGuire, Albert ",950,VA,22305,M,2/28/2006,4/10/2005
 35024,"McGuire, Charlie ",1417,NY,14223,M,11/30/2006,11/6/2005
 84588,"McGuire, Conor ",0,NC,28584,M,1/31/2012,
@@ -22259,7 +22276,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85881,"Medunjanin, Amel ",2013,CT,06825,M,10/31/2015,7/26/2015
 77902,"Meduri, Aakaash ",591,IL,60559,M,9/30/2009,3/29/2009
 77901,"Meduri, Vishaal ",623,IL,60559,M,9/30/2009,3/29/2009
-95331,"Medved, Jane ",1009,NY,11218,F,12/31/2017,9/13/2015
+95331,"Medved, Jane ",786,NY,11218,F,12/31/2017,9/13/2015
 94829,"Medvedev, Oleg ",49,CA,94024,M,10/31/2015,5/3/2015
 73964,"Meeder, Ben ",971,PA,17601,M,4/30/2008,4/15/2007
 88725,"Meek, Darren ",0,FL,33469,M,7/31/2013,
@@ -22345,7 +22362,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 41942,"Meleshenko, Alex ",1869,PA,15221,M,5/31/2016,5/2/2015
 14250,"Melgarejo Munoz, Jaime A.",1865,CA,91335,M,11/30/2006,5/27/2006
 85784,"Melikian, Arthur ",1845,CA,91501,M,6/30/2012,5/22/2011
-97442,"Melkomian, Hovik ",0,CA,91203,M,10/31/2016,
+97442,"Melkomian, Hovik ",0,CA,91203,M,12/31/2016,
 94230,"Meller, Mack ",609,NY,10506,M,7/31/2015,6/28/2015
 58729,"Mellinger, Jace. A.",1812,NC,27501,M,4/30/2018,8/16/2015
 90042,"Mellis, Eric L",630,NY,10804,M,9/30/2015,10/19/2013
@@ -22364,7 +22381,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 96584,"Melwani, Pak ",228,,8550,M,5/31/2016,5/9/2015
 65450,"Memarzadeh, Mehdi ",1580,CA,90025,M,9/30/2015,3/29/2015
 91774,"Membreno, Raul ",1070,TX,78258,M,8/23/2013,8/11/2013
-85614,"Memon, Kashif ",1570,TN,38018,M,6/30/2015,9/27/2014
+85614,"Memon, Kashif ",1570,TN,38018,M,10/31/2016,9/27/2014
 27990,"Menard, Mathieu ",314,VT,05055,M,5/31/2003,10/19/2002
 32491,"Menchaca, Gustavo ",763,CA,92054,M,12/31/2005,10/8/2004
 93883,"Mencias, Joey ",1722,WV,24740,M,11/30/2015,3/14/2015
@@ -22664,7 +22681,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 1167,"Miller, David ",1279,FL,33812,M,5/31/2016,9/19/2015
 87883,"Miller, David ",904,IN,46563,M,3/29/2012,3/11/2012
 13686,"Miller, Dennis ",1441,MI,48423,M,3/31/2008,4/1/2007
-93351,"Miller, Dion Payne",1679,IN,46628,M,5/31/2016,9/20/2015
+93351,"Miller, Dion Payne",1684,IN,46628,M,5/31/2016,9/20/2015
 93352,"Miller, Dionta Payne",1483,IN,46628,M,5/31/2016,9/20/2015
 32083,"Miller, Don ",1028,CO,80528,M,12/31/2099,3/25/2006
 73829,"Miller, Duane ",833,PA,17557,M,4/30/2008,4/15/2007
@@ -22694,7 +22711,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 33059,"Miller, John C.",1449,IL,62538,M,4/30/2010,6/29/2008
 8363,"Miller, John H.",0,DE,19711,M,12/31/2099,
 1491,"Miller, John L.",1371,WA,98053,M,12/31/2015,3/5/1995
-18162,"Miller, John R.",1305,TX,78729,M,6/30/2016,8/1/2015
+18162,"Miller, John R.",1308,TX,78729,M,6/30/2016,8/1/2015
 8366,"Miller, John S.",0,FL,32092,M,12/31/2099,
 97402,"Miller, John T ",988,WA,98007,M,9/30/2016,8/23/2015
 82103,"Miller, Jonathan ",173,AR,72113,M,3/31/2014,2/19/2011
@@ -22818,7 +22835,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88029,"Mirani, Jash ",497,CT,06032,M,4/19/2012,4/15/2012
 88030,"Mirani, Neel ",512,CT,06032,M,4/19/2012,4/15/2012
 19793,"Miranova, Liz ",800,KS,66046,F,3/31/2000,9/11/1999
-96535,"Mirchandani, Kapil P",1323,NJ,08536,M,5/31/2016,6/14/2015
+96535,"Mirchandani, Kapil P",1340,NJ,08536,M,5/31/2016,10/3/2015
 32909,"Mirdamadi, Mike ",703,MI,48526,M,9/30/2005,8/28/2004
 32120,"Mireault, David ",631,ME,04210,M,5/31/2006,5/6/2006
 95161,"Miritello, Jesse ",953,AZ,85213,M,11/30/2015,12/7/2014
@@ -22849,7 +22866,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 33379,"Missenberger, Michael ",1605,MA,01921,M,10/31/2005,2/13/2005
 75901,"Mistri, Avinash ",1700,NY,10566,M,1/31/2009,1/5/2008
 90290,"Mistry, Devarshi ",921,NJ,07080,M,8/31/2016,8/9/2015
-85480,"Mistry, Jayesh ",1624,NJ,07080,M,8/31/2018,9/13/2015
+85480,"Mistry, Jayesh ",1657,NJ,07080,M,8/31/2018,10/3/2015
 88104,"Mistry, Krupa ",116,NJ,07080,F,4/30/2013,4/14/2013
 14074,"Misu, Jumpei ",2161,FL,33913,M,5/31/2006,7/4/1999
 75037,"Mita, Jonathan ",450,CA,91006,M,9/30/2008,8/26/2007
@@ -23391,7 +23408,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 25952,"Moy, Yu Cheung ",2048,AZ,85718,M,12/31/2013,11/25/2012
 77490,"Moy, Zachary ",1821,IL,60194,M,12/31/2099,9/20/2015
 97537,"Moya, Ignacio J",0,FL,33433-8417,M,9/30/2016,
-82256,"Moyant, Kyle ",1471,NM,88240,M,7/31/2015,7/11/2015
+82256,"Moyant, Kyle ",1471,NM,88220,M,10/31/2016,7/11/2015
 72327,"Moylan, Jake C.",0,TX,77584,M,9/30/2007,
 94880,"Moyland, Sally Huang",757,CA,94538,F,10/31/2015,12/20/2014
 76012,"Mozingo, James M.",1330,MD,20879,M,2/29/2020,5/2/2015
@@ -23432,7 +23449,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 19611,"Muessig, Dennis ",1813,MO,63304,M,6/30/2007,4/15/2007
 76201,"Mugerian, George ",1004,MI,48858,M,12/31/2011,11/20/2010
 86231,"Mugren, Abdulaziz ",2073,NY,10301,M,5/31/2016,9/27/2015
-85872,"Mugren, Ibrahim ",1983,NY,10301,M,12/31/2016,9/27/2015
+85872,"Mugren, Ibrahim ",1879,NY,10301,M,12/31/2016,10/3/2015
 71576,"Muhammad, Anthony ",1619,IL,60443,M,3/31/2012,5/9/2009
 71759,"Muhammad, Ashraf ",1659,AL,35242,M,4/30/2015,3/29/2014
 18817,"Muhammad, James ",1885,MI,48214,M,8/31/2014,6/22/2014
@@ -23640,7 +23657,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 74319,"Myers, Russel ",959,OH,45231,M,5/31/2008,5/6/2007
 81835,"Myers, Spencer ",568,FL,33556,M,1/31/2011,1/23/2010
 87691,"Myers, Stuart ",1119,FL,32309,M,6/30/2013,6/9/2012
-78826,"Myers, Timothy ",1402,PA,17013,M,1/31/2012,4/10/2011
+78826,"Myers, Timothy ",1479,PA,17013,M,1/31/2012,4/10/2011
 23508,"Myers, Wayne ",754,AR,72131,M,12/31/2099,9/27/2014
 78966,"Mynatt, George C.",987,CO,80513,M,1/31/2012,6/19/2010
 31928,"Myott, Randy ",1452,NC,27341,M,5/31/2011,1/30/2011
@@ -23801,7 +23818,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 91284,"Narasimhan, Balaji ",1002,FL,33027,,9/30/2015,2/8/2015
 90970,"Naravane, Ajit ",1514,MA,02760,M,2/28/2015,1/25/2015
 96579,"Narayan, Abhinav ",993,MI,48083,M,5/31/2016,6/28/2015
-95085,"Narayan, Neha ",501,NJ,08536,F,11/30/2015,9/13/2015
+95085,"Narayan, Neha ",439,NJ,08536,F,11/30/2015,10/3/2015
 93874,"Narayan, Yash ",0,CA,94070,M,6/30/2015,
 11721,"Narayana, Sthanam ",1037,AL,35243,M,5/31/2009,5/3/2008
 95086,"Narayanam, Hari ",446,NJ,08648,M,11/30/2015,5/9/2015
@@ -24072,7 +24089,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 54454,"Newton, Damon L.",1550,FL,33076,M,5/31/2009,4/11/2009
 96540,"Newton, David ",0,VA,20165,M,5/31/2016,
 18093,"Newton, Deborah ",468,FL,32901,F,4/30/2007,7/24/2004
-53159,"Newton, Dwight L.",2000,FL,32935,M,10/31/2016,9/19/2015
+53159,"Newton, Dwight L.",2000,FL,32935,M,12/31/2016,9/19/2015
 81891,"Newton, Gary ",0,OH,44691,M,1/31/2015,
 47497,"Newton, Jeff K.",1289,GA,30750,M,12/31/2099,9/27/2014
 32463,"Newton, Kolby ",699,OR,97219,M,6/30/2005,6/13/2004
@@ -24328,7 +24345,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32032,"Nguyen, Luu (Louis) ",1221,CA,92708,M,9/30/2006,9/17/2005
 72402,"Nguyen, Mac ",1403,CA,92126,M,9/30/2007,10/8/2006
 71323,"Nguyen, Mai ",995,CA,92804,,6/30/2009,5/7/2006
-94067,"Nguyen, Manh ",1068,CA,92805,M,7/31/2015,6/28/2014
+94067,"Nguyen, Manh ",1068,CA,92805,M,10/31/2016,6/28/2014
 81169,"Nguyen, Matthew ",0,TX,77479,M,10/31/2012,
 30954,"Nguyen, Michael ",1383,AZ,85732,M,11/30/2010,5/2/2010
 25342,"Nguyen, Michael ",2022,CA,92683,M,8/31/2016,8/15/2015
@@ -24435,7 +24452,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 96861,"Nguyen, Tri ",103,OR,97003,M,7/31/2018,8/1/2015
 4500,"Nguyen, Tri Van ",1334,CA,92054,M,12/31/1995,6/11/1995
 96271,"Nguyen, Trieu ",1960,CA,91791,M,4/30/2016,9/6/2015
-47500,"Nguyen, Trieu-Tien (Tommy) ",2179,CA,94536,M,6/30/2016,9/26/2015
+47500,"Nguyen, Trieu-Tien (Tommy) ",2177,CA,94536,M,6/30/2016,9/26/2015
 73016,"Nguyen, Trung ",1330,TN,,M,5/31/2007,11/8/2008
 30923,"Nguyen, Trung ",884,WA,,M,6/30/2004,11/23/2003
 84377,"Nguyen, Trung H.",1687,TX,77072,M,11/30/2011,11/7/2010
@@ -24747,7 +24764,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95002,"Nye, Chris ",640,US,,M,11/5/2014,10/26/2014
 28198,"Nyeste, Kyle ",1898,CA,91184,M,10/31/2011,4/23/2011
 81232,"Nygaard, Adil ",137,IL,60615,M,11/30/2010,10/18/2009
-95087,"Nygren, Alexa ",177,PA,18940,F,11/30/2015,11/1/2014
+95087,"Nygren, Alexa ",169,PA,18940,F,11/30/2015,10/3/2015
+61075,"Nygren, Kjell Hke ",1674,OH,43220,M,10/31/2016,10/3/2015
 77427,"Nymann, James ",1161,TX,78633,M,5/31/2012,7/30/2011
 81447,"Nystrom, Benjamin ",0,PA,16803,M,11/30/2010,
 6214,"Nyysola, Alan ",977,NY,11201,M,2/28/2011,5/18/1997
@@ -25129,7 +25147,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 35010,"Orros, Darwin ",855,IA,50401,M,5/31/2012,7/17/2011
 70992,"Orsini, Hector ",1785,FL,33604,M,3/31/2007,3/31/2007
 9669,"Ort, Valeriy ",2065,CT,06897,M,4/30/2010,11/25/2007
-81272,"Ortal, Devin ",1229,HI,96818,M,10/31/2016,4/15/2012
+81272,"Ortal, Devin ",1229,HI,96818,M,12/31/2016,4/15/2012
 77087,"Ortalla, Henberd ",2371,,,M,8/31/2010,10/28/2012
 77083,"Ortalla, Jose ",2360,,,,8/31/2010,7/4/2009
 74859,"Ortega, Jorge E.",0,FL,33991,M,8/31/2008,
@@ -25213,7 +25231,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78609,"Otunyo, Dumbi ",877,PA,16801,M,4/30/2011,4/11/2010
 96726,"Ou , Rachel ",666,,8807,F,6/30/2016,9/27/2015
 97418,"Ou Yang, Ark ",565,,8801,M,9/30/2016,9/27/2015
-94633,"Ou, Brian ",565,NY,11375,M,9/30/2015,9/13/2015
+94633,"Ou, Brian ",521,NY,11375,M,9/30/2015,9/13/2015
 82279,"Ou, Eun Gina ",1589,IL,60654,F,3/31/2011,4/18/2010
 80634,"Ou, Jasper ",1771,FL,32779,M,10/31/2014,12/1/2013
 86305,"Ou, Jimmy ",1558,CA,94116,M,9/15/2011,9/5/2011
@@ -25233,7 +25251,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 97321,"Ovalles, Juan ",1097,NY,11385,M,8/31/2016,6/14/2015
 53058,"Oveissi, Ali R.",1993,NY,11361,M,8/31/2018,9/13/2015
 73678,"Oveissi, Arian ",1302,NY,11361,M,3/31/2009,8/24/2008
-79946,"Overbeek, Brad ",1867,MI,49512,M,4/30/2016,6/28/2015
+79946,"Overbeek, Brad ",1807,MI,49512,M,4/30/2016,10/10/2015
 237,"Overbeek, Jonathan ",1424,MI,49525,M,5/31/2015,7/5/2014
 69777,"Overholt, Corey ",1167,OH,,M,8/31/2005,1/23/2005
 83274,"Overton, Andrew ",1152,TX,78602,M,3/31/2013,2/26/2012
@@ -25548,7 +25566,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 13615,"Parakh, Neville ",1704,TN,37412,M,8/31/2015,8/2/2014
 23607,"Parakh, Percy ",1334,TN,37412,M,9/30/2001,3/10/2001
 69818,"Parakhnevich, Aliaksandr ",1408,DE,19971,M,2/28/2006,1/22/2005
-15792,"Parameswaran, Sreeram ",1867,AZ,85749,M,10/31/2016,9/27/2015
+15792,"Parameswaran, Sreeram ",1870,AZ,85749,M,10/31/2016,9/27/2015
 79826,"Paramonova, Ekaterina ",1712,PA,19382,F,4/30/2010,7/19/2009
 81603,"Paranjape, Abhay ",1489,CA,,M,12/31/2010,12/6/2009
 86261,"Paranjape, Anand ",1198,WA,98008,M,10/31/2017,6/24/2012
@@ -25766,7 +25784,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88069,"Patel, Dev ",812,PA,19341,M,4/30/2013,4/22/2012
 90195,"Patel, Dhruv ",762,IL,60047,M,1/31/2014,4/20/2013
 84227,"Patel, Dwij D",534,PA,16801,M,11/30/2011,10/23/2010
-83141,"Patel, Farhan ",1248,NJ,08820,M,6/30/2017,9/13/2015
+83141,"Patel, Farhan ",1246,NJ,08820,M,6/30/2017,9/13/2015
 76171,"Patel, Harish ",1336,AR,72223,M,2/28/2009,5/3/2008
 95654,"Patel, Luqman ",1707,FL,32405,M,5/31/2016,6/6/2015
 71374,"Patel, Mehul ",1686,AZ,85286,M,9/30/2016,9/27/2015
@@ -26245,6 +26263,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95210,"Pfeil, Fabian ",856,NY,10583,M,12/31/2015,4/26/2015
 91637,"Pfeister, Michael ",947,AZ,85234,M,10/31/2014,7/26/2014
 73388,"Pfleiderer, Jeff ",1020,FL,32812,M,1/31/2008,1/13/2007
+97749,"Pflueger, Dan ",67,NJ,07401,M,10/31/2016,10/3/2015
 4679,"Pfotentlsuim, Jason ",785,,,M,2/28/2002,6/30/2001
 32261,"Phachantry, P.J. ",1866,KS,67216,M,5/31/2015,3/21/2015
 33314,"Phachantry, Pete ",1466,KS,67216,M,10/31/2005,12/4/2004
@@ -26278,7 +26297,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 33702,"Pham, Khang ",1718,CA,92881,M,4/30/2014,10/27/2013
 28370,"Pham, Kiet ",1608,AZ,85009,M,12/31/2007,12/2/2006
 74459,"Pham, Linh ",1398,FL,33441,M,5/31/2008,5/20/2007
-92907,"Pham, Loi ",1989,CO,80219,M,2/29/2016,9/27/2015
+92907,"Pham, Loi ",1990,CO,80260,M,2/29/2016,9/27/2015
 56001,"Pham, Long Bao ",2035,MA,02155,M,12/31/2007,10/7/2007
 95232,"Pham, May Thi ",502,CA,92841,F,12/31/2015,11/22/2014
 96159,"Pham, Michael ",1145,CO,80907,M,4/10/2015,3/29/2015
@@ -26549,7 +26568,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 69814,"Plakon, Scott ",1680,FL,32779,M,2/28/2006,7/10/2005
 69815,"Plakon, Timothy ",439,FL,32779,M,2/28/2006,8/28/2005
 70975,"Plankenhorn, Heiko ",2013,SC,29708,M,5/31/2014,3/16/2014
-82381,"Plassman, Carl ",750,CT,06281,M,9/30/2015,9/20/2015
+82381,"Plassman, Carl ",750,CT,06281,M,10/31/2016,9/20/2015
 79621,"Platt, David ",722,CA,92122,M,4/30/2010,4/26/2009
 32219,"Platts, Jeremy ",288,IN,47362,M,9/30/2009,9/7/2008
 81675,"Plawecki, Brian ",0,MI,48763,M,1/31/2011,
@@ -26560,7 +26579,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 24033,"Pleyer, Thomas ",1836,NY,11214,M,11/30/2001,5/6/2001
 72763,"Plitt, Joan ",662,,T4V 4A6,F,10/26/2010,10/7/2010
 23206,"Plizga, Roger ",801,OH,44062,M,8/31/2001,1/21/2001
-94587,"Plog, Jason ",2445,TX,76105,M,10/31/2015,9/26/2015
+94587,"Plog, Jason ",2445,TX,76105,M,10/31/2016,9/26/2015
 75223,"Plommer, Margit ",1163,CA,92653,F,10/31/2008,5/10/2008
 75224,"Plommer, Siegfried ",1178,CA,92653,M,10/31/2008,5/10/2008
 60632,"Plost, Martin ",1506,CA,90275,M,12/31/2099,12/20/2014
@@ -26656,7 +26675,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34863,"Polte, Hans ",795,MT,59901,M,12/31/2099,4/20/2008
 89027,"Polubinski, James ",1026,MI,48026,M,9/30/2013,3/24/2013
 90412,"Polumuri, Swamykumar ",1559,MD,21029,M,3/31/2015,3/29/2014
-77985,"Polyakov, Alex ",1945,PA,19115,M,9/30/2016,9/13/2015
+77985,"Polyakov, Alex ",1962,PA,19115,M,9/30/2016,10/3/2015
 90892,"Polyanskiy, Michelle ",1295,MD,21209,F,4/30/2014,9/7/2013
 91599,"Polymeridis, Athanasios ",1643,MA,02139,M,8/1/2013,6/30/2013
 70087,"Pombo, Manny ",1437,CA,,M,9/30/2005,2/20/2005
@@ -26883,7 +26902,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 82240,"Prasanna, Shreyas ",1560,CA,94539,M,3/31/2014,7/6/2013
 77530,"Prasanna, Shruti ",1558,CA,94539,F,3/31/2014,7/6/2013
 72422,"Prasetyo, Dyoko ",1813,CA,92316,M,9/30/2007,8/27/2006
-97049,"Prasetyo, Nazetri ",1661,AZ,85249,M,12/31/2099,9/27/2015
+97049,"Prasetyo, Nazetri ",1662,AZ,85249,M,12/31/2099,9/27/2015
 33470,"Praseuth, Danny ",777,AR,72065,M,2/28/2009,2/2/2008
 75957,"Prashad, Rishi ",0,NY,11746,M,1/31/2011,
 85937,"Prata, Roberto ",0,FL,33012,M,7/31/2012,
@@ -26891,7 +26910,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 37765,"Prather, Dennis ",1953,KY,42066,M,10/31/2010,10/11/2009
 9195,"Prather, Willis I.",0,WI,53210,M,12/31/2099,
 26700,"Prato Martinez, Nestor Jose",1595,OK,74134,M,8/31/2016,9/26/2015
-87488,"Prato, Fernando ",1053,OK,74134,M,8/31/2016,6/20/2015
+87488,"Prato, Fernando ",1049,OK,74134,M,8/31/2016,6/20/2015
 1231,"Pratt, Alexander ",514,PA,19139,M,4/30/2006,4/3/2005
 50829,"Pratt, Gary J.",1901,GA,30078,M,7/31/2005,9/12/2004
 62343,"Pratt, George M.",1198,TX,77707,M,4/30/2013,3/24/2012
@@ -26977,7 +26996,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 77797,"Priestley, Robert ",1685,MI,48507,M,5/31/2016,5/3/2015
 22792,"Prieto, Alberto ",1622,GA,30081,M,11/30/2017,7/19/2015
 90944,"Prillo, Corey ",1015,FL,32951,M,5/2/2013,4/20/2013
-92044,"Primus, Caesar ",578,PA,18940,M,10/31/2018,8/9/2015
+92044,"Primus, Caesar ",585,PA,18940,M,10/31/2018,10/3/2015
 31075,"Prince, James ",0,TX,78757,M,1/31/2005,
 84785,"Prince, Scott ",749,IN,46032,M,2/29/2012,2/5/2011
 90455,"Prindle, Cynthia ",1029,TX,78247,F,8/31/2014,12/8/2013
@@ -27049,7 +27068,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95877,"Pua-Venzon,  Igualson ",613,CO,80907,M,3/31/2016,6/21/2015
 31781,"Puchaev, Ruben ",1670,NY,11050,M,4/30/2005,3/21/2004
 81961,"Puchalski, Krzysztof ",1998,IL,60005,M,10/31/2015,9/20/2015
-76009,"Puchulutegui, Jorge Luis",1847,CA,91205,M,11/30/2015,9/6/2015
+76009,"Puchulutegui, Jorge ",1847,CA,91205,M,11/30/2015,9/6/2015
 71740,"Pucino, Michael ",0,NY,13148,M,6/30/2007,
 89387,"Puckett, Andy ",1049,GA,30067,M,10/31/2013,10/13/2012
 20041,"Puding, Hank ",1471,NY,12978,M,3/31/2014,10/10/2013
@@ -27189,7 +27208,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 71902,"Qin, Henry ",950,WA,98001,M,4/30/2013,6/24/2012
 94988,"Qin, Jack ",750,CA,94546,M,11/30/2015,9/26/2015
 72380,"Qin, Jerry ",924,CA,94133,M,9/30/2007,5/27/2007
-92665,"Qin, Jonathan ",1996,AZ,85310,M,2/29/2016,9/27/2015
+92665,"Qin, Jonathan ",2025,AZ,85310,M,2/29/2016,9/27/2015
 30017,"Qin, Meng ",590,MA,02472,F,6/30/2005,6/6/2004
 33120,"Qin, Ping ",1350,NJ,,M,4/30/2005,9/12/2004
 71664,"Qin, Song ",1669,TX,75205,M,5/31/2014,6/22/2013
@@ -27211,7 +27230,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 27034,"Qiu, Victor ",1532,CA,95123,M,6/30/2006,2/11/2006
 82284,"Qiu, Yu (Jason) ",721,MO,63131,M,3/31/2011,3/21/2010
 31045,"Qiu, Yuan Chong ",2214,,,M,12/31/2013,11/25/2012
-95635,"QU, Amanda ",307,PA,19067,F,2/29/2016,5/9/2015
+95635,"QU, Amanda ",585,PA,19067,F,2/29/2016,10/3/2015
 31782,"Qu, Annie ",1139,NJ,07052,F,4/30/2005,2/27/2005
 75774,"Qu, Anthony ",2128,MD,20854,M,10/31/2016,6/13/2015
 70430,"Qu, Cheng ",2147,CA,94582,M,12/31/2011,5/29/2011
@@ -27298,7 +27317,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 44757,"Rabinovich, Boris ",2104,NY,11214,M,5/31/2012,5/23/2004
 358,"Rabinovich, Boris M.",1670,NY,11214,M,3/31/2011,6/12/2011
 79181,"Rabinowitz, Roiene ",469,MN,55426,F,2/28/2010,1/31/2010
-89306,"Rabjohn, Dusty ",1645,IL,60647,M,1/31/2016,9/20/2015
+89306,"Rabjohn, Dusty ",1650,IL,60647,M,1/31/2016,9/20/2015
 31586,"Raboin, Nathan ",435,CT,,M,9/30/2004,3/7/2004
 31587,"Raboin, Rene ",698,CT,,M,9/30/2004,3/7/2004
 31588,"Raboin, Travis ",451,CT,,M,9/30/2004,3/7/2004
@@ -27856,7 +27875,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78422,"Reitz, Dylan ",929,NY,12440,M,11/30/2009,10/26/2008
 76562,"Reitzas, Joel ",1308,NY,10003,M,4/30/2009,3/30/2008
 33867,"Rejman, Kamil ",1612,RI,02864,M,12/31/2007,8/26/2007
-95785,"Rele, Aadit ",464,NJ,08831,M,2/28/2018,5/9/2015
+95785,"Rele, Aadit ",562,NJ,08831,M,2/28/2018,10/3/2015
 9397,"Releford, James ",1639,GA,31008,M,12/31/2099,7/21/2002
 73169,"Releford, Susan ",523,KY,41011,F,1/31/2008,5/6/2007
 33335,"Rema, Vanlal ",1614,MD,20874,M,10/31/2007,11/26/2006
@@ -28028,7 +28047,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 58520,"Richardson, Mel ",1606,CA,95865,M,2/28/2007,12/17/2005
 50014,"Richardson, Tim ",0,NY,10004,M,12/31/2099,
 34219,"Richart, Paul ",906,CA,92807,M,8/31/2006,7/8/2006
-77292,"Richer, Don ",1334,NM,87199,M,12/31/2015,9/27/2015
+77292,"Richer, Don ",1336,NM,87199,M,12/31/2015,9/27/2015
 79784,"Richey, Joseph ",0,PA,16801,M,4/30/2010,
 72670,"Richman, Laurence ",1268,FL,33446,M,2/29/2012,11/1/2008
 83501,"Richman, Ryan ",1220,FL,33076,M,8/31/2011,8/22/2010
@@ -28180,6 +28199,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 10992,"Ro, Kuang-Hsiung ",1964,NY,11364,M,11/30/2008,3/30/2008
 85750,"Roa Pernia, Jesus Leonardo ",2049,,,M,5/31/2015,7/5/2014
 93003,"Roab, Joshua ",283,GA,,M,2/13/2014,2/1/2014
+97632,"Roach, Adam ",1010,NY,14623,M,9/30/2016,9/19/2015
 29447,"Roach, Khellon ",2129,NJ,07018,M,5/31/2007,11/27/2005
 8596,"Roach, Roy ",1574,MA,01605,M,6/30/2012,5/22/2011
 79624,"Roach, Thomas ",1191,FL,33027,M,12/31/2011,4/3/2011
@@ -28347,7 +28367,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81311,"Rodrigo, Miguel ",985,CA,94133,M,11/12/2009,11/8/2009
 81871,"Rodriguera, George M.",1551,MA,01519,M,1/31/2011,5/23/2010
 81526,"Rodrigues, Cameron ",774,VA,22204,M,11/30/2010,11/15/2009
-69795,"Rodrigues, Mel ",1222,MI,49001,M,10/31/2016,3/22/2014
+69795,"Rodrigues, Mel ",1222,MI,49001,M,12/31/2016,3/22/2014
 32657,"Rodrigues, Ryan ",864,NY,11576,M,7/31/2005,7/18/2004
 24005,"Rodriguez Caraballo, Miguel Angel",2270,,00985,M,11/30/2008,12/30/2007
 94667,"Rodriguez Gomez, Oscar ",1373,MO,63301,M,10/31/2015,9/20/2015
@@ -28853,7 +28873,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 82724,"Ryait, Disney ",2146,CA,92122,M,9/30/2020,9/6/2015
 76271,"Ryalls-Clephane, Stephen ",1450,FL,34613,M,2/28/2009,2/23/2008
 95146,"Ryan, Arthur ",1103,NY,11784,M,11/30/2015,1/25/2015
-49452,"Ryan, Bill J.",2061,KS,67208,M,6/30/2016,4/27/2008
+49452,"Ryan, Bill J.",2061,KS,67208,M,6/30/2016,6/25/2015
 81536,"Ryan, Chad ",1648,IN,47060,M,1/31/2015,5/10/2014
 79701,"Ryan, Douglas F.",1636,CA,92504,M,4/30/2017,1/24/2015
 32918,"Ryan, Gerald ",958,AZ,85375,M,9/30/2005,12/18/2004
@@ -28916,8 +28936,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 69621,"Sackrin, Alan ",971,FL,33009,M,1/31/2006,1/9/2005
 71313,"Sacks, Jerry ",0,CA,95648,M,4/30/2009,
 54376,"Sacra, Tom A.",1449,AZ,85739,M,12/31/2099,10/6/2011
-71568,"Sacramore, Anthony ",0,NY,11364,M,5/31/2007,
 71565,"Sacramore, Anthony ",0,NY,11364,M,5/31/2007,
+71568,"Sacramore, Anthony ",0,NY,11364,M,5/31/2007,
 71566,"Sacramore, Debra ",0,NY,11364,F,5/31/2007,
 71567,"Sacramore, Rozzo ",0,NY,11364,M,5/31/2007,
 71569,"Sacramore, Victoria ",0,NY,11364,F,5/31/2007,
@@ -29022,8 +29042,8 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 43722,"Salas, John ",1697,VA,23467,M,4/30/2016,9/13/2015
 92073,"Salas-Lieves, Omar ",715,OH,43068,M,2/29/2016,3/21/2015
 26183,"Salata, Marty ",1762,NY,14526,M,3/31/2011,2/27/2011
-79268,"Salatov, Konstantyn ",1534,MD,20878,M,10/31/2016,3/22/2009
-86265,"Salay, Mickey ",1819,NJ,08690,M,12/31/2099,4/19/2015
+79268,"Salatov, Konstantyn ",1534,MD,20878,M,12/31/2016,3/22/2009
+86265,"Salay, Mickey ",1859,NJ,08690,M,12/31/2099,10/3/2015
 17439,"Salazar, Bart ",1882,NY,12309,M,6/30/2010,5/25/2008
 27418,"Salazar, Christopher ",1982,CO,80163,M,11/30/2009,12/20/2008
 91044,"Salazar, Gabriel ",1600,,,M,5/31/2014,7/6/2013
@@ -29291,7 +29311,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 35295,"Santiago, Stephanie ",1017,NJ,07104,F,6/30/2010,5/23/2010
 81724,"Santiago-Burgos, Gabriel ",1900,,00795,M,11/30/2010,11/29/2009
 81635,"Santilli, Franco ",462,MI,48127,M,12/31/2012,5/1/2011
-96529,"Santini,  Marco ",1620,AZ,85353,M,7/31/2016,9/27/2015
+96529,"Santini,  Marco ",1641,AZ,85353,M,7/31/2016,9/27/2015
 32735,"Santo, Rudy ",1650,FL,33782,M,8/31/2015,1/19/2008
 9719,"Santo, Ulpiano ",1306,VA,,M,12/31/2099,7/8/2001
 73158,"Santoro, James ",779,FL,32304,M,12/31/2007,12/2/2006
@@ -29326,7 +29346,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32695,"Saraf, Laxmikant ",1487,WA,99301,M,7/31/2006,10/16/2005
 84595,"Saran, Arjun ",945,TX,77401,M,1/31/2014,1/8/2011
 84596,"Saran, Vivek ",570,TX,77401,M,1/31/2014,1/8/2011
-87694,"Sarangdhar, Tejas ",1982,TX,78759,M,10/31/2015,9/27/2014
+87694,"Sarangdhar, Tejas ",2006,TX,78759,M,10/31/2015,10/3/2015
 22779,"Saraswatula, Phani kumar ",1265,NJ,08820,M,6/30/2008,5/20/2007
 88993,"Sarchiapone, Joseph ",61,,, ,9/5/2012,4/21/2012
 32644,"Sarcona, Adam ",0,CA,90278,M,7/31/2005,
@@ -29366,7 +29386,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78048,"Sasabuchi, Hank ",2021,IL,60194,M,9/30/2009,9/13/2008
 91467,"Sasho, Kensuke ",392,NJ,07652,M,7/31/2014,9/15/2013
 72364,"Sasidhar, V. ",2052,,,M,3/31/2007,8/20/2006
-571,"Sasieta, Alfonso E. ",1408,IL,62016,M,5/31/2017,9/13/2015
+571,"Sasieta, Alfonso E. ",1508,IL,62016,M,5/31/2017,9/13/2015
 78589,"Saslow, Alexander M",0,CT,06001,M,12/31/2012,
 24460,"Sastry, Murali N.",1859,MA,01854,M,3/31/2014,4/22/2012
 25821,"Satanovsky, Mikhail ",1588,OH,44056,M,10/31/2015,9/11/2015
@@ -29402,7 +29422,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 96672,"Saun, Deep ",0,NP,,M,5/31/2016,
 747,"Saunders, Chris ",409,PA,18235,M,4/30/2006,4/17/2005
 94844,"Saunders, Clark ",381,MA,02493,M,10/20/2014,9/27/2014
-94840,"Saunders, Craig ",1619,VA,22309,M,10/31/2015,12/20/2014
+94840,"Saunders, Craig ",1619,VA,22309,M,10/31/2016,12/20/2014
 94845,"Saunders, Greg ",1023,MA,02493,M,10/20/2014,9/27/2014
 22646,"Saunders, Maximillian ",977,GA,30350,M,5/31/2001,10/21/2000
 88342,"Saunders, Ryan ",846,NC,27891,M,5/21/2012,5/5/2012
@@ -29433,7 +29453,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 72129,"Savin, Dmytro ",0,NJ,08816,M,8/31/2009,
 30163,"Savisky, Gregory ",1236,,,M,3/31/2004,8/3/2003
 33291,"Savitt, Michael Paul ",729,IN,,M,4/30/2005,10/17/2004
-49513,"Savitz, Bernard E.",1483,AZ,85254,M,12/31/2016,9/27/2015
+49513,"Savitz, Bernard E.",1417,AZ,85254,M,12/31/2016,9/27/2015
 83884,"Savitzky, Keith ",1261,NY,11354,M,10/31/2011,9/4/2011
 72511,"Sawant, Milind ",0,CA,92122,M,9/30/2007,
 30201,"Sawatsky, John ",1749,IN,46526,M,8/31/2008,5/4/2008
@@ -29606,7 +29626,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 57347,"Schmidl, Werner W.",1310,NY,12165,M,11/30/2005,10/20/2002
 40338,"Schmidlen, Mark Shawn",1884,WY,26726,M,12/31/2007,11/27/2005
 84387,"Schmidt, Andy ",749,WI,53018,M,12/31/2012,12/3/2011
-39366,"Schmidt, Avishy ",2217,CA,94501,M,10/31/2015,8/30/2015
+39366,"Schmidt, Avishy ",2215,CA,94501,M,10/31/2015,8/30/2015
 9798,"Schmidt, Charles J.",0,NY,12203,M,12/31/2099,
 86585,"Schmidt, Derek ",881,KS,67501,M,10/31/2012,4/21/2012
 8560,"Schmidt, Dieter ",1801,WI,53103,M,7/31/2012,7/4/2011
@@ -29728,7 +29748,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88431,"Schultz, Logan ",138,CT,06483,M,6/30/2013,5/27/2012
 90310,"Schultz, Nicole ",788,KS,66061,F,2/28/2019,5/18/2013
 58519,"Schultz, Randall ",0,KY,41018,M,12/31/2099,
-96530,"Schultz, William ",1328,AZ,85335,M,5/31/2016,9/27/2015
+96530,"Schultz, William ",1335,AZ,85335,M,5/31/2016,9/27/2015
 26661,"Schulz, Kevin ",2067,IL,60067,M,11/30/2011,3/29/2009
 77502,"Schulz, Mark ",1267,CA,90065,M,7/31/2009,6/29/2008
 72209,"Schulz, Steffen ",2374,MN,,M,2/28/2007,7/29/2006
@@ -29853,7 +29873,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 2969,"Seagraves, Elan ",915,CA,95834,M,8/31/2012,8/18/2012
 85271,"Seagraves, Elias ",121,CA,95834,M,4/30/2013,8/20/2011
 75362,"Seal, Doug ",907,TX,79095,M,10/31/2008,10/20/2007
-5847,"Seale, Li-Rong ",1152,NV,89148,F,8/31/2017,9/27/2015
+5847,"Seale, Li-Rong ",1155,NV,89148,F,8/31/2017,9/27/2015
 24275,"Sealy, Alfredo ",1126,GA,30294,M,12/31/2001,4/28/2001
 81107,"Sealy, C. ",0,,, ,10/22/2009,
 61326,"Sealy, James E.",1871,PA,15419,M,10/31/2007,10/21/2007
@@ -29984,7 +30004,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85211,"Sentance, Brian ",1552,CT,06878,M,5/31/2015,9/30/2012
 46627,"Senter, Albert ",1832,VA,22311,M,12/31/2015,3/22/2015
 86174,"Senter, Jeannie ",0,GA,30033,F,8/31/2016,
-92974,"Senthilkumar, Varun ",1640,MN,55446,M,3/31/2016,9/20/2015
+92974,"Senthilkumar, Varun ",1633,MN,55446,M,3/31/2016,9/20/2015
 29355,"Senyk, Scot ",1386,PA,16823,M,5/31/2013,7/4/2012
 87094,"Seo, Dong Ug ",501,PA,16803, ,12/31/2012,11/4/2011
 92450,"Seo, Gina ",1493,NY,11365,F,12/31/2017,8/29/2015
@@ -30113,7 +30133,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95050,"Shah, Kewal ",1285,MA,01581,M,11/30/2015,4/11/2015
 89021,"Shah, Keyur ",286,CT,06484,M,9/30/2013,9/2/2012
 34225,"Shah, Kunal ",2320,NY,10128,M,12/31/2015,11/30/2014
-92894,"Shah, Maanav ",1658,NJ,07110,M,2/28/2018,5/9/2015
+92894,"Shah, Maanav ",1681,NJ,07110,M,2/28/2018,10/3/2015
 32666,"Shah, Meet ",717,NY,11747,M,7/31/2006,7/18/2004
 72107,"Shah, Mit ",0,CA,94040,M,8/31/2007,
 83352,"Shah, Mohit ",1725,MD,21075,M,3/31/2015,5/17/2015
@@ -30129,7 +30149,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 3457,"Shah, Rajesh ",1396,NJ,07730,M,9/30/1995,3/19/1995
 88791,"Shah, Rajesh ",1684,GA,30339,M,11/30/2014,11/1/2014
 95492,"Shah, Rohan ",746,NJ,07076,M,1/31/2016,9/13/2015
-97664,"Shah, Ronak ",0,NJ,08550,M,10/31/2016,
+97664,"Shah, Ronak ",240,NJ,08550,M,10/31/2017,10/3/2015
 21636,"Shah, Ruchin ",1545,NY,10804,M,10/31/2005,11/7/2004
 96321,"Shah, Rushabh ",0,IL,61820,M,4/30/2016,
 95900,"Shah, Sunny ",1478,NY,14850,M,3/13/2015,3/1/2015
@@ -30161,7 +30181,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 86804,"Shailesh, Vasundhra ",788,MN,55410,M,11/9/2011,10/29/2011
 73343,"Shak, Ray ",1669,CA,92657,M,2/28/2015,8/31/2014
 87142,"Shakalu, Mossa ",1531,,,M,12/31/2014,11/30/2014
-91258,"Shaker, Ausama ",1743,FL,32210,M,10/31/2015,9/19/2015
+91258,"Shaker, Ausama ",1743,FL,32210,M,10/31/2016,9/19/2015
 16069,"Shal, Christopher ",1001,PA,15425,M,5/31/2007,4/23/2006
 63927,"Shal, Ted ",1007,PA,15425,M,1/31/2007,4/23/2006
 32961,"Sham, Fook Wing ",1903,CA,94606,M,9/30/2005,6/12/2005
@@ -30336,7 +30356,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 95829,"Sheik, Rashid ",674,CO,80907,M,3/31/2016,2/8/2015
 29027,"Sheikh, Aabid ",1190,MA,02465,M,9/30/2016,9/20/2015
 74411,"Sheikh, Adnan ",2034,MD,20878,M,11/30/2009,11/9/2008
-77395,"Sheikh, Faris ",443,,, ,9/30/2016,9/13/2015
+77395,"Sheikh, Faris ",432,,, ,9/30/2016,9/13/2015
 94580,"Sheikh, Hina ",428,MA,02465,F,4/30/2016,9/20/2015
 97575,"Sheikh, Naveed ",1271,TN,37923,M,9/13/2015,9/12/2015
 73880,"Sheinfeld, Freddy ",1550,CA,91103,M,9/30/2013,7/11/2015
@@ -30392,7 +30412,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89694,"Shen, Steven ",1867,,,M,11/20/2012,11/3/2012
 77315,"Shen, Weimin ",1680,OH,44120,M,6/18/2008,6/1/2008
 73772,"Shen, Weixing ",1577,MA,01434,M,3/31/2008,10/7/2007
-86247,"Shen, Xiaodan Katherine",0,VA,23836,F,9/30/2014,
+86247,"Shen, Xiaodan Katherine",0,VA,23836,F,10/31/2016,
 86664,"Shen, Yan Fei ",2730,,, ,10/31/2012,9/4/2011
 79371,"Shenck, Ronald ",1087,NY,14546,M,3/31/2011,2/21/2010
 79068,"Shenderovich, Polina ",863,,,F,12/14/2008,12/14/2008
@@ -30530,7 +30550,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 71671,"Shim, Jason ",2349,WA,98005,M,10/31/2014,7/27/2014
 22723,"Shim, Kern ",2031,OR,97086,M,10/31/2015,12/20/2014
 85863,"Shimakawa, Tomoko ",716,MD,21042,F,8/31/2018,5/20/2012
-94703,"Shimamura, Shuhei ",1671,PA,15217,M,10/31/2015,9/11/2015
+94703,"Shimamura, Shuhei ",1671,PA,15217,M,12/31/2016,9/11/2015
 33489,"Shimbo, Tomomi ",1622,HI,96814,F,11/30/2007,10/16/2011
 30196,"Shimizu, Kazuo ",1179,CA,94618,M,8/31/2007,8/15/2004
 78424,"Shin, Andrew ",1855,NJ,07675,M,8/31/2013,11/27/2011
@@ -30646,7 +30666,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83982,"Shteynberg, Roman ",1671,NY,11210,M,10/31/2016,9/27/2015
 9996,"Shtofmakher, Irina ",1739,NJ,07078,F,9/30/2006,11/27/2005
 9997,"Shtofmakher, Simon ",2182,NJ,07078,M,4/30/2018,12/20/2014
-15550,"Shtorper, Filex ",1843,AZ,85250,M,12/31/2015,9/27/2015
+15550,"Shtorper, Filex ",1844,AZ,85250,M,12/31/2015,9/27/2015
 93861,"Shtrikman, Alex ",1045,WA,98029,M,5/28/2014,5/18/2014
 6454,"Shtutin, Eugene ",1861,NJ,08540,M,11/30/2017,11/1/2014
 88670,"Shu, David ",1682,TX,77494,M,7/31/2013,8/18/2012
@@ -30688,7 +30708,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 31904,"Shum, Kent ",1922,FL,34984,M,5/31/2015,2/12/2012
 7590,"Shum, Mary ",1025,CA,92833,F,12/31/2099,10/16/1998
 78149,"Shum, Michael ",940,WA,98039,M,3/31/2013,4/4/2010
-97551,"Shum, Sam ",1563,TX,77036,M,9/30/2016,8/23/2015
+97551,"Shum, Sam ",1565,TX,77036,M,9/30/2016,8/23/2015
 64799,"Shumaker, Joe ",1662,IN,46131,M,5/31/2017,9/13/2015
 71962,"Shumakova, Marina ",2264,,,F,8/31/2010,7/4/2009
 42879,"Shuman, Debbie ",1604,CO,80227,F,12/31/2099,5/19/2001
@@ -30833,7 +30853,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 70626,"Simmons, Michael ",1066,MO,64439,M,1/31/2007,3/4/2006
 86122,"Simmons, Phillip ",979,FL,32162,M,10/31/2016,9/19/2015
 9130,"Simmons, Raymond ",895,IL,62301,M,11/30/1996,4/27/1996
-5034,"Simmons, Robert ",1398,MO,65203,M,10/31/2015,9/27/2015
+5034,"Simmons, Robert ",1403,MO,65203,M,10/31/2015,9/27/2015
 74937,"Simms, Scott ",1006,PA,15057,M,8/31/2012,10/19/2008
 79612,"Simon, Craig A.",1759,IN,46901,M,4/30/2016,5/10/2014
 10033,"Simon, Daniel P.",0,PA,18020,M,12/31/2099,
@@ -31317,6 +31337,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 70917,"Snigurskaya, Natalia ",1354,IL,60504,F,11/30/2014,10/11/2014
 89215,"Snitkovsky, Samuel ",679,MD,20878,M,9/30/2013,3/3/2013
 89504,"Snitkovsky, Yan ",848,MD,20878,M,10/31/2013,3/3/2013
+97746,"Snoap, Dana ",1574,MI,49418,M,10/11/2015,10/10/2015
 70169,"Snodgrass, David ",1305,AZ,85306,M,12/31/2015,7/26/2015
 72459,"Snover, Cheryl ",0,GA,30809,F,9/30/2007,
 70941,"Snover, Jeffrey ",623,GA,30809,M,9/30/2007,4/21/2007
@@ -31452,7 +31473,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 90914,"Song, Baifu ",2439,,,M,5/31/2014,7/6/2013
 94990,"Song, Brandon ",81,CA,94024,M,11/30/2015,10/26/2014
 78426,"Song, Brian ",1382,,,M,11/30/2009,11/29/2009
-94809,"Song, Bryan ",650,NJ,08512,M,10/31/2016,6/14/2015
+94809,"Song, Bryan ",535,NJ,08512,M,12/31/2016,10/3/2015
 90545,"Song, Bryan ",1862,LA,70130,M,9/30/2016,9/27/2015
 87922,"Song, Bryan ",1749,WA,98075,M,8/31/2015,6/6/2015
 84038,"Song, Conrad ",0,TX,78665,M,12/31/2099,
@@ -31461,7 +31482,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 76818,"Song, Dawn ",0,NJ,08512,F,4/30/2011,
 94375,"Song, Fei Yan",1973,,,M,8/31/2015,8/17/2014
 94810,"Song, George ",403,NJ,08512,M,10/31/2015,11/1/2014
-91873,"Song, George ",1269,CA,94706,M,10/31/2016,7/11/2015
+91873,"Song, George ",1269,CA,94706,M,12/31/2016,7/11/2015
 88316,"Song, George ",959,GA,30333,M,5/31/2015,4/12/2015
 88416,"Song, Hao ",1672,VA,22015,M,5/31/2012,5/20/2012
 91946,"Song, Hong Je ",1966,NJ,07605,M,9/30/2014,9/15/2013
@@ -31522,7 +31543,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 81401,"Sorensen, Eric ",551,OR,97035,M,11/30/2010,11/8/2009
 14291,"Sorensen, Haakon ",613,WA,98155,M,11/30/1997,5/4/1997
 78528,"Sorensen, Justin ",488,OR,97035,M,11/30/2010,11/8/2009
-85429,"Sorensen, Larry ",1530,WI,53228,M,10/31/2015,9/20/2015
+85429,"Sorensen, Larry ",1535,WI,53228,M,10/31/2015,9/20/2015
 70287,"Sorensen, Norman ",0,MI,48309,M,3/31/2007,
 31758,"Sorensen, Peter ",854,WI,53211,M,4/30/2005,3/21/2004
 30761,"Sorensen, Tyler ",144,CA,94549,M,11/30/2005,10/24/2004
@@ -31590,7 +31611,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 92916,"Spada, Bob ",1020,CO,80129,M,1/31/2014,1/26/2014
 13276,"Spafford, Dave ",966,NY,14420,M,9/30/1997,4/5/1997
 10169,"Spahn, Mark J.",0,AR,72687,M,12/31/2099,
-95516,"Spalding, Ross D",0,NJ,08831,M,1/31/2016,
+95516,"Spalding, Ross D",419,NJ,08831,M,1/31/2016,10/3/2015
 77656,"Spalten, Brandon ",803,AZ,85748,M,8/26/2008,8/17/2008
 69953,"Spandins, Andrew ",603,MI,49301,M,3/31/2006,2/19/2005
 82078,"Spang, Eric ",1310,WV,25213,M,3/31/2011,1/15/2011
@@ -31733,7 +31754,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 73353,"Srinivasan, Vivek ",109,CA,94555,M,12/31/2007,12/10/2006
 86409,"Sripraserth, Kanin ",1742,FL,33617,M,9/30/2012,7/14/2012
 69696,"Sriraman, Santhosh ",0,CA,92126,M,1/31/2006,
-97280,"Srirampur, Sai Krishna ",1757,WI,53719,M,8/31/2017,9/20/2015
+97280,"Srirampur, Sai Krishna ",1762,WI,53719,M,8/31/2017,9/20/2015
 33722,"Srirangam, Ravi ",2066,NJ,07081,M,6/30/2009,11/30/2008
 95253,"Srivastava, Amit ",1450,MA,02421,M,2/28/2018,8/29/2015
 95252,"Srivastava, Ayush ",797,MA,02421,M,2/28/2018,8/29/2015
@@ -32185,7 +32206,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 80231,"Stroebel, Kiefer ",40,CT,06420,M,6/30/2010,5/24/2009
 55733,"Stroh, David ",1207,FL,32835,M,9/30/2007,9/2/2007
 32043,"Strohmeyer, William Earl ",494,WV,25701,M,5/31/2005,4/17/2004
-80816,"Strojny, Adam ",1792,IL,60193,M,6/30/2015,5/25/2014
+80816,"Strojny, Adam ",1792,IL,60193,M,10/31/2016,5/25/2014
 82291,"Strom, Erik ",905,FL,34711,M,12/31/2099,5/3/2014
 30687,"Strom, Kyoko ",1339,FL,34476,F,11/30/2007,8/27/2006
 31615,"Strom, Robert ",894,FL,34476,M,9/30/2008,9/2/2007
@@ -32406,7 +32427,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34897,"Sun, Cheney ",100,CA,95139,M,10/31/2006,7/22/2006
 96546,"Sun, Chien-Yu ",0,CA,95130,F,5/31/2018,
 76609,"Sun, Chih-Jen ",1646,CA,95035,M,4/30/2009,4/6/2008
-86580,"Sun, David ",2127,IL,61801,M,10/31/2015,8/9/2015
+86580,"Sun, David ",2127,IL,61801,M,12/31/2016,8/9/2015
 82242,"Sun, Dewei (Frank) ",1757,CA,95130,M,5/31/2016,5/3/2015
 88611,"Sun, Don ",1078,IL,60565,M,7/6/2012,6/24/2012
 96175,"Sun, Donghao ",2347,CA,91722,M,4/30/2016,7/11/2015
@@ -32431,7 +32452,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 6120,"Sun, Kai ",1852,MO,63141,M,3/31/2010,9/13/2009
 77687,"Sun, Kelvin ",2050,TX,77494,M,10/31/2015,2/28/2015
 90206,"Sun, Kun ",2200,TX,75074,M,4/30/2015,6/14/2014
-19,"Sun, Lynn ",1381,CA,94706,M,10/31/2015,3/1/2014
+19,"Sun, Lynn ",1381,CA,94706,M,11/15/2015,3/1/2014
 95484,"Sun, Man ",0,VA,23238,F,1/31/2016,
 74578,"Sun, Merry ",432,NY,10514,F,12/31/2011,11/28/2010
 91365,"Sun, Miaolong ",1890,MA,02148,M,6/30/2014,6/30/2013
@@ -32624,7 +32645,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 91600,"Swartz, Timothy ",441,MA,01260,M,8/1/2013,6/30/2013
 82360,"Swe, Soe Myat ",1311,OK,73162,M,4/30/2014,4/20/2013
 94221,"Sweador, Jacob ",608,AZ,85295,M,7/29/2014,9/28/2014
-20188,"Swearingen, Damion ",1144,OK,73644,M,1/31/2018,6/20/2015
+20188,"Swearingen, Damion ",1141,OK,73644,M,1/31/2018,6/20/2015
 95604,"Swearingen, Damion ",0,CO,80907,M,1/31/2018,
 90671,"Sweat, Kenneth ",1046,MI,48111,M,3/28/2013,3/24/2013
 86177,"Sweed, Ross ",746,PA,18966,M,8/31/2012,2/12/2012
@@ -32635,7 +32656,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 77673,"Sweeney, Liam ",1205,MN,55386,M,6/30/2016,9/20/2015
 30881,"Sweeney, Michael ",1185,PA,15202,M,3/31/2011,3/14/2004
 75376,"Sweeney, Shane ",531,MD,21784,M,10/31/2008,10/14/2007
-10414,"Sweeris, Connie Mae ",1767,MI,49316,F,12/31/2099,9/20/2015
+10414,"Sweeris, Connie Mae ",1795,MI,49316,F,12/31/2099,10/10/2015
 10415,"Sweeris, Dell ",2054,MI,49316,M,12/31/2099,9/20/2015
 10417,"Sweeris, Todd ",2514,VA,22031,M,12/31/2099,12/18/2004
 82288,"Sweetin, Spencer ",649,MO,63341,M,3/31/2011,7/18/2010
@@ -32766,7 +32787,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 93232,"Tai, Alex ",1712,WI,53051,M,3/13/2014,3/1/2014
 87745,"Tai, Brandon ",1104,CA,90293,M,3/31/2013,3/4/2012
 76610,"Tai, Man (Joe) ",1033,CA,94539,M,4/30/2009,3/22/2008
-59118,"Tai, Vincent ",2023,CA,95125,M,10/31/2008,7/5/2008
+59118,"Tai, Vincent ",1998,CA,95125,M,10/31/2008,7/5/2008
 71347,"Tai, Yang ",784,TX,75081,M,4/30/2007,3/26/2006
 85702,"Tai-Chong, Alyssa ",666,NY,11234,F,5/31/2012,5/7/2011
 96416,"Taing, Mung ""Huot"" ",1755,CA,90623,M,4/30/2016,4/26/2015
@@ -32785,7 +32806,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 87812,"Takahashi, Riu ",1785,OH,43201,F,3/31/2013,5/12/2012
 30153,"Takahashi, Toru ",1968,NJ,07626,M,8/31/2006,7/24/2005
 80261,"Takaki, Tomiko ",1494,,,F,8/31/2010,7/4/2009
-80398,"Takalkar, Mukul ",1495,AZ,85286,M,10/31/2016,9/27/2015
+80398,"Takalkar, Mukul ",1497,AZ,85286,M,10/31/2016,9/27/2015
 88166,"Takamatsu, Hajime ",907,NY,12047,M,8/31/2014,1/19/2014
 97455,"Takamoto, Debi ",0,MN,55129,F,9/30/2016,
 75510,"Takamuku, Kohei ",1626,TN,37209,M,1/31/2010,1/10/2009
@@ -32856,12 +32877,12 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 10457,"Tamhankar, Vilas D.",0,NJ,07730,M,12/31/2099,
 11657,"Tamo, Jim ",901,CA,95350,M,4/30/1997,10/19/1996
 34924,"Tamura, Maki ",2338,CA,95014,F,11/30/2006,10/16/2005
-97231,"Tan,  Katie ",524,NJ,08812,F,8/31/2016,9/13/2015
-97511,"Tan,  Kevin ",1047,NJ,08812,M,9/30/2016,9/13/2015
+97231,"Tan,  Katie ",523,NJ,08812,F,8/31/2016,9/13/2015
+97511,"Tan,  Kevin ",555,NJ,08812,M,9/30/2016,9/13/2015
 87830,"Tan, Angie ",1989,CA,94550,F,3/31/2016,9/26/2015
 64514,"Tan, Baris ",1744,MA,02446,M,9/30/2007,6/17/2007
 96322,"Tan, Bowen ",0,IL,61801,M,4/30/2016,
-9728,"Tan, Carl ",1720,NY,10710,M,9/30/2015,11/30/2014
+9728,"Tan, Carl ",1720,NY,10710,M,10/31/2016,11/30/2014
 79144,"Tan, Chin Seong ",1217,AR,72076,M,5/31/2010,10/17/2009
 87449,"Tan, Christopher ",795,NY,11235,M,1/31/2015,1/26/2014
 27255,"Tan, Cynthia ",1745,,,F,8/31/2010,7/4/2009
@@ -33199,7 +33220,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 79049,"Teller, Jon ",901,NY,11797,M,1/31/2010,3/1/2009
 10510,"Teller, Roman ",1941,FL,33160,M,7/31/2011,6/27/2010
 75395,"Tello, Giancarlo ",283,NJ,07109,M,10/31/2008,5/25/2008
-89690,"Tembe, Akash ",1540,MN,55446,M,6/30/2016,8/29/2015
+89690,"Tembe, Akash ",1541,MN,55446,M,6/30/2016,8/29/2015
 45677,"Tempelman, Wayne ",1007,MA,02140,M,12/31/2005,12/5/2004
 7246,"Tempest, Brad ",1459,OH,,,3/31/2009,10/14/2007
 10513,"Temple, John ",1607,OH,43103,M,6/30/2009,6/4/2006
@@ -33296,7 +33317,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 69557,"Thai, Khoan A",1588,CA,91776,M,10/31/2015,12/20/2014
 9368,"Thai, Minh ",815,NY,14620,M,11/30/1996,4/27/1996
 7247,"Thai, Paul ",1207,TX,75032,M,11/30/2009,9/26/2015
-45775,"Thai, Quyen ",1472,CA,95111,M,6/30/2016,9/26/2015
+45775,"Thai, Quyen ",1447,CA,95111,M,6/30/2016,9/26/2015
 87514,"Thaker, Ravi ",203,NJ,08820,M,2/28/2013,2/4/2012
 88134,"Thakkar, Amogh ",275,MD,21029,M,6/30/2016,7/11/2015
 29715,"Thakkar, Ashish ",1338,WI,,M,12/31/2003,5/24/2003
@@ -33410,7 +33431,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 71261,"Thompson, Benjamin ",601,AL,35244,M,10/31/2006,3/25/2006
 77258,"Thompson, Curtis ",1080,OR,97701,M,11/30/2015,10/10/2014
 16768,"Thompson, Dan ",1518,IA,52768,,4/30/2006,4/10/2005
-51911,"Thompson, Delroy ",1942,FL,32609,M,10/31/2016,9/6/2015
+51911,"Thompson, Delroy ",1942,FL,32609,M,12/31/2016,9/6/2015
 74391,"Thompson, Eric ",879,KY,41017,M,5/31/2008,10/14/2007
 27715,"Thompson, George L.",1659,KY,41001,M,12/31/2014,11/22/2009
 71193,"Thompson, Grady ",1499,TX,75074,M,7/31/2010,5/1/2010
@@ -33678,17 +33699,17 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 20550,"Tong, Brian ",1106,AZ,85281,M,6/30/2000,12/4/1999
 86475,"Tong, Chaoyang ",1116,CA,94087,M,12/31/2013,12/9/2012
 3520,"Tong, Fei-Ming ",2539,NC,27703,F,6/30/2016,11/30/2014
-77263,"Tong, Hannah ",1846,CA,95132,F,6/30/2018,7/6/2013
+77263,"Tong, Hannah ",1850,CA,95132,F,6/30/2018,7/6/2013
 79205,"Tong, Hao ",1697,OH,,M,2/6/2009,2/1/2009
 77262,"Tong, Hillary ",0,CA,95132,F,10/31/2014,
 907290,"Tong, Hillary ",0,,,F,6/30/2018,
 77261,"Tong, Hoang ",1151,CA,95132,M,6/30/2018,7/4/2012
 77264,"Tong, Howard ",2229,CA,95132,M,6/30/2018,12/21/2013
-94904,"Tong, Jonathan ",683,,,M,10/31/2017,6/14/2015
+94904,"Tong, Jonathan ",655,,,M,10/31/2017,10/3/2015
 84450,"Tong, Joshua ",799,IL,60077,M,12/31/2011,12/11/2010
 72317,"Tong, Justin ",198,OR,97015,M,8/31/2007,8/19/2006
 89172,"Tong, Kwan Ed ",1046,CA,92887,M,2/28/2018,9/19/2015
-94905,"Tong, Sarah ",277,,,F,10/31/2017,6/14/2015
+94905,"Tong, Sarah ",366,,,F,10/31/2017,10/3/2015
 1532,"Tong, Teddy Y.",1377,CA,90275,M,11/30/2015,9/6/2015
 88661,"Tong, Yida ",841,NJ,08820,M,7/31/2013,8/4/2012
 16376,"Tongkhuya, Saksith ",1325,MN,55404,M,8/31/1998,2/1/1998
@@ -34545,7 +34566,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 33033,"Valverde, Manuel ",994,FL,,M,3/31/2005,9/18/2004
 94532,"Van Amers, Conrad ",1140,CA,91343,M,9/30/2020,9/6/2015
 88548,"Van Brussel, Avery ",1855,FL,32503,M,9/30/2015,7/18/2015
-91720,"Van Camp, Robert ",1388,MI,48363,M,8/31/2016,6/28/2015
+91720,"Van Camp, Robert ",1413,MI,48363,M,8/31/2016,6/28/2015
 95633,"Van Cott, John ",1249,NC,28461,M,2/29/2016,9/5/2015
 89376,"Van De Graaf, Joshua ",583,VA,23321,M,10/31/2013,10/7/2012
 69526,"Van de Walle, Norbert ",0,,9130,M,12/31/2099,
@@ -34782,7 +34803,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 82034,"Velamarthy, Veerendra Kalyan ",1565,OH,43016,M,3/31/2016,3/8/2015
 33520,"Velasco, John ",0,TX,78230,M,11/30/2005,
 86339,"Velasco, Jonathan ",1426,CA,91710,M,9/30/2012,10/2/2011
-33687,"Velasco, Louis ",1592,TX,78260,M,3/31/2016,8/16/2015
+33687,"Velasco, Louis ",1594,TX,78260,M,3/31/2016,8/16/2015
 97680,"Velasquez,  Chris ",1008,AZ,85382,M,10/31/2016,9/27/2015
 91210,"Velasquez, Fred ",1108,NM,87112,M,5/31/2014,7/6/2013
 34890,"Velasquez, John ",1244,MD,20657,M,10/31/2008,2/24/2008
@@ -34795,7 +34816,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 92738,"Velez, Omar ",1950,,00766,M,12/31/2014,11/30/2014
 28351,"Velinov, Metodi ",1651,TX,76039,M,11/30/2007,8/7/2005
 90304,"Velivela, Divya Sree ",309,GA,30188,F,2/28/2014,9/27/2014
-91919,"Velivela, Sri Krishna Chaitanya ",673,GA,30188,M,10/31/2016,9/27/2014
+91919,"Velivela, Sri Krishna Chaitanya ",673,GA,30188,M,12/31/2016,9/27/2014
 25571,"Veliz, Emma ",728,TX,75501,F,6/30/2013,9/29/2012
 88547,"Veliz, Emma Lizzete ",614,TX,75501,F,6/30/2013,9/29/2012
 31708,"Veliz, Pedro ",1133,TX,75501,M,4/30/2012,4/16/2011
@@ -34808,7 +34829,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78004,"Veloso, Murillo ",1872,FL,34222,M,10/7/2008,9/27/2008
 70757,"Velt, Eric ",558,FL,33558,M,2/28/2007,10/28/2006
 10802,"Veltsos, Donald P.",0,FL,32818,M,12/31/2099,
-92967,"Velumani, Senthil ",1526,MN,55446,M,3/31/2016,8/29/2015
+92967,"Velumani, Senthil ",1527,MN,55446,M,3/31/2016,8/29/2015
 81609,"Velury, Veena K",140,CA,,F,12/31/2010,3/20/2011
 82861,"Vemparala, Srikanth ",1488,TX,77077,M,7/31/2014,8/17/2013
 87869,"Vempati, Sri Krishna ",1830,MI,48105,M,3/31/2013,3/18/2012
@@ -34828,7 +34849,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89381,"Venigalla, Laxman ",732,FL,33813,M,10/31/2013,10/19/2013
 29895,"Venikov, Andy ",1187,NH,03051,M,6/30/2011,6/27/2010
 91771,"Venkat, Ramamoorthy ",1227,TX,78240,M,12/31/2014,5/4/2014
-94910,"Venkatachalam, Ramakrishnan ",1662,FL,32081,M,10/31/2015,10/25/2014
+94910,"Venkatachalam, Ramakrishnan ",1662,FL,32081,M,10/31/2016,10/25/2014
 27091,"Venkatadri, Mangala ",1528,IN,46074,F,5/31/2014,4/21/2013
 86390,"Venkatanarayan, Amey ",413,NJ,08820,M,9/30/2012,9/25/2011
 89831,"Venkataraman, Shivakumar ",1826,CA,95054,M,9/30/2016,9/6/2015
@@ -35052,7 +35073,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34410,"Vo, Patrick ",1232,VA,23233,M,9/30/2007,4/1/2007
 69968,"Vo, Phu ",663,VA,23453,M,3/31/2006,2/20/2005
 53148,"Vo, Quang Duy",1887,CA,92683,M,6/30/2015,6/7/2015
-97254,"Vo, Thao Ngoc",1852,AZ,85224,F,10/31/2016,9/27/2015
+97254,"Vo, Thao Ngoc",1876,AZ,85224,F,10/31/2016,9/27/2015
 12879,"Vo, Tho ",1804,PA,19114,M,5/31/2006,5/15/2005
 70758,"Vo, Tong ",2029,FL,34207,M,8/31/2009,10/26/2008
 87918,"Vo, Truyen Minh ",720,WA,98203,M,4/30/2013,3/25/2012
@@ -35416,7 +35437,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85088,"Wang, Erick ",780,WA,98072,M,8/31/2015,7/27/2014
 94741,"Wang, Erik ",1254,GA,30338,M,11/30/2015,9/27/2014
 91874,"Wang, Ethan ",1868,CA,94087,M,9/30/2016,8/30/2015
-89323,"Wang, Evan ",1737,PA,19422,M,4/30/2016,6/14/2015
+89323,"Wang, Evan ",1737,PA,19422,M,4/30/2016,10/3/2015
 22196,"Wang, Everett ",1624,CA,95132,M,11/30/2006,10/16/2005
 22396,"Wang, Fei ",2551,NY,11421,M,9/30/2008,7/6/2002
 33441,"Wang, Felicia ",421,CA,94303,F,11/30/2005,10/24/2004
@@ -35459,13 +35480,13 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 93209,"Wang, Ian ",850,MA,02421,M,4/30/2016,4/11/2015
 78787,"Wang, I-Chao ",1126,NY,11375,M,12/31/2009,11/29/2009
 22726,"Wang, I-Hua ",1606,WA,98008,M,4/30/2009,6/8/2008
-79359,"Wang, Jack ",2536,NJ,07039,M,5/31/2017,9/27/2015
+79359,"Wang, Jack ",2512,NJ,07039,M,5/31/2017,10/3/2015
 97259,"Wang, Jack ",2335,CO,80909,M,8/31/2016,8/9/2015
 72475,"Wang, Jackie ",460,MO,63021,M,9/30/2007,4/15/2007
 92129,"Wang, Jacklyn ",190,CA,94530,F,10/31/2014,11/9/2013
 70053,"Wang, James ",1092,IL,60089,M,9/30/2005,2/26/2005
 25174,"Wang, James ",1828,TX,77494,M,7/31/2016,8/23/2015
-79301,"Wang, James ",1771,FL,34655,M,8/31/2015,8/15/2015
+79301,"Wang, James I",1771,FL,34655,M,10/31/2016,8/15/2015
 77452,"Wang, James S.",2173,GA,30097,M,10/31/2016,9/20/2015
 83132,"Wang, Jamie ",519,GA,30022,F,7/31/2013,7/15/2012
 76211,"Wang, Jan ",0,TX,76119,F,2/28/2011,
@@ -35858,9 +35879,9 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 32301,"Watson, Sheldon ",1483,FL,33327,M,6/30/2006,7/10/2005
 97702,"Watson, Skye ",243,NV,89511,M,10/31/2016,9/26/2015
 20546,"Watson, Todd ",1066,AZ,85213, ,6/30/2000,12/4/1999
-95105,"Watt, Alan ",1056,PA,19403,M,11/30/2015,4/19/2015
-95104,"Watt, Caleb ",1093,PA,19403,M,11/30/2015,8/9/2015
-95103,"Watt, Joshua ",940,PA,19403,M,11/30/2017,8/9/2015
+95105,"Watt, Alan ",1010,PA,19403,M,11/30/2015,10/3/2015
+95104,"Watt, Caleb ",1221,PA,19403,M,11/30/2015,10/3/2015
+95103,"Watt, Joshua ",1030,PA,19403,M,11/30/2017,10/3/2015
 21520,"Wattana, Tony ",1906,CA,91942,M,11/30/2000,5/7/2000
 10955,"Wattenford, Mylo Delbert ",1412,MD,20603,M,12/31/2007,12/16/2006
 84571,"Watterson, Joseph ",869,CO,80127,M,1/31/2012,1/8/2011
@@ -36026,7 +36047,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85101,"Weinstein, Noah ",258,PA,19119,M,3/31/2014,11/10/2012
 72333,"Weinstein, Norman ",860,NY,10023,M,9/30/2007,1/21/2007
 75035,"Weinstein, Perry ",1436,CA,90064,M,11/30/2010,8/26/2007
-13864,"Weinstein, Saul ",1744,CA,91706,M,10/31/2015,10/11/2014
+13864,"Weinstein, Saul ",1744,CA,91706,M,12/31/2016,10/11/2014
 92526,"Weintrab, Jennifer ",0,PA,19006,F,11/30/2014,
 78568,"Weintraub, Irwin ",719,FL,33027,M,12/31/2099,1/9/2011
 11001,"Weir, Arthur L.",1035,MI,,M,1/31/2008,4/25/2004
@@ -36261,7 +36282,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83774,"Whitmeyer, Michael ",2240,NC,27614,M,1/31/2016,9/13/2015
 85227,"Whitmeyer, Randy ",1135,NC,27609,M,3/31/2016,5/17/2015
 30591,"Whitmore, Caleb ",504,MN,,M,4/30/2004,12/29/2003
-21522,"Whitney, Alvin ",1616,MD,21222,M,8/31/2016,9/5/2015
+21522,"Whitney, Alvin ",1598,MD,21222,M,8/31/2016,10/3/2015
 69533,"Whitney, David ",597,NH,03076,M,2/28/2006,2/13/2005
 5488,"Whitney, Michael ",1473,IL,62901,M,9/30/2007,9/16/2006
 79925,"Whitney, Nate ",767,UT,,M,5/7/2009,4/18/2009
@@ -36295,6 +36316,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 12073,"Wiegan, Russell F. ",755,WI,53183,M,3/31/2015,4/26/2014
 47762,"Wieland, Kenneth J.",1335,NY,11901,M,12/31/2099,3/31/2002
 87939,"Wiencek, Timothy ",1366,IN,46037,M,2/28/2018,2/21/2015
+97750,"Wiener, Alex ",341,NJ,07401,M,10/31/2016,10/3/2015
 11104,"Wiener, Jack ",0,NV,89052,M,12/31/2099,
 74257,"Wiersdorf, Scott ",1360,UT,84062,M,5/31/2008,7/7/2007
 71874,"Wiessler, Wolfgang ",2009,NJ,08540,M,12/31/2006,5/21/2006
@@ -36415,7 +36437,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 19535,"Williams, Norman ",1142,MI,48088,M,12/31/2099,1/31/2009
 11136,"Williams, O. Ramon ",0,IL,60615,M,12/31/2099,
 30697,"Williams, Paul ",0,,,M,5/31/2004,
-11137,"Williams, Paul F.",1753,WI,53717,M,9/30/2015,9/20/2015
+11137,"Williams, Paul F.",1754,WI,53717,M,9/30/2015,9/20/2015
 75878,"Williams, Reagan B.",1219,CA,92532,M,1/31/2009,10/19/2008
 27020,"Williams, Richard ",2181,NJ,08873,M,9/30/2010,4/28/2013
 94621,"Williams, Richard ",276,US,DEFAULT,M,9/29/2014,9/7/2014
@@ -36761,9 +36783,9 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 27841,"Wong, Justin ",1977,TX,78705,M,2/28/2011,2/13/2010
 87931,"Wong, Ka-Kit ",1511,NC,27560,M,3/31/2014,3/17/2013
 27318,"Wong, Keith ",1716,IL,60173,M,6/30/2007,6/24/2006
-96777,"Wong, Ken ",1156,CA,91915,M,5/31/2015,5/30/2015
 24654,"Wong, Ken A.",1520,CA,92660,M,12/31/2099,7/4/1994
 96069,"Wong, Ken KF ",1230,CO,80907,M,3/31/2016,3/22/2015
+96777,"Wong, Kenneth ",1156,CA,91915,M,5/31/2015,5/30/2015
 72866,"Wong, Kenny ",1687,CA,94502,M,11/30/2010,5/30/2010
 72278,"Wong, Kent ",1664,NY,11228,M,8/31/2007,8/20/2006
 72867,"Wong, Kevin ",1143,CA,94502,M,12/31/2012,2/19/2012
@@ -36835,6 +36857,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 69686,"Wong, Yam-ying ",313,NY,11372,M,3/31/2007,11/26/2006
 90338,"Woo, Bradley ",1251,IL,61853,M,4/30/2016,7/11/2015
 72855,"Woo, George ",1191,GA,30332,M,11/30/2007,5/27/2007
+97759,"WOO, HYEONGGYU ",0,NJ,07650,M,10/31/2016,
 91508,"Woo, Hyun Sik (Peter) ",1577,NY,11366,M,7/31/2014,6/29/2013
 31699,"Woo, Hyungsup ",708,MD,21042,M,4/30/2005,4/4/2004
 35192,"Woo, Ivan ",348,CA,91780,M,12/31/2007,6/25/2006
@@ -36936,7 +36959,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 69649,"Wright, Brett ",1354,GA,30182,M,2/29/2008,7/29/2007
 13232,"Wright, Byron ",0,NY,10023,M,12/31/2099,
 78618,"Wright, Christopher ",892,PA,17011,M,12/31/2009,12/4/2008
-97216,"Wright, Clarence ",1152,NY,12202,M,6/15/2015,8/16/2015
+97216,"Wright, Clarence ",1152,NY,12202,M,6/15/2015,6/14/2015
 78592,"Wright, Dale ",1034,NC,27529,M,12/31/2009,3/22/2009
 13823,"Wright, Everette G.",1397,NC,28586,M,2/28/2009,8/23/2008
 64426,"Wright, Grayson ",1820,CT,06002,M,9/30/2015,10/5/2014
@@ -36962,7 +36985,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 97439,"Wtorkowski, Jonathan ",0,NY,11980,M,9/30/2016,
 83426,"Wtorkowski, Radek ",1884,NY,11980,M,11/30/2016,5/16/2015
 18589,"Wu Min, Linda ",611,NY,11360,F,4/30/2008,11/29/1998
-97514,"Wu,  Eric ",897,NJ,08540,M,9/30/2018,9/13/2015
+97514,"Wu,  Eric ",847,NJ,08540,M,9/30/2018,10/3/2015
 76292,"Wu, Abel ",1218,CA,94538,M,5/31/2010,4/26/2009
 93620,"Wu, Aidan ",412,RI,02818,M,5/31/2016,12/14/2014
 84544,"Wu, Alan ",430,NY,12603,M,1/31/2012,12/12/2010
@@ -37454,7 +37477,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83346,"Xuan, Chaoting ",1660,GA,30024,M,9/30/2011,11/6/2010
 92900,"Xuan, Jin Shu ",0,CA,90020,F,2/28/2017,
 70214,"Xuan, Simon ",1661,VA,20152,M,8/31/2016,8/22/2015
-97730,"Xue,  Ryan (Yixi) ",812,NY,11358,M,10/31/2016,10/4/2015
+97730,"Xue,  Ryan (Yixi) ",811,NY,11358,M,10/31/2016,10/4/2015
 80950,"Xue, Alexander Jing",1324,NJ,08536,M,10/31/2015,9/8/2013
 80949,"Xue, Christopher Ming",1345,NJ,08536,M,10/31/2015,9/8/2013
 97132,"Xue, Dalton ",665,NC,27516,M,7/31/2016,7/19/2015
@@ -37869,7 +37892,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 88495,"Yeap, Tony ",1987,GA,33043,M,6/30/2015,7/20/2014
 82201,"Yeardly, Helen ",515,NJ,07302,F,3/11/2010,2/21/2010
 97344,"Yearneau, Timothy J",339,MN,55420,M,8/31/2016,8/29/2015
-96970,"Yedehalli, Raghu ",1373,IL,60503,M,6/30/2016,8/30/2015
+96970,"Yedehalli, Raghu ",1374,IL,60503,M,6/30/2016,8/30/2015
 79443,"Yedersberger, Aron ",1702,IA,52556,M,9/30/2014,9/1/2013
 79451,"Yedersberger, Lance ",1583,IA,52556,M,9/30/2014,9/1/2013
 91161,"Yedetore, Jagadeesh ",1496,NC,27560,M,5/31/2014,5/18/2013
@@ -37883,7 +37906,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 34724,"Yee, Eliza ",260,CA,94108,F,10/31/2006,10/2/2005
 22599,"Yee, Frederick H.",1047,WA,98015,M,11/30/2015,10/26/2014
 89878,"Yee, Jeffrey ",1248,CA,91780,M,12/31/2016,9/6/2015
-80241,"Yee, Jordan ",2360,CA,94610,M,5/31/2017,9/26/2015
+80241,"Yee, Jordan ",2358,CA,94610,M,5/31/2017,9/26/2015
 82611,"Yee, Lisa ",336,NY,10014,F,8/31/2012,6/10/2012
 30637,"Yee, Patrick ",1910,IL,60010,M,11/30/2009,5/4/2008
 79674,"Yee, Percy ",1263,CA,91748,M,4/30/2010,3/28/2010
@@ -38041,7 +38064,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 83574,"Yong, Sze Zheng ",1191,MA,02139,M,9/30/2011,9/5/2010
 33035,"Yonghui, Wu ",1711,FL,32310,M,5/31/2006,4/30/2005
 17219,"Yoo, Chang Jae ",2642,,,M,7/31/2014,11/30/2014
-96977,"Yoo, David Y",1261,NJ,07650,M,6/30/2018,9/27/2015
+96977,"Yoo, David Y",1260,NJ,07650,M,6/30/2018,9/27/2015
 85364,"Yoo, Eung Deok ",764,VA,22151,M,7/31/2015,6/14/2014
 89135,"Yoo, Hyun Jun ",882,MO,65203,M,9/30/2013,9/23/2012
 89134,"Yoo, Jae Jun ",1488,MO,65203,M,9/30/2013,9/23/2012
@@ -38254,7 +38277,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85144,"Yu, Yang ",2410,TX,78729,M,10/31/2019,7/5/2014
 26897,"Yu, Yang ",1095,OH,44118,M,12/31/2002,5/12/2002
 93681,"Yu, Yiren ",1384,OH,45219,M,5/14/2014,5/10/2014
-89160,"Yu, Zeling ",1577,MN,55125,F,9/30/2016,9/20/2015
+89160,"Yu, Zeling ",1579,MN,55125,F,9/30/2016,9/20/2015
 30489,"Yu, Zhang ",1984,,, ,12/31/2005,10/5/2003
 96614,"Yu, Zhitao ",1404,LA,70461,M,5/10/2015,5/9/2015
 81092,"Yu, Zhong ",0,MA,01605,M,10/31/2010,
@@ -38511,7 +38534,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 89368,"Zhan, Kanghong ",1807,CA,92602,M,10/31/2015,7/11/2015
 92468,"Zhan, Richard ",905,VA,20124,M,11/30/2014,5/18/2014
 85514,"Zhan, Xin ",2083,,T6M 0H1,M,11/30/2016,7/6/2013
-96982,"Zhang,  Wallace ",549,NY,11368,M,6/30/2016,10/4/2015
+96982,"Zhang,  Wallace ",539,NY,11368,M,6/30/2016,10/4/2015
 72576,"Zhang, Alan ",1865,MI,48083,M,2/28/2014,11/13/2011
 80725,"Zhang, Alan ",778,CA,95014,M,8/31/2013,11/7/2010
 94204,"Zhang, Alan ",989,GA,30096,M,7/31/2015,7/19/2015
@@ -38927,7 +38950,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 85104,"Zheng, Chenghang ",1368,PA,17525,M,3/31/2012,4/10/2011
 77612,"Zheng, Cherry ",2018,,V7A 2G8,F,8/31/2011,7/27/2014
 1398,"Zheng, Chunyan ",1584,IA,50010,M,10/31/2005,4/10/2005
-96251,"Zheng, Darren ",1024,NJ,07041,M,4/30/2016,9/13/2015
+96251,"Zheng, Darren ",1004,NJ,07041,M,4/30/2016,9/13/2015
 72264,"Zheng, David ",946,IN,46032,M,12/31/2008,12/2/2007
 29241,"Zheng, David ",1006,NY,11753,M,4/30/2006,9/12/2004
 82823,"Zheng, Eric ",0,CA,95051,M,5/31/2011,
@@ -39320,7 +39343,7 @@ MemberID,Name,Rating,State,Zip,Gender,ExpirationDate,LastPlayedDate
 78366,"Zwisler, Ross ",1485,CO,80026,M,2/28/2015,3/23/2014
 86883,"Zwolski, Justin ",1035,NY,14025,M,11/30/2012,11/19/2011
 95704,"Zych, Kuba ",661,IL,60143,M,2/29/2016,9/20/2015
-95553,"Zych, Pawel ",1535,IL,60143,M,1/31/2016,9/20/2015
+95553,"Zych, Pawel ",1536,IL,60143,M,1/31/2016,9/20/2015
 24233,"Zydell, John ",1629,MD,20695,M,12/31/2099,11/25/2012
 79789,"Zygmunt, John ",587,PA,16801,M,4/30/2010,4/26/2009
 90515,"Zywicki, Kevin ",1415,MI,48085,M,5/31/2015,4/27/2014
