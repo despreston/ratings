@@ -25,11 +25,10 @@ class CheckRatings(Spider):
                         date = self.get_csv_date(link)
                         print 'DOWNLOADING %s' % date
                         self.update_index(date)
-
-                    yield Request(link, callback=self.save_csv)
+                        yield Request(link, callback=self.save_csv)
 
     def get_csv_date(self, url):
-        rule = re.compile('  (.*?)\.')
+        rule = re.compile(' (.*?)\.')
         match = rule.search(url)
         if match:
             date_string = match.group(1).encode()
