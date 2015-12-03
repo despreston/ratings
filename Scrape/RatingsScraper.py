@@ -13,19 +13,18 @@ class CheckRatings(Spider):
 
     def parse(self, response):
         base_url = 'http://www.teamusa.org/~/media/USA_Table_Tennis/Ratings/'
-        found_links = []
+        last_link = ''
         for a in response.xpath('//a[@href]/@href'):
             link = a.extract()
             if link.endswith('.csv'):
                 print('FOUND RATING FILE')
                 link = urlparse.urljoin(base_url, link)
-                found_links.append(link)
-                if len(found_links) == 3:
-                    if self.get_csv_date(link):
-                        date = self.get_csv_date(link)
-                        print 'DOWNLOADING %s' % date
-                        self.update_index(date)
-                        yield Request(link, callback=self.save_csv)
+                last_link = link
+        if self.get_csv_date(last_link):
+            date = self.get_csv_date(last_link)
+            print 'DOWNLOADING %s' % date
+            self.update_index(date)
+            yield Request(last_link, callback=self.save_csv)
 
     def get_csv_date(self, url):
         rule = re.compile(' (.*?)\.')
