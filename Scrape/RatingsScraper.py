@@ -27,11 +27,11 @@ class CheckRatings(Spider):
             yield Request(last_link, callback=self.save_csv)
 
     def get_csv_date(self, url):
-        rule = re.compile('(.*?)\.')
+        rule = re.compile('( Compete/)(.*?)\.')
         match = rule.search(url)
-        print(match.group(1))
+        print(match.group(2))
         if match:
-            date_string = match.group(1).encode()
+            date_string = match.group(2).encode()
             return datetime.date(int(str(20) + date_string[4:6]), int(date_string[0:2]), int(date_string[2:4].lstrip('0')))
         return None
 
