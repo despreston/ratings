@@ -17,10 +17,11 @@ module.exports = function (app, parser) {
             var start = console.time('player_lookup');
 
             for (var i = 0; i < members.length; i++) {
-                var nameInList = getLowerCase(members[i].Name),
-                    inputName = getLowerCase(name);
+                var nameInList = getLowerCase(members[i]['Last Name'] + members[i]['First Name']),
+                    reverseName = getLowerCase(members[i]['First Name'] + members[i]['Last Name'])
+                    inputName = getLowerCase(name.replace(/\s/g, ''));
 
-                if (nameInList.indexOf(inputName) != -1) {
+                if (nameInList.indexOf(inputName) != -1 || reverseName.indexOf(inputName) != -1) {
                     players.push(members[i]);
                 }
             }
