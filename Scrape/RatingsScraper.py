@@ -9,14 +9,14 @@ class CheckRatings(Spider):
     name = 'CheckRatings'
 
     allowed_domains = ['teamusa.org']
-    start_urls = ['http://www.teamusa.org/usa-table-tennis/ratings/']
+    start_urls = ['http://www.teamusa.org/usa-table-tennis/Ratings/USATT-Ratings-Page/']
 
     def parse(self, response):
         base_url = 'http://www.teamusa.org/~/media/USA_Table_Tennis/Ratings/'
         last_link = ''
         for a in response.xpath('//a[@href]/@href'):
             link = a.extract()
-            if link.endswith('.csv'):
+            if link.endswith('.csv?la=en'):
                 print('FOUND RATING FILE')
                 link = urlparse.urljoin(base_url, link)
                 last_link = link
@@ -27,7 +27,7 @@ class CheckRatings(Spider):
             yield Request(last_link, callback=self.save_csv)
 
     def get_csv_date(self, url):
-        rule = re.compile('(2016 Ratings/)(.*?)\.')
+        rule = re.compile('(Ratings-)(.*?)\.')
         match = rule.search(url)
         print(match.group(2))
         if match:
