@@ -1,4 +1,4 @@
-Member ID,Last Name,First Name,Rating,State,Zip,Gender,Expiration Date,Last Played Date
+MemberID,Last Name,First Name,Rating,State,Zip,Gender,Expiration Date,LastPlayedDate
 97632,Roach,Adam,1010,NY,14623,M,9/30/2016,9/19/2015
 70013,Abadie,Spencer,1824,LA,70003,M,5/31/2016,11/29/2015
 95273,Abarra,Kevin,284,IL,60163,M,12/31/2015,11/29/2014
