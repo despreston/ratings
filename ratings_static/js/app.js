@@ -1,5 +1,5 @@
-//var baseUrl = 'http://ttratings.herokuapp.com/';
-var baseUrl = 'http://localhost:3000/'
+var baseUrl = 'http://ttratings.herokuapp.com/';
+//var baseUrl = 'http://localhost:3000/'
 
 angular.module('ratings', [])
 
