@@ -9,7 +9,7 @@ module.exports = {
 function getMembers(){
     console.log('Loading CSV File');
     var deferred = Q.defer();
-    var stream = fs.createReadStream("Membership.csv");
+    var stream = fs.createReadStream("src/Membership.csv");
     var csvData=[];
     var csvStream = csv
         .parse({headers: true})

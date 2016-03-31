@@ -1,7 +1,7 @@
 function routes(app, controllers) {
 
     app.get('/', function(req, res, next) {
-        res.sendfile('ratings_static/index.html');
+        res.sendfile('src/ratings_static/index.html');
     });
 
     app.get('/findPlayer/:playerName', function (req, res, next) {
