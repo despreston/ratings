@@ -26,7 +26,28 @@
     "fast-csv": "^0.6.0",
     "jasmine": "^2.4.1",
     "q": "^1.1.2",
+    "request": "^2.69.0",
     "restify": "^2.8.5",
     "ya-csv": "^0.9.4"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "chai": "^3.5.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^1.0.0",
+    "grunt-karma": "^0.12.2",
+    "grunt-mocha-test": "^0.12.7",
+    "grunt-template-jasmine-requirejs": "^0.2.3",
+    "jasmine-core": "^2.4.1",
+    "jasmine-node": "^1.14.5",
+    "karma": "^0.13.22",
+    "karma-browserify": "^5.0.3",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-jasmine": "^0.3.8",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "mocha": "^2.4.5",
+    "phantomjs-prebuilt": "^2.1.7",
+    "supertest": "^1.2.0",
+    "watchify": "^3.7.0"
   }
 }

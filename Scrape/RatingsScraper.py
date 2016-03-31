@@ -27,7 +27,7 @@ class CheckRatings(Spider):
             yield Request(last_link, callback=self.save_csv)
 
     def get_csv_date(self, url):
-        rule = re.compile('(Ratings-)(.*?)\.')
+        rule = re.compile('(Rating-)(.*?)\.')
         match = rule.search(url)
         print(match.group(2))
         if match:
@@ -36,11 +36,11 @@ class CheckRatings(Spider):
         return None
 
     def save_csv(self, response):
-        with open('../Membership.csv', 'wb') as f:
+        with open('../src/Membership.csv', 'wb') as f:
             f.write(response.body)
 
     def update_index(self, new_date):
-        index = '../ratings_static/index.html'
+        index = '../src/ratings_static/index.html'
         f = open(index, 'rb')
         content = re.sub('Updated (.*?)<', 'Updated ' + str(new_date) + '<', f.read())
         f.close()
