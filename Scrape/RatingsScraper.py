@@ -17,7 +17,7 @@ class CheckRatings(Spider):
         for a in response.xpath('//a[@href]/@href'):
             link = a.extract()
             if link.endswith('.csv?la=en'):
-                print('FOUND RATING FILE')
+                print('FOUND RATING FILE', link)
                 link = urlparse.urljoin(base_url, link)
                 last_link = link
         if self.get_csv_date(last_link):
@@ -27,7 +27,7 @@ class CheckRatings(Spider):
             yield Request(last_link, callback=self.save_csv)
 
     def get_csv_date(self, url):
-        rule = re.compile('(Ratings-)(.*?)\.')
+        rule = re.compile('(Rating-)(.*?)\.')
         match = rule.search(url)
         print(match.group(2))
         if match:
