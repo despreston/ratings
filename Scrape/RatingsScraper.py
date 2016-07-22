@@ -27,7 +27,7 @@ class CheckRatings(Spider):
             yield Request(last_link, callback=self.save_csv)
 
     def get_csv_date(self, url):
-        rule = re.compile('(Rating-File-)(.*?)\.')
+        rule = re.compile('(Rating-)(.*?)\.')
         match = rule.search(url)
         print(match.group(2))
         if match:
