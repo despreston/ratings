@@ -8,7 +8,7 @@ describe('Ratings Service', function() {
 	describe('lookupPlayer', function() {
 		it('should return correctly formatted results for player: "desmond preston"', function(done) {
 			var expected =
-			'[{"Member ID":"73084","Last Name":"Preston","First Name":"Desmond","Rating":"2080","State":"NY","Zip":"2446","Gender":"M","Expiration Date":"4/30/2017","Last Played Date":"7/31/2016"}]';
+			'[{"Member ID":"73084","Last Name":"Preston","First Name":"Desmond","Rating":"2082","State":"NY","Zip":"2446","Gender":"M","Expiration Date":"4/30/2017","Last Played Date":"7/31/2016"}]';
 
    			request(baseUrl)
    				.get('findPlayer/Desmond%20Preston')
